@@ -1,11 +1,16 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+# =========================================================
+# 请务必修改下面两行，换成您自己的 GitHub 用户名和仓库名
+# 否则生成的 README 里的链接会跳转到别人的仓库去
+# =========================================================
+user_name: "liu-s-q19" 
+repo_name: "RL4LLM-arxiv-daily"
+
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 40 # 建议稍微调大一点，以免热门领域被截断
 
 publish_readme: True
 publish_gitpage: True
@@ -22,18 +27,24 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    # 1. 核心关注：最新的 RL 微调算法
+    # 这里包含了 DeepSeek-R1 核心的 GRPO 以及主流的 DPO/PPO
+    "LLM RL Algorithms": 
+        filters: ["Group Relative Policy Optimization", "GRPO", 
+                  "Direct Preference Optimization", "DPO", "DAPO"
+                  "Proximal Policy Optimization", "PPO",
+                  "SimPO", "KTO", "RLHF"]
+
+    # 2. 2025 热点：推理与可验证奖励 (System 2 / o1 / R1)
+    # 关注从结果奖励(Outcome)转向过程奖励(Process)的趋势
+    "Reasoning & RLVR":
+        filters: ["Process Reward", "Verifiable Reward", 
+                  "Outcome Reward", "Self-Correction", 
+                  "Chain of Thought", "System 2 Reasoning"]
+
+    # 3. 您的专业领域：自动驾驶与具身智能
+    # 关注 VLM/LLM 在自动驾驶决策规划中的应用
+    "RL for Auto-Driving":
+        filters: ["Vision Language Action", "VLA", 
+                  "End-to-end Driving", 
+                  "Autonomous Driving"]
