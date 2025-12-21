@@ -33,6 +33,7 @@ keywords:
       - "GRPO"
       - "DAPO"
       - "GSPO"
+      - "RLVR"
   # === 2. RL + LLM 的各种组合 (考虑缩写 RL 和全称) ===
       # 基准: Reinforcement Learning with LLMs
       - "Reinforcement Learning with LLM"
@@ -50,21 +51,47 @@ keywords:
       - "Reasoning with RL"
       - "LLM Reasoning with RL"
 
-
-  "Reasoning & RLVR":
+# 逻辑：必须体现 "RL/Reward" 与 "Reasoning/CoT" 的结合
+  "Reward & RLVR":
     filters:
-      - "Process Reward"
+      # --- 核心机制 (Process Reward 是 Reasoning RL 的标志) ---
+      - "Process Reward Model"
+      - "PRM for Reasoning"
       - "Verifiable Reward"
       - "Outcome Reward"
-      - "Self-Correction"
-      - "Chain of Thought"
-      - "System 2 Reasoning"
+      
+      # --- CoT + RL 的组合 (防止抓到单纯的 Prompting) ---
+      - "Reinforcement Learning for Chain of Thought"
+      - "RL for Chain of Thought"
+      - "RL for CoT"
+      - "Chain of Thought Optimization"
+      
+      # --- Self-Correction + RL 的组合 ---
+      - "Self-Correction with Reinforcement Learning"
+      - "Self-Correction with RL"
+      - "RL based Self-Correction"
+      
+      # --- System 2 + RL ---
+      - "System 2 Reasoning with RL"
+      - "System 2 RL"
 
-  "RL for Auto-Driving":
+  # 逻辑：必须体现 "LLM/VLM/RL" 与 "Driving/Embodied" 的结合
+  # 防止抓到：传统的 PID 控制、纯视觉检测、不含 AI 的机械控制
+  "RL & LLM for Auto-Driving":
     filters:
-      - "Vision Language Action"
-      - "VLA"
-      - "End-to-end Driving"
-      - "World Model"
-      - "Autonomous Driving"
-      - "Embodied AI"
+      # --- VLA / VLM 结合驾驶 ---
+      - "Vision Language Action for Driving"
+      - "VLA for Autonomous Driving"
+      - "VLM for Autonomous Driving"
+      - "Vision Language Model for Driving"
+      
+      # --- LLM 结合驾驶 ---
+      - "LLM for Autonomous Driving"
+      - "Large Language Model for Autonomous Driving"
+      - "Language-guided Driving Policy"
+      - "Language-conditioned Driving"
+      
+      # --- RL 结合驾驶 (端到端/世界模型) ---
+      - "Reinforcement Learning for Autonomous Driving"
+      - "RL for Autonomous Driving"
+      - "End-to-end RL for Driving"
