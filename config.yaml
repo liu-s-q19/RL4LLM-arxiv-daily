@@ -29,10 +29,6 @@ md_wechat_path: './docs/wechat.md'
 keywords:
   "LLM RL Algorithms":
     filters:
-      - "Group Relative Policy Optimization"
-      - "GRPO"
-      - "DAPO"
-      - "GSPO"
       - "RLVR"
   # === 2. RL + LLM 的各种组合 (考虑缩写 RL 和全称) ===
       # 基准: Reinforcement Learning with LLMs
