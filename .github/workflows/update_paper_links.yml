@@ -1,13 +1,13 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Update Paper Links Weekly
+name: Run Arxiv Papers Daily
 
 # Controls when the workflow will run
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 8 * * 1"  #Run At 08:00 on Monday
+    - cron:  "0 0 * * *"
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: Vincentqyw
-  GITHUB_USER_EMAIL: realcat@126.com
+  GITHUB_USER_NAME: liusq23
+  GITHUB_USER_EMAIL: lsq23@mails.tsinghua.edu.cn
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
