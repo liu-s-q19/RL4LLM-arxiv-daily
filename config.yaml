@@ -31,13 +31,25 @@ keywords:
     filters:
       - "Group Relative Policy Optimization"
       - "GRPO"
-      - "Direct Preference Optimization"
-      - "DPO"
-      - "Proximal Policy Optimization"
-      - "PPO"
-      - "SimPO"
-      - "KTO"
-      - "RLHF"
+      - "DAPO"
+      - "GSPO"
+  # === 2. RL + LLM 的各种组合 (考虑缩写 RL 和全称) ===
+      # 基准: Reinforcement Learning with LLMs
+      - "Reinforcement Learning with LLM"
+      - "Reinforcement Learning for LLM"
+      - "RL with LLM"
+      - "RL for LLM"
+      - "LLM Reinforcement Learning"
+      - "Large Language Model Reinforcement Learning"
+      
+      # === 3. RL + Reasoning 的各种组合 (推理能力的 RL) ===
+      # 基准: Reinforcement Learning for Reasoning Language Models / LLM Reasoning
+      - "Reinforcement Learning for Reasoning"
+      - "RL for Reasoning"
+      - "Reasoning with Reinforcement Learning"
+      - "Reasoning with RL"
+      - "LLM Reasoning with RL"
+
 
   "Reasoning & RLVR":
     filters:
