@@ -53,6 +53,7 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -60,7 +61,6 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
-import requests
 
 def get_code_link(qword:str) -> str:
     """
@@ -173,8 +173,6 @@ def update_paper_links(filename):
                 json_data[keywords][paper_id] = str(contents)
                 logging.info(f'paper_id = {paper_id}, contents = {contents}')
 
-                # PapersWithCode API is deprecated, skip code link updates
-                # Papers will keep their existing null code links
                 logging.info(f'Skipping code link update for paper_id = {paper_id} (PapersWithCode API deprecated)')
         # dump to json file
         with open(filename,"w") as f:
@@ -206,7 +204,8 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
 
-def json_to_md(filename,md_filename,
+def json_to_md(filename, md_filename, 
+               user_name, repo_name, # <--- Modified: Added user_name and repo_name params
                task = '',
                to_web = False,
                use_title = True,
@@ -253,15 +252,7 @@ def json_to_md(filename,md_filename,
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
-        # if show_badge == True:
-        #     f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-        #     f.write(f"[![Forks][forks-shield]][forks-url]\n")
-        #     f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-        #     f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
-
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
@@ -313,23 +304,23 @@ def json_to_md(filename,md_filename,
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
-            # we don't like long string, break it!
+            # Modified: Use dynamic user_name and repo_name
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+                     f"contributors/{user_name}/{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/{user_name}/"
+                     f"{repo_name}.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/{user_name}/"
+                     f"{repo_name}/issues\n\n"))
 
     logging.info(f"{task} finished")
 
@@ -344,6 +335,10 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    
+    # Modified: Get user_name and repo_name from config
+    user_name = config.get('user_name', 'liu-s-q19') # default fallback
+    repo_name = config.get('repo_name', 'RL4LLM-arxiv-daily')
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -352,7 +347,7 @@ def demo(**config):
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+                                              max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
@@ -369,8 +364,9 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+        # Modified: Pass user_name and repo_name
+        json_to_md(json_file, md_file, user_name, repo_name, 
+                   task ='Update Readme', show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -381,9 +377,11 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+        
+        # Modified: Pass user_name and repo_name
+        json_to_md(json_file, md_file, user_name, repo_name, 
+                   task ='Update GitPage', to_web = True, show_badge = show_badge, 
+                   use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -394,8 +392,10 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+        
+        # Modified: Pass user_name and repo_name
+        json_to_md(json_file, md_file, user_name, repo_name, 
+                   task ='Update Wechat', to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
