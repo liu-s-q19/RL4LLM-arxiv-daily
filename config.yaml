@@ -1,16 +1,15 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 # =========================================================
-# 请务必修改下面两行，换成您自己的 GitHub 用户名和仓库名
-# 否则生成的 README 里的链接会跳转到别人的仓库去
+# 请确保这里是您的用户名和仓库名
 # =========================================================
-user_name: "liu-s-q19" 
+user_name: "liu-s-q19"
 repo_name: "RL4LLM-arxiv-daily"
 
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 40 # 建议稍微调大一点，以免热门领域被截断
+max_results: 15
 
 publish_readme: True
 publish_gitpage: True
@@ -26,25 +25,34 @@ md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
+# 修改说明：使用了 - 符号列表格式，彻底解决 parsing error
 keywords:
-    # 1. 核心关注：最新的 RL 微调算法
-    # 这里包含了 DeepSeek-R1 核心的 GRPO 以及主流的 DPO/PPO
-    "LLM RL Algorithms": 
-        filters: ["Group Relative Policy Optimization", "GRPO", 
-                  "Direct Preference Optimization", "DPO", "DAPO"
-                  "Proximal Policy Optimization", "PPO",
-                  "SimPO", "KTO", "RLHF"]
+  "LLM RL Algorithms":
+    filters:
+      - "Group Relative Policy Optimization"
+      - "GRPO"
+      - "Direct Preference Optimization"
+      - "DPO"
+      - "Proximal Policy Optimization"
+      - "PPO"
+      - "SimPO"
+      - "KTO"
+      - "RLHF"
 
-    # 2. 2025 热点：推理与可验证奖励 (System 2 / o1 / R1)
-    # 关注从结果奖励(Outcome)转向过程奖励(Process)的趋势
-    "Reasoning & RLVR":
-        filters: ["Process Reward", "Verifiable Reward", 
-                  "Outcome Reward", "Self-Correction", 
-                  "Chain of Thought", "System 2 Reasoning"]
+  "Reasoning & RLVR":
+    filters:
+      - "Process Reward"
+      - "Verifiable Reward"
+      - "Outcome Reward"
+      - "Self-Correction"
+      - "Chain of Thought"
+      - "System 2 Reasoning"
 
-    # 3. 您的专业领域：自动驾驶与具身智能
-    # 关注 VLM/LLM 在自动驾驶决策规划中的应用
-    "RL for Auto-Driving":
-        filters: ["Vision Language Action", "VLA", 
-                  "End-to-end Driving", 
-                  "Autonomous Driving"]
+  "RL for Auto-Driving":
+    filters:
+      - "Vision Language Action"
+      - "VLA"
+      - "End-to-end Driving"
+      - "World Model"
+      - "Autonomous Driving"
+      - "Embodied AI"
