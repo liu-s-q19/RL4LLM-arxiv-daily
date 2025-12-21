@@ -9,49 +9,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward**|Peter Chen et.al.|[2512.16912](http://arxiv.org/abs/2512.16912)|null|
-|**2025-12-18**|**VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization**|Xiaoyan Cong et.al.|[2512.16906](http://arxiv.org/abs/2512.16906)|null|
-|**2025-12-18**|**RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing**|Tianyuan Qu et.al.|[2512.16864](http://arxiv.org/abs/2512.16864)|null|
-|**2025-12-18**|**OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models**|Zhenyu Wu et.al.|[2512.16295](http://arxiv.org/abs/2512.16295)|null|
-|**2025-12-18**|**Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation**|Sarosij Bose et.al.|[2512.16201](http://arxiv.org/abs/2512.16201)|null|
-|**2025-12-18**|**MRG-R1: Reinforcement Learning for Clinically Aligned Medical Report Generation**|Pengyu Wang et.al.|[2512.16145](http://arxiv.org/abs/2512.16145)|null|
 |**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
-|**2025-12-17**|**Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models**|Shiran Ge et.al.|[2512.15347](http://arxiv.org/abs/2512.15347)|null|
 |**2025-12-17**|**Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning**|Yiliu Sun et.al.|[2512.15274](http://arxiv.org/abs/2512.15274)|null|
 |**2025-12-18**|**Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning**|Weiqin Wang et.al.|[2512.15146](http://arxiv.org/abs/2512.15146)|null|
 |**2025-12-16**|**Puzzle Curriculum GRPO for Vision-Centric Reasoning**|Ahmadreza Jeddi et.al.|[2512.14944](http://arxiv.org/abs/2512.14944)|null|
 |**2025-12-16**|**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**|Jun Zhang et.al.|[2512.14698](http://arxiv.org/abs/2512.14698)|null|
-|**2025-12-16**|**GLM-TTS Technical Report**|Jiayan Cui et.al.|[2512.14291](http://arxiv.org/abs/2512.14291)|null|
-|**2025-12-16**|**Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in**|Xiaoqian Shen et.al.|[2512.14273](http://arxiv.org/abs/2512.14273)|null|
 |**2025-12-15**|**SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning**|Jitesh Jain et.al.|[2512.13874](http://arxiv.org/abs/2512.13874)|null|
+|**2025-12-15**|**A Scientific Reasoning Model for Organic Synthesis Procedure Generation**|Guoqing Liu et.al.|[2512.13668](http://arxiv.org/abs/2512.13668)|null|
+|**2025-12-15**|**Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models**|Boxin Wang et.al.|[2512.13607](http://arxiv.org/abs/2512.13607)|null|
+|**2025-12-15**|**TraPO: A Semi-Supervised Reinforcement Learning Framework for Boosting LLM Reasoning**|Shenzhi Yang et.al.|[2512.13106](http://arxiv.org/abs/2512.13106)|null|
 |**2025-12-15**|**LLM-based Personalized Portfolio Recommender: Integrating Large Language Models and Reinforcement Learning for Intelligent Investment Strategy Optimization**|Bangyu Li et.al.|[2512.12922](http://arxiv.org/abs/2512.12922)|null|
 |**2025-12-15**|**Meta-GPT: Decoding the Metasurface Genome with Generative Artificial Intelligence**|David Dang et.al.|[2512.12888](http://arxiv.org/abs/2512.12888)|null|
+|**2025-12-13**|**More Than the Final Answer: Improving Visual Extraction and Logical Consistency in Vision-Language Models**|Hoang Anh Just et.al.|[2512.12487](http://arxiv.org/abs/2512.12487)|null|
 |**2025-12-13**|**HetRL: Efficient Reinforcement Learning for LLMs in Heterogeneous Environments**|Yongjun He et.al.|[2512.12476](http://arxiv.org/abs/2512.12476)|null|
 |**2025-12-11**|**Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation**|Yiwen Tang et.al.|[2512.10949](http://arxiv.org/abs/2512.10949)|null|
+|**2025-12-11**|**OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification**|Zijian Wu et.al.|[2512.10756](http://arxiv.org/abs/2512.10756)|null|
+|**2025-12-12**|**Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving**|Songyang Gao et.al.|[2512.10739](http://arxiv.org/abs/2512.10739)|null|
 |**2025-12-10**|**RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning**|Yucan Guo et.al.|[2512.09487](http://arxiv.org/abs/2512.09487)|null|
 |**2025-12-09**|**No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers**|Damiano Marsili et.al.|[2512.08889](http://arxiv.org/abs/2512.08889)|null|
 |**2025-12-08**|**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**|Charlie Zhang et.al.|[2512.07783](http://arxiv.org/abs/2512.07783)|null|
 |**2025-12-08**|**Comparative Analysis and Parametric Tuning of PPO, GRPO, and DAPO for LLM Reasoning Enhancement**|Yongsheng Lian et.al.|[2512.07611](http://arxiv.org/abs/2512.07611)|null|
+|**2025-12-08**|**ReLaX: Reasoning with Latent Exploration for Large Reasoning Models**|Shimin Zhang et.al.|[2512.07558](http://arxiv.org/abs/2512.07558)|null|
 |**2025-12-07**|**Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning**|Tingyu Li et.al.|[2512.06835](http://arxiv.org/abs/2512.06835)|null|
 |**2025-12-04**|**Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning**|Dongchao Yang et.al.|[2512.03783](http://arxiv.org/abs/2512.03783)|null|
 |**2025-12-08**|**Multi-Path Collaborative Reasoning via Reinforcement Learning**|Jindi Lv et.al.|[2512.01485](http://arxiv.org/abs/2512.01485)|null|
-|**2025-12-03**|**Stabilizing Reinforcement Learning with LLMs: Formulation and Practices**|Chujie Zheng et.al.|[2512.01374](http://arxiv.org/abs/2512.01374)|null|
 |**2025-12-09**|**ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning**|Yuchen Zeng et.al.|[2512.00831](http://arxiv.org/abs/2512.00831)|null|
 |**2025-11-29**|**ESPO: Entropy Importance Sampling Policy Optimization**|Yuepeng Sheng et.al.|[2512.00499](http://arxiv.org/abs/2512.00499)|null|
-|**2025-11-27**|**NetDeTox: Adversarial and Efficient Evasion of Hardware-Security GNNs via RL-LLM Orchestration**|Zeng Wang et.al.|[2512.00119](http://arxiv.org/abs/2512.00119)|null|
 |**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
 |**2025-11-27**|**DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning**|Zhihong Shao et.al.|[2511.22570](http://arxiv.org/abs/2511.22570)|null|
-|**2025-11-26**|**Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**|Alex Ning et.al.|[2511.21581](http://arxiv.org/abs/2511.21581)|null|
-|**2025-11-25**|**DRAFT-RL: Multi-Agent Chain-of-Draft Reasoning for Reinforcement Learning-Enhanced LLMs**|Yuanhao Li et.al.|[2511.20468](http://arxiv.org/abs/2511.20468)|null|
-|**2025-12-01**|**Learning Robust Social Strategies with Large Language Models**|Dereck Piche et.al.|[2511.19405](http://arxiv.org/abs/2511.19405)|null|
-|**2025-11-19**|**From Solving to Verifying: A Unified Objective for Robust Reasoning in LLMs**|Xiaoxuan Wang et.al.|[2511.15137](http://arxiv.org/abs/2511.15137)|null|
-|**2025-11-23**|**Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning**|Ruoyu Qin et.al.|[2511.14617](http://arxiv.org/abs/2511.14617)|null|
-|**2025-11-18**|**Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning**|Mingyue Cheng et.al.|[2511.14460](http://arxiv.org/abs/2511.14460)|null|
-|**2025-11-16**|**Are LLMs The Way Forward? A Case Study on LLM-Guided Reinforcement Learning for Decentralized Autonomous Driving**|Timur Anvar et.al.|[2511.12751](http://arxiv.org/abs/2511.12751)|null|
-|**2025-11-18**|**VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization**|Youpeng Li et.al.|[2511.11896](http://arxiv.org/abs/2511.11896)|null|
-|**2025-11-12**|**ConstrainedSQL: Training LLMs for Text2SQL via Constrained Reinforcement Learning**|Weiqin Chen et.al.|[2511.09693](http://arxiv.org/abs/2511.09693)|null|
-|**2025-11-12**|**Advancing Autonomous Emergency Response Systems: A Generative AI Perspective**|Yousef Emami et.al.|[2511.09044](http://arxiv.org/abs/2511.09044)|null|
+|**2025-10-27**|**The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination**|Chenlong Yin et.al.|[2510.22977](http://arxiv.org/abs/2510.22977)|null|
+|**2025-10-29**|**NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation**|Longtian Qiu et.al.|[2510.21122](http://arxiv.org/abs/2510.21122)|null|
+|**2025-10-20**|**Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains**|Soumya Rani Samineni et.al.|[2510.18176](http://arxiv.org/abs/2510.18176)|null|
+|**2025-10-17**|**The Road Less Traveled: Enhancing Exploration in LLMs via Sequential Sampling**|Shijia Kang et.al.|[2510.15502](http://arxiv.org/abs/2510.15502)|null|
+|**2025-10-09**|**Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization**|Yuchen Zhu et.al.|[2510.08233](http://arxiv.org/abs/2510.08233)|null|
+|**2025-10-06**|**Reinforcement Learning for Clinical Reasoning: Aligning LLMs with ACR Imaging Appropriateness Criteria**|Anni Tziakouri et.al.|[2510.05194](http://arxiv.org/abs/2510.05194)|null|
+|**2025-10-01**|**Prompt Curriculum Learning for Efficient LLM Post-Training**|Zhaolin Gao et.al.|[2510.01135](http://arxiv.org/abs/2510.01135)|null|
+|**2025-10-14**|**GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning**|Mustansar Fiaz et.al.|[2509.25026](http://arxiv.org/abs/2509.25026)|null|
+|**2025-09-26**|**No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM Reinforcement Learning via Entropy-Guided Advantage Shaping**|Thanh-Long V. Le et.al.|[2509.21880](http://arxiv.org/abs/2509.21880)|null|
+|**2025-09-11**|**MR-UIE: Multi-Perspective Reasoning with Reinforcement Learning for Universal Information Extraction**|Zhongqiu Li et.al.|[2509.09082](http://arxiv.org/abs/2509.09082)|null|
+|**2025-11-20**|**PepThink-R1: LLM for Interpretable Cyclic Peptide Optimization with CoT SFT and Reinforcement Learning**|Ruheng Wang et.al.|[2508.14765](http://arxiv.org/abs/2508.14765)|null|
+|**2025-08-21**|**ThinkTuning: Instilling Cognitive Reflections without Distillation**|Aswin RRV et.al.|[2508.07616](http://arxiv.org/abs/2508.07616)|null|
+|**2025-09-26**|**From Roots to Rewards: Dynamic Tree Reasoning with Reinforcement Learning**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
+|**2025-07-10**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905](http://arxiv.org/abs/2506.07905)|null|
 
 ## Reward & RLVR
 
