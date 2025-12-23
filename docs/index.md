@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs**|Rujiao Long et.al.|[2512.17206](http://arxiv.org/abs/2512.17206)|null|
+|**2025-12-18**|**UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering**|Yinxu Tang et.al.|[2512.17043](http://arxiv.org/abs/2512.17043)|null|
 |**2025-12-18**|**Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward**|Peter Chen et.al.|[2512.16912](http://arxiv.org/abs/2512.16912)|null|
 |**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
 |**2025-12-17**|**Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning**|Yiliu Sun et.al.|[2512.15274](http://arxiv.org/abs/2512.15274)|null|
@@ -58,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**AutoMetrics: Approximate Human Judgements with Automatically Generated Evaluators**|Michael J. Ryan et.al.|[2512.17267](http://arxiv.org/abs/2512.17267)|null|
 |**2025-12-18**|**AdaTooler-V: Adaptive Tool-Use for Images and Videos**|Chaoyang Wang et.al.|[2512.16918](http://arxiv.org/abs/2512.16918)|null|
 |**2025-12-18**|**Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward**|Peter Chen et.al.|[2512.16912](http://arxiv.org/abs/2512.16912)|null|
 |**2025-12-17**|**Well Begun, Half Done: Reinforcement Learning with Prefix Optimization for LLM Reasoning**|Yiliu Sun et.al.|[2512.15274](http://arxiv.org/abs/2512.15274)|null|
