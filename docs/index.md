@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning**|Saisai Yang et.al.|[2512.20312](http://arxiv.org/abs/2512.20312)|null|
+|**2025-12-22**|**Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning**|Jiayun Wu et.al.|[2512.19920](http://arxiv.org/abs/2512.19920)|null|
 |**2025-12-22**|**CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal**|Yongxin Wang et.al.|[2512.19554](http://arxiv.org/abs/2512.19554)|null|
 |**2025-12-21**|**CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning**|Zijun Gao et.al.|[2512.18857](http://arxiv.org/abs/2512.18857)|null|
 |**2025-12-21**|**A Theoretical Lens for RL-Tuned Language Models via Energy-Based Models**|Zhiquan Tan et.al.|[2512.18730](http://arxiv.org/abs/2512.18730)|null|
@@ -65,8 +67,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Scaling Reinforcement Learning for Content Moderation with Large Language Models**|Hamed Firooz et.al.|[2512.20061](http://arxiv.org/abs/2512.20061)|null|
 |**2025-12-22**|**CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal**|Yongxin Wang et.al.|[2512.19554](http://arxiv.org/abs/2512.19554)|null|
-|**2025-12-22**|**AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards**|Zihan Lin et.al.|[2512.19126](http://arxiv.org/abs/2512.19126)|null|
+|**2025-12-23**|**AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards**|Zihan Lin et.al.|[2512.19126](http://arxiv.org/abs/2512.19126)|null|
 |**2025-12-21**|**CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning**|Zijun Gao et.al.|[2512.18857](http://arxiv.org/abs/2512.18857)|null|
 |**2025-12-21**|**A Theoretical Lens for RL-Tuned Language Models via Energy-Based Models**|Zhiquan Tan et.al.|[2512.18730](http://arxiv.org/abs/2512.18730)|null|
 |**2025-12-20**|**Stable and Efficient Single-Rollout RL for Multimodal Reasoning**|Rui Liu et.al.|[2512.18215](http://arxiv.org/abs/2512.18215)|null|
