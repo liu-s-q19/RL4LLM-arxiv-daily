@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**NVIDIA Nemotron 3: Efficient and Open Intelligence**|NVIDIA et.al.|[2512.20856](http://arxiv.org/abs/2512.20856)|null|
+|**2025-12-23**|**Generalization of RLVR Using Causal Reasoning as a Testbed**|Brian Lu et.al.|[2512.20760](http://arxiv.org/abs/2512.20760)|null|
 |**2025-12-23**|**TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning**|Saisai Yang et.al.|[2512.20312](http://arxiv.org/abs/2512.20312)|null|
 |**2025-12-22**|**Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning**|Jiayun Wu et.al.|[2512.19920](http://arxiv.org/abs/2512.19920)|null|
 |**2025-12-22**|**CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal**|Yongxin Wang et.al.|[2512.19554](http://arxiv.org/abs/2512.19554)|null|
@@ -74,6 +76,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents**|Zan-Kai Chong et.al.|[2512.20884](http://arxiv.org/abs/2512.20884)|null|
+|**2025-12-23**|**Generalization of RLVR Using Causal Reasoning as a Testbed**|Brian Lu et.al.|[2512.20760](http://arxiv.org/abs/2512.20760)|null|
 |**2025-12-23**|**Scaling Reinforcement Learning for Content Moderation with Large Language Models**|Hamed Firooz et.al.|[2512.20061](http://arxiv.org/abs/2512.20061)|null|
 |**2025-12-22**|**CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal**|Yongxin Wang et.al.|[2512.19554](http://arxiv.org/abs/2512.19554)|null|
 |**2025-12-23**|**AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards**|Zihan Lin et.al.|[2512.19126](http://arxiv.org/abs/2512.19126)|null|
