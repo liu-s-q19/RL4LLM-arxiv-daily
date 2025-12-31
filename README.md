@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning**|Zuoyou Jiang et.al.|[2512.23515](http://arxiv.org/abs/2512.23515)|null|
+|**2025-12-29**|**Evaluating Parameter Efficient Methods for RLVR**|Qingyu Yin et.al.|[2512.23165](http://arxiv.org/abs/2512.23165)|null|
+|**2025-12-28**|**Taming the Tail: Stable LLM Reinforcement Learning via Dynamic Vocabulary Pruning**|Yingru Li et.al.|[2512.23087](http://arxiv.org/abs/2512.23087)|null|
+|**2025-12-28**|**Trust Region Masking for Long-Horizon LLM Reinforcement Learning**|Yingru Li et.al.|[2512.23075](http://arxiv.org/abs/2512.23075)|null|
+|**2025-12-19**|**Unbiased Visual Reasoning with Controlled Visual Inputs**|Zhaonan Li et.al.|[2512.22183](http://arxiv.org/abs/2512.22183)|null|
 |**2025-12-25**|**Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards**|Xinyu Tang et.al.|[2512.21625](http://arxiv.org/abs/2512.21625)|null|
 |**2025-12-24**|**NVIDIA Nemotron 3: Efficient and Open Intelligence**|NVIDIA et.al.|[2512.20856](http://arxiv.org/abs/2512.20856)|null|
 |**2025-12-23**|**Generalization of RLVR Using Causal Reasoning as a Testbed**|Brian Lu et.al.|[2512.20760](http://arxiv.org/abs/2512.20760)|null|
@@ -63,7 +68,7 @@
 |**2025-10-06**|**Reinforcement Learning for Clinical Reasoning: Aligning LLMs with ACR Imaging Appropriateness Criteria**|Anni Tziakouri et.al.|[2510.05194](http://arxiv.org/abs/2510.05194)|null|
 |**2025-10-01**|**Prompt Curriculum Learning for Efficient LLM Post-Training**|Zhaolin Gao et.al.|[2510.01135](http://arxiv.org/abs/2510.01135)|null|
 |**2025-10-14**|**GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning**|Mustansar Fiaz et.al.|[2509.25026](http://arxiv.org/abs/2509.25026)|null|
-|**2025-09-26**|**No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM Reinforcement Learning via Entropy-Guided Advantage Shaping**|Thanh-Long V. Le et.al.|[2509.21880](http://arxiv.org/abs/2509.21880)|null|
+|**2025-12-27**|**No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM Reinforcement Learning via Entropy-Guided Advantage Shaping**|Thanh-Long V. Le et.al.|[2509.21880](http://arxiv.org/abs/2509.21880)|null|
 |**2025-09-11**|**MR-UIE: Multi-Perspective Reasoning with Reinforcement Learning for Universal Information Extraction**|Zhongqiu Li et.al.|[2509.09082](http://arxiv.org/abs/2509.09082)|null|
 |**2025-11-20**|**PepThink-R1: LLM for Interpretable Cyclic Peptide Optimization with CoT SFT and Reinforcement Learning**|Ruheng Wang et.al.|[2508.14765](http://arxiv.org/abs/2508.14765)|null|
 |**2025-08-21**|**ThinkTuning: Instilling Cognitive Reflections without Distillation**|Aswin RRV et.al.|[2508.07616](http://arxiv.org/abs/2508.07616)|null|
@@ -77,6 +82,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Huajie Tan et.al.|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
+|**2025-12-29**|**Evaluating Parameter Efficient Methods for RLVR**|Qingyu Yin et.al.|[2512.23165](http://arxiv.org/abs/2512.23165)|null|
+|**2025-12-27**|**Scaling Unverifiable Rewards: A Case Study on Visual Insights**|Shuyu Gan et.al.|[2512.22650](http://arxiv.org/abs/2512.22650)|null|
 |**2025-12-25**|**Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards**|Xinyu Tang et.al.|[2512.21625](http://arxiv.org/abs/2512.21625)|null|
 |**2025-12-24**|**dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning**|Shirui Chen et.al.|[2512.21446](http://arxiv.org/abs/2512.21446)|null|
 |**2025-12-24**|**The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents**|Zan-Kai Chong et.al.|[2512.20884](http://arxiv.org/abs/2512.20884)|null|
@@ -136,7 +144,7 @@
 |**2025-11-09**|**AdaDrive: Self-Adaptive Slow-Fast System for Language-Grounded Autonomous Driving**|Ruifei Zhang et.al.|[2511.06253](http://arxiv.org/abs/2511.06253)|null|
 |**2025-10-28**|**Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning**|Aodi Wu et.al.|[2510.24152](http://arxiv.org/abs/2510.24152)|null|
 |**2025-10-06**|**More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models**|Xurui Song et.al.|[2510.04532](http://arxiv.org/abs/2510.04532)|null|
-|**2025-09-29**|**FuncPoison: Poisoning Function Library to Hijack Multi-agent Autonomous Driving Systems**|Yuzhen Long et.al.|[2509.24408](http://arxiv.org/abs/2509.24408)|null|
+|**2025-12-29**|**FuncPoison: Poisoning Function Library to Hijack Multi-agent Autonomous Driving Systems**|Yuzhen Long et.al.|[2509.24408](http://arxiv.org/abs/2509.24408)|null|
 |**2025-09-17**|**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**|Yuechen Luo et.al.|[2509.13769](http://arxiv.org/abs/2509.13769)|null|
 |**2025-09-10**|**A Comprehensive Review of Reinforcement Learning for Autonomous Driving in the CARLA Simulator**|Elahe Delavari et.al.|[2509.08221](http://arxiv.org/abs/2509.08221)|null|
 |**2025-08-18**|**Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving**|Minhao Xiong et.al.|[2508.13305](http://arxiv.org/abs/2508.13305)|null|
