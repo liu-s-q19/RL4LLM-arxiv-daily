@@ -14,8 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
+|**2025-12-31**|**Reinforcement Learning-Augmented LLM Agents for Collaborative Decision Making and Performance Optimization**|Dong Qiu et.al.|[2512.24609](http://arxiv.org/abs/2512.24609)|null|
 |**2025-12-29**|**Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning**|Zuoyou Jiang et.al.|[2512.23515](http://arxiv.org/abs/2512.23515)|null|
-|**2025-12-29**|**Evaluating Parameter Efficient Methods for RLVR**|Qingyu Yin et.al.|[2512.23165](http://arxiv.org/abs/2512.23165)|null|
+|**2025-12-30**|**Evaluating Parameter Efficient Methods for RLVR**|Qingyu Yin et.al.|[2512.23165](http://arxiv.org/abs/2512.23165)|null|
 |**2025-12-28**|**Taming the Tail: Stable LLM Reinforcement Learning via Dynamic Vocabulary Pruning**|Yingru Li et.al.|[2512.23087](http://arxiv.org/abs/2512.23087)|null|
 |**2025-12-28**|**Trust Region Masking for Long-Horizon LLM Reinforcement Learning**|Yingru Li et.al.|[2512.23075](http://arxiv.org/abs/2512.23075)|null|
 |**2025-12-19**|**Unbiased Visual Reasoning with Controlled Visual Inputs**|Zhaonan Li et.al.|[2512.22183](http://arxiv.org/abs/2512.22183)|null|
@@ -82,8 +84,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
+|**2025-12-28**|**Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory**|Ken Huang et.al.|[2512.23760](http://arxiv.org/abs/2512.23760)|null|
 |**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Huajie Tan et.al.|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
-|**2025-12-29**|**Evaluating Parameter Efficient Methods for RLVR**|Qingyu Yin et.al.|[2512.23165](http://arxiv.org/abs/2512.23165)|null|
+|**2025-12-30**|**Evaluating Parameter Efficient Methods for RLVR**|Qingyu Yin et.al.|[2512.23165](http://arxiv.org/abs/2512.23165)|null|
 |**2025-12-27**|**Scaling Unverifiable Rewards: A Case Study on Visual Insights**|Shuyu Gan et.al.|[2512.22650](http://arxiv.org/abs/2512.22650)|null|
 |**2025-12-25**|**Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards**|Xinyu Tang et.al.|[2512.21625](http://arxiv.org/abs/2512.21625)|null|
 |**2025-12-24**|**dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning**|Shirui Chen et.al.|[2512.21446](http://arxiv.org/abs/2512.21446)|null|
