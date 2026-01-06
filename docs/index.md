@@ -15,6 +15,7 @@ layout: default
 |**2025-12-30**|**Evaluating Parameter Efficient Methods for RLVR**|Qingyu Yin et.al.|[2512.23165](http://arxiv.org/abs/2512.23165)|null|
 |**2025-12-28**|**Taming the Tail: Stable LLM Reinforcement Learning via Dynamic Vocabulary Pruning**|Yingru Li et.al.|[2512.23087](http://arxiv.org/abs/2512.23087)|null|
 |**2025-12-28**|**Trust Region Masking for Long-Horizon LLM Reinforcement Learning**|Yingru Li et.al.|[2512.23075](http://arxiv.org/abs/2512.23075)|null|
+|**2025-12-31**|**Memento 2: Learning by Stateful Reflective Memory**|Jun Wang et.al.|[2512.22716](http://arxiv.org/abs/2512.22716)|null|
 |**2025-12-19**|**Unbiased Visual Reasoning with Controlled Visual Inputs**|Zhaonan Li et.al.|[2512.22183](http://arxiv.org/abs/2512.22183)|null|
 |**2025-12-25**|**Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards**|Xinyu Tang et.al.|[2512.21625](http://arxiv.org/abs/2512.21625)|null|
 |**2025-12-24**|**NVIDIA Nemotron 3: Efficient and Open Intelligence**|NVIDIA et.al.|[2512.20856](http://arxiv.org/abs/2512.20856)|null|
