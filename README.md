@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**GDRO: Group-level Reward Post-training Suitable for Diffusion Models**|Yiyang Wang et.al.|[2601.02036](http://arxiv.org/abs/2601.02036)|null|
+|**2026-01-04**|**The Two-Stage Decision-Sampling Hypothesis: Understanding the Emergence of Self-Reflection in RL-Trained LLMs**|Zibo Zhao et.al.|[2601.01580](http://arxiv.org/abs/2601.01580)|null|
 |**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
 |**2025-12-31**|**Reinforcement Learning-Augmented LLM Agents for Collaborative Decision Making and Performance Optimization**|Dong Qiu et.al.|[2512.24609](http://arxiv.org/abs/2512.24609)|null|
 |**2025-12-29**|**Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning**|Zuoyou Jiang et.al.|[2512.23515](http://arxiv.org/abs/2512.23515)|null|
