@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Step Potential Advantage Estimation: Harnessing Intermediate Confidence and Correctness for Efficient Mathematical Reasoning**|Fei Wu et.al.|[2601.03823](http://arxiv.org/abs/2601.03823)|null|
+|**2026-01-07**|**ETR: Outcome-Guided Elastic Trust Regions for Policy Optimization**|Shijie Zhang et.al.|[2601.03723](http://arxiv.org/abs/2601.03723)|null|
+|**2026-01-06**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
+|**2026-01-06**|**Ratio-Variance Regularized Policy Optimization for Efficient LLM Fine-tuning**|Yu Luo et.al.|[2601.03320](http://arxiv.org/abs/2601.03320)|null|
 |**2026-01-06**|**UltraLogic: Enhancing LLM Reasoning through Large-Scale Data Synthesis and Bipolar Float Reward**|Yile Liu et.al.|[2601.03205](http://arxiv.org/abs/2601.03205)|null|
 |**2026-01-06**|**One Sample to Rule Them All: Extreme Data Efficiency in RL Scaling**|Yiyuan Li et.al.|[2601.03111](http://arxiv.org/abs/2601.03111)|null|
 |**2026-01-05**|**GDRO: Group-level Reward Post-training Suitable for Diffusion Models**|Yiyang Wang et.al.|[2601.02036](http://arxiv.org/abs/2601.02036)|null|
@@ -89,6 +93,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Anti-Length Shift: Dynamic Outlier Truncation for Training Efficient Reasoning Models**|Wei Wu et.al.|[2601.03969](http://arxiv.org/abs/2601.03969)|null|
+|**2026-01-07**|**Trade-R1: Bridging Verifiable Rewards to Stochastic Environments via Process-Level Reasoning Verification**|Rui Sun et.al.|[2601.03948](http://arxiv.org/abs/2601.03948)|null|
+|**2026-01-07**|**Step Potential Advantage Estimation: Harnessing Intermediate Confidence and Correctness for Efficient Mathematical Reasoning**|Fei Wu et.al.|[2601.03823](http://arxiv.org/abs/2601.03823)|null|
+|**2026-01-07**|**ETR: Outcome-Guided Elastic Trust Regions for Policy Optimization**|Shijie Zhang et.al.|[2601.03723](http://arxiv.org/abs/2601.03723)|null|
+|**2026-01-07**|**VeRPO: Verifiable Dense Reward Policy Optimization for Code Generation**|Longwen Wang et.al.|[2601.03525](http://arxiv.org/abs/2601.03525)|null|
 |**2026-01-06**|**UltraLogic: Enhancing LLM Reasoning through Large-Scale Data Synthesis and Bipolar Float Reward**|Yile Liu et.al.|[2601.03205](http://arxiv.org/abs/2601.03205)|null|
 |**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063](http://arxiv.org/abs/2512.25063)|null|
 |**2025-12-28**|**Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory**|Ken Huang et.al.|[2512.23760](http://arxiv.org/abs/2512.23760)|null|
