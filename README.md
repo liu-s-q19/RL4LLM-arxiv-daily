@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|null|
+|**2026-01-08**|**Character-R1: Enhancing Role-Aware Reasoning in Role-Playing Agents via RLVR**|Yihong Tang et.al.|[2601.04611](http://arxiv.org/abs/2601.04611)|null|
+|**2026-01-08**|**Not All Steps are Informative: On the Linearity of LLMs' RLVR Training**|Tianle Wang et.al.|[2601.04537](http://arxiv.org/abs/2601.04537)|null|
+|**2026-01-07**|**Rate or Fate? RLV $^\varepsilon$ R: Reinforcement Learning with Verifiable Noisy Rewards**|Ali Rad et.al.|[2601.04411](http://arxiv.org/abs/2601.04411)|null|
 |**2026-01-07**|**Step Potential Advantage Estimation: Harnessing Intermediate Confidence and Correctness for Efficient Mathematical Reasoning**|Fei Wu et.al.|[2601.03823](http://arxiv.org/abs/2601.03823)|null|
 |**2026-01-07**|**ETR: Outcome-Guided Elastic Trust Regions for Policy Optimization**|Shijie Zhang et.al.|[2601.03723](http://arxiv.org/abs/2601.03723)|null|
 |**2026-01-06**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
@@ -93,8 +97,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice**|Shuming Liu et.al.|[2601.05175](http://arxiv.org/abs/2601.05175)|null|
+|**2026-01-08**|**Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward**|Jianlong Chen et.al.|[2601.05073](http://arxiv.org/abs/2601.05073)|null|
+|**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|null|
+|**2026-01-08**|**Precision over Diversity: High-Precision Reward Generalizes to Robust Instruction Following**|Yirong Zeng et.al.|[2601.04954](http://arxiv.org/abs/2601.04954)|null|
+|**2026-01-08**|**Miner:Mining Intrinsic Mastery for Data-Efficient RL in Large Reasoning Models**|Shuyang Jiang et.al.|[2601.04731](http://arxiv.org/abs/2601.04731)|null|
+|**2026-01-08**|**PRISM: A Unified Framework for Post-Training LLMs Without Verifiable Rewards**|Mukesh Ghimire et.al.|[2601.04700](http://arxiv.org/abs/2601.04700)|null|
+|**2026-01-08**|**PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations**|Chengcheng Guo et.al.|[2601.04674](http://arxiv.org/abs/2601.04674)|null|
+|**2026-01-08**|**Character-R1: Enhancing Role-Aware Reasoning in Role-Playing Agents via RLVR**|Yihong Tang et.al.|[2601.04611](http://arxiv.org/abs/2601.04611)|null|
+|**2026-01-08**|**Not All Steps are Informative: On the Linearity of LLMs' RLVR Training**|Tianle Wang et.al.|[2601.04537](http://arxiv.org/abs/2601.04537)|null|
+|**2026-01-07**|**Rate or Fate? RLV $^\varepsilon$ R: Reinforcement Learning with Verifiable Noisy Rewards**|Ali Rad et.al.|[2601.04411](http://arxiv.org/abs/2601.04411)|null|
 |**2026-01-07**|**Anti-Length Shift: Dynamic Outlier Truncation for Training Efficient Reasoning Models**|Wei Wu et.al.|[2601.03969](http://arxiv.org/abs/2601.03969)|null|
-|**2026-01-07**|**Trade-R1: Bridging Verifiable Rewards to Stochastic Environments via Process-Level Reasoning Verification**|Rui Sun et.al.|[2601.03948](http://arxiv.org/abs/2601.03948)|null|
+|**2026-01-08**|**Trade-R1: Bridging Verifiable Rewards to Stochastic Environments via Process-Level Reasoning Verification**|Rui Sun et.al.|[2601.03948](http://arxiv.org/abs/2601.03948)|null|
 |**2026-01-07**|**Step Potential Advantage Estimation: Harnessing Intermediate Confidence and Correctness for Efficient Mathematical Reasoning**|Fei Wu et.al.|[2601.03823](http://arxiv.org/abs/2601.03823)|null|
 |**2026-01-07**|**ETR: Outcome-Guided Elastic Trust Regions for Policy Optimization**|Shijie Zhang et.al.|[2601.03723](http://arxiv.org/abs/2601.03723)|null|
 |**2026-01-07**|**VeRPO: Verifiable Dense Reward Policy Optimization for Code Generation**|Longwen Wang et.al.|[2601.03525](http://arxiv.org/abs/2601.03525)|null|
