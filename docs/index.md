@@ -9,13 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck**|Huilin Deng et.al.|[2601.05870](http://arxiv.org/abs/2601.05870)|null|
+|**2026-01-09**|**From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**|Zezhou Wang et.al.|[2601.05787](http://arxiv.org/abs/2601.05787)|null|
+|**2026-01-09**|**Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR**|Zijun Min et.al.|[2601.05607](http://arxiv.org/abs/2601.05607)|null|
+|**2026-01-09**|**Do LLMs Need Inherent Reasoning Before Reinforcement Learning? A Study in Korean Self-Correction**|Hongjin Kim et.al.|[2601.05459](http://arxiv.org/abs/2601.05459)|null|
 |**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|null|
 |**2026-01-08**|**Character-R1: Enhancing Role-Aware Reasoning in Role-Playing Agents via RLVR**|Yihong Tang et.al.|[2601.04611](http://arxiv.org/abs/2601.04611)|null|
 |**2026-01-08**|**Not All Steps are Informative: On the Linearity of LLMs' RLVR Training**|Tianle Wang et.al.|[2601.04537](http://arxiv.org/abs/2601.04537)|null|
 |**2026-01-07**|**Rate or Fate? RLV $^\varepsilon$ R: Reinforcement Learning with Verifiable Noisy Rewards**|Ali Rad et.al.|[2601.04411](http://arxiv.org/abs/2601.04411)|null|
 |**2026-01-07**|**Step Potential Advantage Estimation: Harnessing Intermediate Confidence and Correctness for Efficient Mathematical Reasoning**|Fei Wu et.al.|[2601.03823](http://arxiv.org/abs/2601.03823)|null|
 |**2026-01-07**|**ETR: Outcome-Guided Elastic Trust Regions for Policy Optimization**|Shijie Zhang et.al.|[2601.03723](http://arxiv.org/abs/2601.03723)|null|
-|**2026-01-06**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
+|**2026-01-09**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
 |**2026-01-06**|**Ratio-Variance Regularized Policy Optimization for Efficient LLM Fine-tuning**|Yu Luo et.al.|[2601.03320](http://arxiv.org/abs/2601.03320)|null|
 |**2026-01-06**|**UltraLogic: Enhancing LLM Reasoning through Large-Scale Data Synthesis and Bipolar Float Reward**|Yile Liu et.al.|[2601.03205](http://arxiv.org/abs/2601.03205)|null|
 |**2026-01-06**|**One Sample to Rule Them All: Extreme Data Efficiency in RL Scaling**|Yiyuan Li et.al.|[2601.03111](http://arxiv.org/abs/2601.03111)|null|
@@ -90,6 +94,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**|Jiajie Zhang et.al.|[2601.06021](http://arxiv.org/abs/2601.06021)|null|
+|**2026-01-09**|**IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck**|Huilin Deng et.al.|[2601.05870](http://arxiv.org/abs/2601.05870)|null|
+|**2026-01-09**|**From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**|Zezhou Wang et.al.|[2601.05787](http://arxiv.org/abs/2601.05787)|null|
+|**2026-01-09**|**SketchVL: Policy Optimization via Fine-Grained Credit Assignment for Chart Understanding and More**|Muye Huang et.al.|[2601.05688](http://arxiv.org/abs/2601.05688)|null|
+|**2026-01-09**|**Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR**|Zijun Min et.al.|[2601.05607](http://arxiv.org/abs/2601.05607)|null|
 |**2026-01-08**|**VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice**|Shuming Liu et.al.|[2601.05175](http://arxiv.org/abs/2601.05175)|null|
 |**2026-01-08**|**Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward**|Jianlong Chen et.al.|[2601.05073](http://arxiv.org/abs/2601.05073)|null|
 |**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|null|
@@ -154,6 +163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
 |**2025-12-06**|**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**|Mingwang Xu et.al.|[2512.11872](http://arxiv.org/abs/2512.11872)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-04**|**dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning**|Yingzi Ma et.al.|[2512.04459](http://arxiv.org/abs/2512.04459)|null|
