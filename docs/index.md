@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
+|**2026-01-12**|**Reward Modeling from Natural Language Human Feedback**|Zongqi Wang et.al.|[2601.07349](http://arxiv.org/abs/2601.07349)|null|
+|**2026-01-12**|**Segmental Advantage Estimation: Enhancing PPO for Long-Context LLM Training**|Xue Gong et.al.|[2601.07320](http://arxiv.org/abs/2601.07320)|null|
+|**2026-01-11**|**Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers**|Wang Yang et.al.|[2601.07036](http://arxiv.org/abs/2601.07036)|null|
+|**2026-01-11**|**Thinking with Deltas: Incentivizing Reinforcement Learning via Differential Visual Reasoning Policy**|Shujian Gao et.al.|[2601.06801](http://arxiv.org/abs/2601.06801)|null|
+|**2026-01-11**|**GDEPO: Group Dual-dynamic and Equal-right-advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning**|Zhengqing Yan et.al.|[2601.06795](http://arxiv.org/abs/2601.06795)|null|
+|**2026-01-10**|**Plasticity vs. Rigidity: The Impact of Low-Rank Adapters on Reasoning on a Micro-Budget**|Zohaib Khan et.al.|[2601.06677](http://arxiv.org/abs/2601.06677)|null|
 |**2026-01-09**|**IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck**|Huilin Deng et.al.|[2601.05870](http://arxiv.org/abs/2601.05870)|null|
 |**2026-01-09**|**From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**|Zezhou Wang et.al.|[2601.05787](http://arxiv.org/abs/2601.05787)|null|
 |**2026-01-09**|**Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR**|Zijun Min et.al.|[2601.05607](http://arxiv.org/abs/2601.05607)|null|
@@ -94,6 +101,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
+|**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
+|**2026-01-12**|**Reward Modeling from Natural Language Human Feedback**|Zongqi Wang et.al.|[2601.07349](http://arxiv.org/abs/2601.07349)|null|
+|**2026-01-12**|**Segmental Advantage Estimation: Enhancing PPO for Long-Context LLM Training**|Xue Gong et.al.|[2601.07320](http://arxiv.org/abs/2601.07320)|null|
+|**2026-01-12**|**ReasonTabQA: A Comprehensive Benchmark for Table Question Answering from Real World Industrial Scenarios**|Changzai Pan et.al.|[2601.07280](http://arxiv.org/abs/2601.07280)|null|
+|**2026-01-12**|**Lost in the Noise: How Reasoning Models Fail with Contextual Distractors**|Seongyun Lee et.al.|[2601.07226](http://arxiv.org/abs/2601.07226)|null|
+|**2026-01-12**|**PRPO: Aligning Process Reward with Outcome Reward in Policy Optimization**|Ruiyi Ding et.al.|[2601.07182](http://arxiv.org/abs/2601.07182)|null|
+|**2026-01-11**|**Thinking with Deltas: Incentivizing Reinforcement Learning via Differential Visual Reasoning Policy**|Shujian Gao et.al.|[2601.06801](http://arxiv.org/abs/2601.06801)|null|
+|**2026-01-11**|**No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning**|Zhicong Li et.al.|[2601.06794](http://arxiv.org/abs/2601.06794)|null|
+|**2026-01-11**|**GanitLLM: Difficulty-Aware Bengali Mathematical Reasoning through Curriculum-GRPO**|Shubhashis Roy Dipta et.al.|[2601.06767](http://arxiv.org/abs/2601.06767)|null|
+|**2026-01-10**|**Plasticity vs. Rigidity: The Impact of Low-Rank Adapters on Reasoning on a Micro-Budget**|Zohaib Khan et.al.|[2601.06677](http://arxiv.org/abs/2601.06677)|null|
+|**2026-01-09**|**Future-as-Label: Scalable Supervision from Real-World Outcomes**|Benjamin Turtel et.al.|[2601.06336](http://arxiv.org/abs/2601.06336)|null|
 |**2026-01-09**|**Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**|Jiajie Zhang et.al.|[2601.06021](http://arxiv.org/abs/2601.06021)|null|
 |**2026-01-09**|**IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck**|Huilin Deng et.al.|[2601.05870](http://arxiv.org/abs/2601.05870)|null|
 |**2026-01-09**|**From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**|Zezhou Wang et.al.|[2601.05787](http://arxiv.org/abs/2601.05787)|null|
@@ -163,7 +182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-09**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
+|**2026-01-12**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
 |**2025-12-06**|**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**|Mingwang Xu et.al.|[2512.11872](http://arxiv.org/abs/2512.11872)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-04**|**dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning**|Yingzi Ma et.al.|[2512.04459](http://arxiv.org/abs/2512.04459)|null|
