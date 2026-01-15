@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Your Group-Relative Advantage Is Biased**|Fengkai Yang et.al.|[2601.08521](http://arxiv.org/abs/2601.08521)|null|
+|**2026-01-13**|**JudgeRLVR: Judge First, Generate Second for Efficient Reasoning**|Jiangshan Duo et.al.|[2601.08468](http://arxiv.org/abs/2601.08468)|null|
+|**2026-01-13**|**RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**|Sunzhu Li et.al.|[2601.08430](http://arxiv.org/abs/2601.08430)|null|
+|**2026-01-13**|**The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination**|Haoran Su et.al.|[2601.08237](http://arxiv.org/abs/2601.08237)|null|
+|**2026-01-13**|**STO-RL: Offline RL under Sparse Rewards via LLM-Guided Subgoal Temporal Order**|Chengyang Gu et.al.|[2601.08107](http://arxiv.org/abs/2601.08107)|null|
 |**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
 |**2026-01-12**|**Reward Modeling from Natural Language Human Feedback**|Zongqi Wang et.al.|[2601.07349](http://arxiv.org/abs/2601.07349)|null|
 |**2026-01-12**|**Segmental Advantage Estimation: Enhancing PPO for Long-Context LLM Training**|Xue Gong et.al.|[2601.07320](http://arxiv.org/abs/2601.07320)|null|
@@ -108,13 +113,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Your Group-Relative Advantage Is Biased**|Fengkai Yang et.al.|[2601.08521](http://arxiv.org/abs/2601.08521)|null|
+|**2026-01-13**|**JudgeRLVR: Judge First, Generate Second for Efficient Reasoning**|Jiangshan Duo et.al.|[2601.08468](http://arxiv.org/abs/2601.08468)|null|
+|**2026-01-13**|**RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**|Sunzhu Li et.al.|[2601.08430](http://arxiv.org/abs/2601.08430)|null|
+|**2026-01-13**|**The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination**|Haoran Su et.al.|[2601.08237](http://arxiv.org/abs/2601.08237)|null|
 |**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
 |**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
 |**2026-01-12**|**Reward Modeling from Natural Language Human Feedback**|Zongqi Wang et.al.|[2601.07349](http://arxiv.org/abs/2601.07349)|null|
 |**2026-01-12**|**Segmental Advantage Estimation: Enhancing PPO for Long-Context LLM Training**|Xue Gong et.al.|[2601.07320](http://arxiv.org/abs/2601.07320)|null|
 |**2026-01-12**|**ReasonTabQA: A Comprehensive Benchmark for Table Question Answering from Real World Industrial Scenarios**|Changzai Pan et.al.|[2601.07280](http://arxiv.org/abs/2601.07280)|null|
 |**2026-01-12**|**Lost in the Noise: How Reasoning Models Fail with Contextual Distractors**|Seongyun Lee et.al.|[2601.07226](http://arxiv.org/abs/2601.07226)|null|
-|**2026-01-12**|**PRPO: Aligning Process Reward with Outcome Reward in Policy Optimization**|Ruiyi Ding et.al.|[2601.07182](http://arxiv.org/abs/2601.07182)|null|
+|**2026-01-13**|**PRPO: Aligning Process Reward with Outcome Reward in Policy Optimization**|Ruiyi Ding et.al.|[2601.07182](http://arxiv.org/abs/2601.07182)|null|
 |**2026-01-11**|**Thinking with Deltas: Incentivizing Reinforcement Learning via Differential Visual Reasoning Policy**|Shujian Gao et.al.|[2601.06801](http://arxiv.org/abs/2601.06801)|null|
 |**2026-01-11**|**No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning**|Zhicong Li et.al.|[2601.06794](http://arxiv.org/abs/2601.06794)|null|
 |**2026-01-11**|**GanitLLM: Difficulty-Aware Bengali Mathematical Reasoning through Curriculum-GRPO**|Shubhashis Roy Dipta et.al.|[2601.06767](http://arxiv.org/abs/2601.06767)|null|
