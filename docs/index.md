@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|null|
+|**2026-01-14**|**GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR**|Jiaying Zhang et.al.|[2601.09361](http://arxiv.org/abs/2601.09361)|null|
 |**2026-01-13**|**Your Group-Relative Advantage Is Biased**|Fengkai Yang et.al.|[2601.08521](http://arxiv.org/abs/2601.08521)|null|
 |**2026-01-13**|**JudgeRLVR: Judge First, Generate Second for Efficient Reasoning**|Jiangshan Duo et.al.|[2601.08468](http://arxiv.org/abs/2601.08468)|null|
 |**2026-01-13**|**RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**|Sunzhu Li et.al.|[2601.08430](http://arxiv.org/abs/2601.08430)|null|
@@ -106,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR**|Jiaying Zhang et.al.|[2601.09361](http://arxiv.org/abs/2601.09361)|null|
 |**2026-01-13**|**Your Group-Relative Advantage Is Biased**|Fengkai Yang et.al.|[2601.08521](http://arxiv.org/abs/2601.08521)|null|
 |**2026-01-13**|**JudgeRLVR: Judge First, Generate Second for Efficient Reasoning**|Jiangshan Duo et.al.|[2601.08468](http://arxiv.org/abs/2601.08468)|null|
 |**2026-01-13**|**RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**|Sunzhu Li et.al.|[2601.08430](http://arxiv.org/abs/2601.08430)|null|
