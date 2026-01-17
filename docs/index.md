@@ -9,7 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-14**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|null|
+|**2026-01-15**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|null|
+|**2026-01-15**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|null|
 |**2026-01-14**|**GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR**|Jiaying Zhang et.al.|[2601.09361](http://arxiv.org/abs/2601.09361)|null|
 |**2026-01-13**|**Your Group-Relative Advantage Is Biased**|Fengkai Yang et.al.|[2601.08521](http://arxiv.org/abs/2601.08521)|null|
 |**2026-01-13**|**JudgeRLVR: Judge First, Generate Second for Efficient Reasoning**|Jiangshan Duo et.al.|[2601.08468](http://arxiv.org/abs/2601.08468)|null|
@@ -108,13 +109,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning**|Xin Guan et.al.|[2601.10306](http://arxiv.org/abs/2601.10306)|null|
+|**2026-01-15**|**TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks**|Vansh Kapoor et.al.|[2601.10245](http://arxiv.org/abs/2601.10245)|null|
+|**2026-01-15**|**PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary**|Jiarui Yao et.al.|[2601.10201](http://arxiv.org/abs/2601.10201)|null|
 |**2026-01-14**|**GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR**|Jiaying Zhang et.al.|[2601.09361](http://arxiv.org/abs/2601.09361)|null|
 |**2026-01-13**|**Your Group-Relative Advantage Is Biased**|Fengkai Yang et.al.|[2601.08521](http://arxiv.org/abs/2601.08521)|null|
 |**2026-01-13**|**JudgeRLVR: Judge First, Generate Second for Efficient Reasoning**|Jiangshan Duo et.al.|[2601.08468](http://arxiv.org/abs/2601.08468)|null|
 |**2026-01-13**|**RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**|Sunzhu Li et.al.|[2601.08430](http://arxiv.org/abs/2601.08430)|null|
 |**2026-01-13**|**The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination**|Haoran Su et.al.|[2601.08237](http://arxiv.org/abs/2601.08237)|null|
 |**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782](http://arxiv.org/abs/2601.07782)|null|
-|**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
+|**2026-01-15**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](http://arxiv.org/abs/2601.07695)|null|
 |**2026-01-12**|**Reward Modeling from Natural Language Human Feedback**|Zongqi Wang et.al.|[2601.07349](http://arxiv.org/abs/2601.07349)|null|
 |**2026-01-12**|**Segmental Advantage Estimation: Enhancing PPO for Long-Context LLM Training**|Xue Gong et.al.|[2601.07320](http://arxiv.org/abs/2601.07320)|null|
 |**2026-01-12**|**ReasonTabQA: A Comprehensive Benchmark for Table Question Answering from Real World Industrial Scenarios**|Changzai Pan et.al.|[2601.07280](http://arxiv.org/abs/2601.07280)|null|
