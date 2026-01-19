@@ -1,4 +1,4 @@
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -110,7 +110,7 @@
 |**2025-07-10**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905](http://arxiv.org/abs/2506.07905)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## Reward & RLVR
 
@@ -201,7 +201,7 @@
 |**2025-09-19**|**RaCT: Ranking-aware Chain-of-Thought Optimization for LLMs**|Haowei Liu et.al.|[2412.14405](http://arxiv.org/abs/2412.14405)|null|
 |**2024-10-04**|**Training Language Models to Self-Correct via Reinforcement Learning**|Aviral Kumar et.al.|[2409.12917](http://arxiv.org/abs/2409.12917)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 ## RL & LLM for Auto-Driving
 
@@ -239,7 +239,7 @@
 |**2025-03-27**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690](http://arxiv.org/abs/2503.19690)|null|
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400](http://arxiv.org/abs/2503.11400)|null|
 
-<p align=right>(<a href=#updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/liu-s-q19/RL4LLM-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/liu-s-q19/RL4LLM-arxiv-daily/graphs/contributors
