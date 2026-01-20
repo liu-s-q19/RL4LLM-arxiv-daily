@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs**|Lecheng Yan et.al.|[2601.11061](http://arxiv.org/abs/2601.11061)|null|
 |**2026-01-15**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|null|
 |**2026-01-15**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|null|
 |**2026-01-14**|**GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR**|Jiaying Zhang et.al.|[2601.09361](http://arxiv.org/abs/2601.09361)|null|
@@ -109,6 +110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs**|Lecheng Yan et.al.|[2601.11061](http://arxiv.org/abs/2601.11061)|null|
 |**2026-01-15**|**Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning**|Xin Guan et.al.|[2601.10306](http://arxiv.org/abs/2601.10306)|null|
 |**2026-01-15**|**TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks**|Vansh Kapoor et.al.|[2601.10245](http://arxiv.org/abs/2601.10245)|null|
 |**2026-01-15**|**PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary**|Jiarui Yao et.al.|[2601.10201](http://arxiv.org/abs/2601.10201)|null|
