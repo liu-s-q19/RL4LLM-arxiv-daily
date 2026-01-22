@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR**|Said Taghadouini et.al.|[2601.14251](http://arxiv.org/abs/2601.14251)|null|
+|**2026-01-19**|**Balancing Classification and Calibration Performance in Decision-Making LLMs via Calibration Aware Reinforcement Learning**|Duygu Nur Yaldiz et.al.|[2601.13284](http://arxiv.org/abs/2601.13284)|null|
+|**2026-01-19**|**Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning**|Fengran Mo et.al.|[2601.13115](http://arxiv.org/abs/2601.13115)|null|
+|**2026-01-19**|**Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**|Runxuan Liu et.al.|[2601.12995](http://arxiv.org/abs/2601.12995)|null|
+|**2026-01-18**|**Incentivizing In-depth Reasoning over Long Contexts with Process Advantage Shaping**|Miao Peng et.al.|[2601.12465](http://arxiv.org/abs/2601.12465)|null|
+|**2026-01-17**|**Aletheia: What Makes RLVR For Code Verifiers Tick?**|Vatsal Venkatkrishna et.al.|[2601.12186](http://arxiv.org/abs/2601.12186)|null|
+|**2026-01-17**|**AGGC: Adaptive Group Gradient Clipping for Stabilizing Large Language Model Training**|Zhiyuan Li et.al.|[2601.11864](http://arxiv.org/abs/2601.11864)|null|
 |**2026-01-16**|**Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs**|Lecheng Yan et.al.|[2601.11061](http://arxiv.org/abs/2601.11061)|null|
 |**2026-01-15**|**Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts**|Sijia Luo et.al.|[2601.10079](http://arxiv.org/abs/2601.10079)|null|
 |**2026-01-15**|**Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning**|Zhiyuan Hu et.al.|[2601.09667](http://arxiv.org/abs/2601.09667)|null|
@@ -117,6 +124,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning**|Matthew Y. R. Yang et.al.|[2601.14209](http://arxiv.org/abs/2601.14209)|null|
+|**2026-01-19**|**Balancing Classification and Calibration Performance in Decision-Making LLMs via Calibration Aware Reinforcement Learning**|Duygu Nur Yaldiz et.al.|[2601.13284](http://arxiv.org/abs/2601.13284)|null|
+|**2026-01-19**|**Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**|Runxuan Liu et.al.|[2601.12995](http://arxiv.org/abs/2601.12995)|null|
+|**2026-01-19**|**Towards Robust Process Reward Modeling via Noise-aware Learning**|Bin Xie et.al.|[2601.12748](http://arxiv.org/abs/2601.12748)|null|
+|**2026-01-18**|**Incentivizing In-depth Reasoning over Long Contexts with Process Advantage Shaping**|Miao Peng et.al.|[2601.12465](http://arxiv.org/abs/2601.12465)|null|
+|**2026-01-18**|**ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents**|Dawei Li et.al.|[2601.12294](http://arxiv.org/abs/2601.12294)|null|
+|**2026-01-17**|**Aletheia: What Makes RLVR For Code Verifiers Tick?**|Vatsal Venkatkrishna et.al.|[2601.12186](http://arxiv.org/abs/2601.12186)|null|
+|**2026-01-17**|**AGGC: Adaptive Group Gradient Clipping for Stabilizing Large Language Model Training**|Zhiyuan Li et.al.|[2601.11864](http://arxiv.org/abs/2601.11864)|null|
 |**2026-01-16**|**Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs**|Lecheng Yan et.al.|[2601.11061](http://arxiv.org/abs/2601.11061)|null|
 |**2026-01-15**|**Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning**|Xin Guan et.al.|[2601.10306](http://arxiv.org/abs/2601.10306)|null|
 |**2026-01-15**|**TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks**|Vansh Kapoor et.al.|[2601.10245](http://arxiv.org/abs/2601.10245)|null|
@@ -209,6 +224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-17**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Ziang Guo et.al.|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
 |**2026-01-12**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
 |**2025-12-06**|**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**|Mingwang Xu et.al.|[2512.11872](http://arxiv.org/abs/2512.11872)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
