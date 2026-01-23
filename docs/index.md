@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
+|**2026-01-21**|**DARL: Encouraging Diverse Answers for General Reasoning without Verifiers**|Chongxuan Huang et.al.|[2601.14700](http://arxiv.org/abs/2601.14700)|null|
+|**2026-01-21**|**IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization**|Shuai Wang et.al.|[2601.14686](http://arxiv.org/abs/2601.14686)|null|
 |**2026-01-20**|**LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR**|Said Taghadouini et.al.|[2601.14251](http://arxiv.org/abs/2601.14251)|null|
 |**2026-01-19**|**Balancing Classification and Calibration Performance in Decision-Making LLMs via Calibration Aware Reinforcement Learning**|Duygu Nur Yaldiz et.al.|[2601.13284](http://arxiv.org/abs/2601.13284)|null|
 |**2026-01-19**|**Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning**|Fengran Mo et.al.|[2601.13115](http://arxiv.org/abs/2601.13115)|null|
@@ -30,7 +33,7 @@ layout: default
 |**2026-01-12**|**Segmental Advantage Estimation: Enhancing PPO for Long-Context LLM Training**|Xue Gong et.al.|[2601.07320](http://arxiv.org/abs/2601.07320)|null|
 |**2026-01-11**|**Mid-Think: Training-Free Intermediate-Budget Reasoning via Token-Level Triggers**|Wang Yang et.al.|[2601.07036](http://arxiv.org/abs/2601.07036)|null|
 |**2026-01-11**|**Thinking with Deltas: Incentivizing Reinforcement Learning via Differential Visual Reasoning Policy**|Shujian Gao et.al.|[2601.06801](http://arxiv.org/abs/2601.06801)|null|
-|**2026-01-11**|**GDEPO: Group Dual-dynamic and Equal-right-advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning**|Zhengqing Yan et.al.|[2601.06795](http://arxiv.org/abs/2601.06795)|null|
+|**2026-01-21**|**GDEPO: Group Dual-dynamic and Equal-right-advantage Policy Optimization with Enhanced Training Data Utilization for Sample-Constrained Reinforcement Learning**|Zhengqing Yan et.al.|[2601.06795](http://arxiv.org/abs/2601.06795)|null|
 |**2026-01-10**|**Plasticity vs. Rigidity: The Impact of Low-Rank Adapters on Reasoning on a Micro-Budget**|Zohaib Khan et.al.|[2601.06677](http://arxiv.org/abs/2601.06677)|null|
 |**2026-01-09**|**IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck**|Huilin Deng et.al.|[2601.05870](http://arxiv.org/abs/2601.05870)|null|
 |**2026-01-09**|**From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**|Zezhou Wang et.al.|[2601.05787](http://arxiv.org/abs/2601.05787)|null|
@@ -117,6 +120,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**DARL: Encouraging Diverse Answers for General Reasoning without Verifiers**|Chongxuan Huang et.al.|[2601.14700](http://arxiv.org/abs/2601.14700)|null|
+|**2026-01-20**|**On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL**|Valerio Belcamino et.al.|[2601.14456](http://arxiv.org/abs/2601.14456)|null|
 |**2026-01-20**|**InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning**|Matthew Y. R. Yang et.al.|[2601.14209](http://arxiv.org/abs/2601.14209)|null|
 |**2026-01-19**|**Balancing Classification and Calibration Performance in Decision-Making LLMs via Calibration Aware Reinforcement Learning**|Duygu Nur Yaldiz et.al.|[2601.13284](http://arxiv.org/abs/2601.13284)|null|
 |**2026-01-19**|**Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**|Runxuan Liu et.al.|[2601.12995](http://arxiv.org/abs/2601.12995)|null|
