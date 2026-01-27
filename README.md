@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|null|
+|**2026-01-23**|**TL-GRPO: Turn-Level RL for Reasoning-Guided Iterative Optimization**|Peiji Li et.al.|[2601.16480](http://arxiv.org/abs/2601.16480)|null|
+|**2026-01-23**|**Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification**|Zongwan Cao et.al.|[2601.16400](http://arxiv.org/abs/2601.16400)|null|
 |**2026-01-22**|**PhysProver: Advancing Automatic Theorem Proving for Physics**|Hanning Zhang et.al.|[2601.15737](http://arxiv.org/abs/2601.15737)|null|
 |**2026-01-22**|**When Sharpening Becomes Collapse: Sampling Bias and Semantic Coupling in RL with Verifiable Rewards**|Mingyuan Fan et.al.|[2601.15609](http://arxiv.org/abs/2601.15609)|null|
 |**2026-01-20**|**ICPO: Illocution-Calibrated Policy Optimization for Multi-Turn Conversation**|Zhebo Wang et.al.|[2601.15330](http://arxiv.org/abs/2601.15330)|null|
@@ -130,6 +133,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|null|
 |**2026-01-22**|**Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification**|Yuxuan Wan et.al.|[2601.15808](http://arxiv.org/abs/2601.15808)|null|
 |**2026-01-22**|**PhysProver: Advancing Automatic Theorem Proving for Physics**|Hanning Zhang et.al.|[2601.15737](http://arxiv.org/abs/2601.15737)|null|
 |**2026-01-22**|**EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning**|Dingdong Wang et.al.|[2601.15668](http://arxiv.org/abs/2601.15668)|null|
