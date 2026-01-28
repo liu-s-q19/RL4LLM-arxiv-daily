@@ -14,11 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**|Yuxin Jiang et.al.|[2601.18533](http://arxiv.org/abs/2601.18533)|null|
+|**2026-01-26**|**TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment**|Zhewen Tan et.al.|[2601.18292](http://arxiv.org/abs/2601.18292)|null|
+|**2026-01-26**|**ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants**|Pei Wang et.al.|[2601.18225](http://arxiv.org/abs/2601.18225)|null|
+|**2026-01-26**|**PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR**|James Burgess et.al.|[2601.18207](http://arxiv.org/abs/2601.18207)|null|
+|**2026-01-26**|**FP8-RL: A Practical and Stable Low-Precision Stack for LLM Reinforcement Learning**|Zhaopeng Qiu et.al.|[2601.18150](http://arxiv.org/abs/2601.18150)|null|
+|**2026-01-24**|**Latent-Space Contrastive Reinforcement Learning for Stable and Efficient LLM Reasoning**|Lianlei Shan et.al.|[2601.17275](http://arxiv.org/abs/2601.17275)|null|
+|**2026-01-23**|**Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning**|Massimiliano Pronesti et.al.|[2601.17223](http://arxiv.org/abs/2601.17223)|null|
 |**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|null|
 |**2026-01-23**|**TL-GRPO: Turn-Level RL for Reasoning-Guided Iterative Optimization**|Peiji Li et.al.|[2601.16480](http://arxiv.org/abs/2601.16480)|null|
 |**2026-01-23**|**Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification**|Zongwan Cao et.al.|[2601.16400](http://arxiv.org/abs/2601.16400)|null|
 |**2026-01-22**|**PhysProver: Advancing Automatic Theorem Proving for Physics**|Hanning Zhang et.al.|[2601.15737](http://arxiv.org/abs/2601.15737)|null|
-|**2026-01-22**|**When Sharpening Becomes Collapse: Sampling Bias and Semantic Coupling in RL with Verifiable Rewards**|Mingyuan Fan et.al.|[2601.15609](http://arxiv.org/abs/2601.15609)|null|
+|**2026-01-26**|**When Sharpening Becomes Collapse: Sampling Bias and Semantic Coupling in RL with Verifiable Rewards**|Mingyuan Fan et.al.|[2601.15609](http://arxiv.org/abs/2601.15609)|null|
 |**2026-01-20**|**ICPO: Illocution-Calibrated Policy Optimization for Multi-Turn Conversation**|Zhebo Wang et.al.|[2601.15330](http://arxiv.org/abs/2601.15330)|null|
 |**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](http://arxiv.org/abs/2601.14711)|null|
 |**2026-01-21**|**DARL: Encouraging Diverse Answers for General Reasoning without Verifiers**|Chongxuan Huang et.al.|[2601.14700](http://arxiv.org/abs/2601.14700)|null|
@@ -133,11 +140,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**|Yuxin Jiang et.al.|[2601.18533](http://arxiv.org/abs/2601.18533)|null|
+|**2026-01-26**|**PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR**|James Burgess et.al.|[2601.18207](http://arxiv.org/abs/2601.18207)|null|
+|**2026-01-23**|**Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning**|Massimiliano Pronesti et.al.|[2601.17223](http://arxiv.org/abs/2601.17223)|null|
 |**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|null|
 |**2026-01-22**|**Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification**|Yuxuan Wan et.al.|[2601.15808](http://arxiv.org/abs/2601.15808)|null|
 |**2026-01-22**|**PhysProver: Advancing Automatic Theorem Proving for Physics**|Hanning Zhang et.al.|[2601.15737](http://arxiv.org/abs/2601.15737)|null|
 |**2026-01-22**|**EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning**|Dingdong Wang et.al.|[2601.15668](http://arxiv.org/abs/2601.15668)|null|
-|**2026-01-22**|**When Sharpening Becomes Collapse: Sampling Bias and Semantic Coupling in RL with Verifiable Rewards**|Mingyuan Fan et.al.|[2601.15609](http://arxiv.org/abs/2601.15609)|null|
+|**2026-01-26**|**When Sharpening Becomes Collapse: Sampling Bias and Semantic Coupling in RL with Verifiable Rewards**|Mingyuan Fan et.al.|[2601.15609](http://arxiv.org/abs/2601.15609)|null|
 |**2026-01-20**|**ICPO: Illocution-Calibrated Policy Optimization for Multi-Turn Conversation**|Zhebo Wang et.al.|[2601.15330](http://arxiv.org/abs/2601.15330)|null|
 |**2026-01-21**|**DARL: Encouraging Diverse Answers for General Reasoning without Verifiers**|Chongxuan Huang et.al.|[2601.14700](http://arxiv.org/abs/2601.14700)|null|
 |**2026-01-20**|**On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL**|Valerio Belcamino et.al.|[2601.14456](http://arxiv.org/abs/2601.14456)|null|
