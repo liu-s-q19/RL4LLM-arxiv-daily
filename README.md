@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**P2S: Probabilistic Process Supervision for General-Domain Reasoning Question Answering**|Wenlin Zhong et.al.|[2601.20649](http://arxiv.org/abs/2601.20649)|null|
+|**2026-01-28**|**Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation**|Yanqi Dai et.al.|[2601.20614](http://arxiv.org/abs/2601.20614)|null|
+|**2026-01-28**|**Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models**|Zhenchen Tang et.al.|[2601.20305](http://arxiv.org/abs/2601.20305)|null|
+|**2026-01-27**|**Rewarding Intellectual Humility Learning When Not To Answer In Large Language Models**|Abha Jha et.al.|[2601.20126](http://arxiv.org/abs/2601.20126)|null|
+|**2026-01-28**|**R^3: Replay, Reflection, and Ranking Rewards for LLM Reinforcement Learning**|Zhizheng Jiang et.al.|[2601.19620](http://arxiv.org/abs/2601.19620)|null|
+|**2026-01-27**|**Group Distributionally Robust Optimization-Driven Reinforcement Learning for LLM Reasoning**|Kishan Panaganti et.al.|[2601.19280](http://arxiv.org/abs/2601.19280)|null|
 |**2026-01-26**|**From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**|Yuxin Jiang et.al.|[2601.18533](http://arxiv.org/abs/2601.18533)|null|
 |**2026-01-26**|**TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment**|Zhewen Tan et.al.|[2601.18292](http://arxiv.org/abs/2601.18292)|null|
 |**2026-01-26**|**ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants**|Pei Wang et.al.|[2601.18225](http://arxiv.org/abs/2601.18225)|null|
@@ -140,6 +146,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**P2S: Probabilistic Process Supervision for General-Domain Reasoning Question Answering**|Wenlin Zhong et.al.|[2601.20649](http://arxiv.org/abs/2601.20649)|null|
+|**2026-01-28**|**Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation**|Yanqi Dai et.al.|[2601.20614](http://arxiv.org/abs/2601.20614)|null|
+|**2026-01-28**|**Ranking-aware Reinforcement Learning for Ordinal Ranking**|Aiming Hao et.al.|[2601.20585](http://arxiv.org/abs/2601.20585)|null|
+|**2026-01-28**|**SAPO: Self-Adaptive Process Optimization Makes Small Reasoners Stronger**|Kaiyuan Chen et.al.|[2601.20312](http://arxiv.org/abs/2601.20312)|null|
+|**2026-01-28**|**Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models**|Zhenchen Tang et.al.|[2601.20305](http://arxiv.org/abs/2601.20305)|null|
+|**2026-01-27**|**Rewarding Intellectual Humility Learning When Not To Answer In Large Language Models**|Abha Jha et.al.|[2601.20126](http://arxiv.org/abs/2601.20126)|null|
+|**2026-01-26**|**Save the Good Prefix: Precise Error Penalization via Process-Supervised RL to Enhance LLM Reasoning**|Haolin Liu et.al.|[2601.18984](http://arxiv.org/abs/2601.18984)|null|
 |**2026-01-26**|**From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**|Yuxin Jiang et.al.|[2601.18533](http://arxiv.org/abs/2601.18533)|null|
 |**2026-01-26**|**PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR**|James Burgess et.al.|[2601.18207](http://arxiv.org/abs/2601.18207)|null|
 |**2026-01-23**|**Beyond Outcome Verification: Verifiable Process Reward Models for Structured Reasoning**|Massimiliano Pronesti et.al.|[2601.17223](http://arxiv.org/abs/2601.17223)|null|
@@ -251,7 +264,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-17**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Ziang Guo et.al.|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
+|**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
+|**2026-01-28**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Ziang Guo et.al.|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
 |**2026-01-12**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
 |**2025-12-06**|**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**|Mingwang Xu et.al.|[2512.11872](http://arxiv.org/abs/2512.11872)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
