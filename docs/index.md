@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents**|Yao Zhang et.al.|[2601.21872](http://arxiv.org/abs/2601.21872)|null|
 |**2026-01-29**|**PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization**|Songhan Jiang et.al.|[2601.21617](http://arxiv.org/abs/2601.21617)|null|
 |**2026-01-29**|**HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing**|Chengyu Du et.al.|[2601.21459](http://arxiv.org/abs/2601.21459)|null|
 |**2026-01-29**|**Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification**|Yiju Guo et.al.|[2601.21244](http://arxiv.org/abs/2601.21244)|null|
@@ -147,6 +148,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**ProRAG: Process-Supervised Reinforcement Learning for Retrieval-Augmented Generation**|Zhao Wang et.al.|[2601.21912](http://arxiv.org/abs/2601.21912)|null|
+|**2026-01-29**|**WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents**|Yao Zhang et.al.|[2601.21872](http://arxiv.org/abs/2601.21872)|null|
 |**2026-01-29**|**Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification**|Yiju Guo et.al.|[2601.21244](http://arxiv.org/abs/2601.21244)|null|
 |**2026-01-29**|**Do Reasoning Models Enhance Embedding Models?**|Wun Yu Chan et.al.|[2601.21192](http://arxiv.org/abs/2601.21192)|null|
 |**2026-01-28**|**Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report**|Zhuoran Yang et.al.|[2601.21051](http://arxiv.org/abs/2601.21051)|null|
