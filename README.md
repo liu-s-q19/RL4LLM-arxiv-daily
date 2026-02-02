@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text**|Ximing Lu et.al.|[2601.22975](http://arxiv.org/abs/2601.22975)|null|
+|**2026-01-30**|**MulFeRL: Enhancing Reinforcement Learning with Verbal Feedback in a Multi-turn Loop**|Xuancheng Li et.al.|[2601.22900](http://arxiv.org/abs/2601.22900)|null|
+|**2026-01-30**|**Learn More with Less: Uncertainty Consistency Guided Query Selection for RLVR**|Hao Yi et.al.|[2601.22595](http://arxiv.org/abs/2601.22595)|null|
+|**2026-01-30**|**HeaPA: Difficulty-Aware Heap Sampling and On-Policy Query Augmentation for LLM Reinforcement Learning**|Weiqi Wang et.al.|[2601.22448](http://arxiv.org/abs/2601.22448)|null|
+|**2026-01-29**|**Prepare Reasoning Language Models for Multi-Agent Debate with Self-Debate Reinforcement Learning**|Chenxi Liu et.al.|[2601.22297](http://arxiv.org/abs/2601.22297)|null|
 |**2026-01-29**|**WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents**|Yao Zhang et.al.|[2601.21872](http://arxiv.org/abs/2601.21872)|null|
 |**2026-01-29**|**PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization**|Songhan Jiang et.al.|[2601.21617](http://arxiv.org/abs/2601.21617)|null|
 |**2026-01-29**|**HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing**|Chengyu Du et.al.|[2601.21459](http://arxiv.org/abs/2601.21459)|null|
@@ -155,6 +160,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text**|Ximing Lu et.al.|[2601.22975](http://arxiv.org/abs/2601.22975)|null|
+|**2026-01-30**|**MulFeRL: Enhancing Reinforcement Learning with Verbal Feedback in a Multi-turn Loop**|Xuancheng Li et.al.|[2601.22900](http://arxiv.org/abs/2601.22900)|null|
+|**2026-01-30**|**TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization**|Shichao Ma et.al.|[2601.22776](http://arxiv.org/abs/2601.22776)|null|
+|**2026-01-30**|**From Self-Evolving Synthetic Data to Verifiable-Reward RL: Post-Training Multi-turn Interactive Tool-Using Agents**|Jiaxuan Gao et.al.|[2601.22607](http://arxiv.org/abs/2601.22607)|null|
+|**2026-01-30**|**Learn More with Less: Uncertainty Consistency Guided Query Selection for RLVR**|Hao Yi et.al.|[2601.22595](http://arxiv.org/abs/2601.22595)|null|
+|**2026-01-30**|**Demystifying Design Choices of Reinforcement Fine-tuning: A Batched Contextual Bandit Learning Perspective**|Hong Xie et.al.|[2601.22532](http://arxiv.org/abs/2601.22532)|null|
+|**2026-01-30**|**Enhancing TableQA through Verifiable Reasoning Trace Reward**|Tung Sum Thomas Kwok et.al.|[2601.22530](http://arxiv.org/abs/2601.22530)|null|
+|**2026-01-30**|**SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization**|Jinyang Wu et.al.|[2601.22491](http://arxiv.org/abs/2601.22491)|null|
+|**2026-01-29**|**Prepare Reasoning Language Models for Multi-Agent Debate with Self-Debate Reinforcement Learning**|Chenxi Liu et.al.|[2601.22297](http://arxiv.org/abs/2601.22297)|null|
+|**2026-01-29**|**FunPRM: Function-as-Step Process Reward Model with Meta Reward Correction for Code Generation**|Ruiyi Zhang et.al.|[2601.22249](http://arxiv.org/abs/2601.22249)|null|
+|**2026-01-29**|**DAJ: Data-Reweighted LLM Judge for Test-Time Scaling in Code Generation**|Peijia Qin et.al.|[2601.22230](http://arxiv.org/abs/2601.22230)|null|
 |**2026-01-29**|**ProRAG: Process-Supervised Reinforcement Learning for Retrieval-Augmented Generation**|Zhao Wang et.al.|[2601.21912](http://arxiv.org/abs/2601.21912)|null|
 |**2026-01-29**|**WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents**|Yao Zhang et.al.|[2601.21872](http://arxiv.org/abs/2601.21872)|null|
 |**2026-01-29**|**Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification**|Yiju Guo et.al.|[2601.21244](http://arxiv.org/abs/2601.21244)|null|
@@ -280,6 +296,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving**|Xidong Li et.al.|[2601.22930](http://arxiv.org/abs/2601.22930)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
 |**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
 |**2026-01-29**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Ziang Guo et.al.|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
