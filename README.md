@@ -14,6 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-31**|**Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement**|Yunjian Zhang et.al.|[2602.00815](http://arxiv.org/abs/2602.00815)|null|
+|**2026-01-31**|**Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning**|Zhipeng Chen et.al.|[2602.00759](http://arxiv.org/abs/2602.00759)|null|
+|**2026-01-31**|**Towards Sample-Efficient and Stable Reinforcement Learning for LLM-based Recommendation**|Hongxun Ding et.al.|[2602.00632](http://arxiv.org/abs/2602.00632)|null|
+|**2026-01-31**|**Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction**|Chaoqun Cui et.al.|[2602.00575](http://arxiv.org/abs/2602.00575)|null|
+|**2026-01-31**|**How Far Are LLMs from Professional Poker Players? Revisiting Game-Theoretic Reasoning with Agentic Tool Use**|Minhua Lin et.al.|[2602.00528](http://arxiv.org/abs/2602.00528)|null|
+|**2026-01-31**|**Minerva: Reinforcement Learning with Verifiable Rewards for Cyber Threat Intelligence LLMs**|Md Tanvirul Alam et.al.|[2602.00513](http://arxiv.org/abs/2602.00513)|null|
+|**2026-01-31**|**LLMs as High-Dimensional Nonlinear Autoregressive Models with Attention: Training, Alignment and Inference**|Vikram Krishnamurthy et.al.|[2602.00426](http://arxiv.org/abs/2602.00426)|null|
+|**2026-01-30**|**KEPO: Knowledge-Enhanced Preference Optimization for Reinforcement Learning with Reasoning**|Fan Yang et.al.|[2602.00400](http://arxiv.org/abs/2602.00400)|null|
+|**2026-01-30**|**ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased concepts in unlearned diffusion models**|Ignacy Kolton et.al.|[2602.00350](http://arxiv.org/abs/2602.00350)|null|
+|**2026-01-30**|**Learning Robust Reasoning through Guided Adversarial Self-Play**|Shuozhe Li et.al.|[2602.00173](http://arxiv.org/abs/2602.00173)|null|
+|**2026-01-30**|**THINKSAFE: Self-Generated Safety Alignment for Reasoning Models**|Seanie Lee et.al.|[2601.23143](http://arxiv.org/abs/2601.23143)|null|
+|**2026-01-30**|**Why GRPO Needs Normalization: A Local-Curvature Perspective on Adaptive Gradients**|Cheng Ge et.al.|[2601.23135](http://arxiv.org/abs/2601.23135)|null|
 |**2026-01-30**|**Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text**|Ximing Lu et.al.|[2601.22975](http://arxiv.org/abs/2601.22975)|null|
 |**2026-01-30**|**MulFeRL: Enhancing Reinforcement Learning with Verbal Feedback in a Multi-turn Loop**|Xuancheng Li et.al.|[2601.22900](http://arxiv.org/abs/2601.22900)|null|
 |**2026-01-30**|**Learn More with Less: Uncertainty Consistency Guided Query Selection for RLVR**|Hao Yi et.al.|[2601.22595](http://arxiv.org/abs/2601.22595)|null|
@@ -160,6 +172,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-01**|**DISPO: Enhancing Training Efficiency and Stability in Reinforcement Learning for Large Language Model Mathematical Reasoning**|Batuhan K. Karaman et.al.|[2602.00983](http://arxiv.org/abs/2602.00983)|null|
+|**2026-01-31**|**Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement**|Yunjian Zhang et.al.|[2602.00815](http://arxiv.org/abs/2602.00815)|null|
+|**2026-01-31**|**Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning**|Zhipeng Chen et.al.|[2602.00759](http://arxiv.org/abs/2602.00759)|null|
+|**2026-01-31**|**Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction**|Chaoqun Cui et.al.|[2602.00575](http://arxiv.org/abs/2602.00575)|null|
+|**2026-01-31**|**Unmasking Reasoning Processes: A Process-aware Benchmark for Evaluating Structural Mathematical Reasoning in LLMs**|Xiang Zheng et.al.|[2602.00564](http://arxiv.org/abs/2602.00564)|null|
+|**2026-01-31**|**Minerva: Reinforcement Learning with Verifiable Rewards for Cyber Threat Intelligence LLMs**|Md Tanvirul Alam et.al.|[2602.00513](http://arxiv.org/abs/2602.00513)|null|
+|**2026-01-31**|**LLMs as High-Dimensional Nonlinear Autoregressive Models with Attention: Training, Alignment and Inference**|Vikram Krishnamurthy et.al.|[2602.00426](http://arxiv.org/abs/2602.00426)|null|
+|**2026-01-30**|**ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased concepts in unlearned diffusion models**|Ignacy Kolton et.al.|[2602.00350](http://arxiv.org/abs/2602.00350)|null|
 |**2026-01-30**|**Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text**|Ximing Lu et.al.|[2601.22975](http://arxiv.org/abs/2601.22975)|null|
 |**2026-01-30**|**MulFeRL: Enhancing Reinforcement Learning with Verbal Feedback in a Multi-turn Loop**|Xuancheng Li et.al.|[2601.22900](http://arxiv.org/abs/2601.22900)|null|
 |**2026-01-30**|**TSPO: Breaking the Double Homogenization Dilemma in Multi-turn Search Policy Optimization**|Shichao Ma et.al.|[2601.22776](http://arxiv.org/abs/2601.22776)|null|
