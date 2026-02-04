@@ -9,6 +9,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Beyond Variance: Prompt-Efficient RLVR via Rare-Event Amplification and Bidirectional Pairing**|Xin Sheng et.al.|[2602.03452](http://arxiv.org/abs/2602.03452)|null|
+|**2026-02-03**|**Verified Critical Step Optimization for LLM Agents**|Mukai Li et.al.|[2602.03412](http://arxiv.org/abs/2602.03412)|null|
+|**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
+|**2026-02-03**|**CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs**|Zhiyuan Yao et.al.|[2602.03048](http://arxiv.org/abs/2602.03048)|null|
+|**2026-02-03**|**CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning**|Ran Li et.al.|[2602.02979](http://arxiv.org/abs/2602.02979)|null|
+|**2026-02-02**|**Expanding the Capabilities of Reinforcement Learning via Text Feedback**|Yuda Song et.al.|[2602.02482](http://arxiv.org/abs/2602.02482)|null|
+|**2026-02-02**|**Proof-RM: A Scalable and Generalizable Reward Model for Math Proof**|Haotong Yang et.al.|[2602.02377](http://arxiv.org/abs/2602.02377)|null|
+|**2026-02-02**|**Think Dense, Not Long: Dynamic Decoupled Conditional Advantage for Efficient Reasoning**|Keqin Peng et.al.|[2602.02099](http://arxiv.org/abs/2602.02099)|null|
+|**2026-02-02**|**Grad2Reward: From Sparse Judgment to Dense Rewards for Improving Open-Ended LLM Reasoning**|Zheng Zhang et.al.|[2602.01791](http://arxiv.org/abs/2602.01791)|null|
+|**2026-02-02**|**Beyond Mode Elicitation: Diversity-Preserving Reinforcement Learning via Latent Diffusion Reasoner**|Haoqiang Kang et.al.|[2602.01705](http://arxiv.org/abs/2602.01705)|null|
+|**2026-02-02**|**The Multiple Ticket Hypothesis: Random Sparse Subnetworks Suffice for RLVR**|Israel Adewuyi et.al.|[2602.01599](http://arxiv.org/abs/2602.01599)|null|
+|**2026-02-01**|**When Domains Interact: Asymmetric and Order-Sensitive Cross-Domain Effects in Reinforcement Learning for Reasoning**|Wang Yang et.al.|[2602.01365](http://arxiv.org/abs/2602.01365)|null|
+|**2026-02-01**|**Probing RLVR training instability through the lens of objective-level hacking**|Yiming Dong et.al.|[2602.01103](http://arxiv.org/abs/2602.01103)|null|
 |**2026-01-31**|**Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement**|Yunjian Zhang et.al.|[2602.00815](http://arxiv.org/abs/2602.00815)|null|
 |**2026-01-31**|**Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning**|Zhipeng Chen et.al.|[2602.00759](http://arxiv.org/abs/2602.00759)|null|
 |**2026-01-31**|**Towards Sample-Efficient and Stable Reinforcement Learning for LLM-based Recommendation**|Hongxun Ding et.al.|[2602.00632](http://arxiv.org/abs/2602.00632)|null|
@@ -28,8 +41,8 @@ layout: default
 |**2026-01-29**|**Prepare Reasoning Language Models for Multi-Agent Debate with Self-Debate Reinforcement Learning**|Chenxi Liu et.al.|[2601.22297](http://arxiv.org/abs/2601.22297)|null|
 |**2026-01-29**|**WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents**|Yao Zhang et.al.|[2601.21872](http://arxiv.org/abs/2601.21872)|null|
 |**2026-01-29**|**PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization**|Songhan Jiang et.al.|[2601.21617](http://arxiv.org/abs/2601.21617)|null|
-|**2026-01-29**|**HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing**|Chengyu Du et.al.|[2601.21459](http://arxiv.org/abs/2601.21459)|null|
-|**2026-01-29**|**Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification**|Yiju Guo et.al.|[2601.21244](http://arxiv.org/abs/2601.21244)|null|
+|**2026-02-02**|**HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing**|Chengyu Du et.al.|[2601.21459](http://arxiv.org/abs/2601.21459)|null|
+|**2026-02-02**|**Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification**|Yiju Guo et.al.|[2601.21244](http://arxiv.org/abs/2601.21244)|null|
 |**2026-01-29**|**Do Reasoning Models Enhance Embedding Models?**|Wun Yu Chan et.al.|[2601.21192](http://arxiv.org/abs/2601.21192)|null|
 |**2026-01-28**|**Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report**|Zhuoran Yang et.al.|[2601.21051](http://arxiv.org/abs/2601.21051)|null|
 |**2026-01-28**|**Solver-in-the-Loop: MDP-Based Benchmarks for Self-Correction and Behavioral Rationality in Operations Research**|Ruicheng Ao et.al.|[2601.21008](http://arxiv.org/abs/2601.21008)|null|
@@ -165,6 +178,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Beyond Variance: Prompt-Efficient RLVR via Rare-Event Amplification and Bidirectional Pairing**|Xin Sheng et.al.|[2602.03452](http://arxiv.org/abs/2602.03452)|null|
+|**2026-02-03**|**Verified Critical Step Optimization for LLM Agents**|Mukai Li et.al.|[2602.03412](http://arxiv.org/abs/2602.03412)|null|
+|**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
+|**2026-02-03**|**Self-Hinting Language Models Enhance Reinforcement Learning**|Baohao Liao et.al.|[2602.03143](http://arxiv.org/abs/2602.03143)|null|
+|**2026-02-03**|**Test-time Recursive Thinking: Self-Improvement without External Feedback**|Yufan Zhuang et.al.|[2602.03094](http://arxiv.org/abs/2602.03094)|null|
+|**2026-02-03**|**MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems**|Vishal Venkataramani et.al.|[2602.03053](http://arxiv.org/abs/2602.03053)|null|
+|**2026-02-03**|**CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs**|Zhiyuan Yao et.al.|[2602.03048](http://arxiv.org/abs/2602.03048)|null|
+|**2026-02-02**|**Proof-RM: A Scalable and Generalizable Reward Model for Math Proof**|Haotong Yang et.al.|[2602.02377](http://arxiv.org/abs/2602.02377)|null|
+|**2026-02-02**|**Think Dense, Not Long: Dynamic Decoupled Conditional Advantage for Efficient Reasoning**|Keqin Peng et.al.|[2602.02099](http://arxiv.org/abs/2602.02099)|null|
+|**2026-02-02**|**Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents**|Zeping Li et.al.|[2602.02050](http://arxiv.org/abs/2602.02050)|null|
+|**2026-02-02**|**Grad2Reward: From Sparse Judgment to Dense Rewards for Improving Open-Ended LLM Reasoning**|Zheng Zhang et.al.|[2602.01791](http://arxiv.org/abs/2602.01791)|null|
+|**2026-02-03**|**Adaptive Rollout Allocation for Online Reinforcement Learning with Verifiable Rewards**|Hieu Trung Nguyen et.al.|[2602.01601](http://arxiv.org/abs/2602.01601)|null|
+|**2026-02-02**|**The Multiple Ticket Hypothesis: Random Sparse Subnetworks Suffice for RLVR**|Israel Adewuyi et.al.|[2602.01599](http://arxiv.org/abs/2602.01599)|null|
+|**2026-02-02**|**A Relative-Budget Theory for Reinforcement Learning with Verifiable Rewards in Large Language Model Reasoning**|Akifumi Wachi et.al.|[2602.01523](http://arxiv.org/abs/2602.01523)|null|
+|**2026-02-01**|**Probing RLVR training instability through the lens of objective-level hacking**|Yiming Dong et.al.|[2602.01103](http://arxiv.org/abs/2602.01103)|null|
 |**2026-02-01**|**DISPO: Enhancing Training Efficiency and Stability in Reinforcement Learning for Large Language Model Mathematical Reasoning**|Batuhan K. Karaman et.al.|[2602.00983](http://arxiv.org/abs/2602.00983)|null|
 |**2026-01-31**|**Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement**|Yunjian Zhang et.al.|[2602.00815](http://arxiv.org/abs/2602.00815)|null|
 |**2026-01-31**|**Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning**|Zhipeng Chen et.al.|[2602.00759](http://arxiv.org/abs/2602.00759)|null|
