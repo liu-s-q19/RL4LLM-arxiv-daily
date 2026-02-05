@@ -9,16 +9,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning**|Doyeon Lee et.al.|[2602.04620](http://arxiv.org/abs/2602.04620)|null|
+|**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|null|
+|**2026-02-04**|**MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation**|Lin Wang et.al.|[2602.04278](http://arxiv.org/abs/2602.04278)|null|
+|**2026-02-04**|**Thickening-to-Thinning: Reward Shaping via Human-Inspired Learning Dynamics for LLM Reasoning**|Wenze Lin et.al.|[2602.04265](http://arxiv.org/abs/2602.04265)|null|
+|**2026-02-04**|**DELTA: Deliberative Multi-Agent Reasoning with Reinforcement Learning for Multimodal Psychological Counseling**|Jiangnan Yang et.al.|[2602.04112](http://arxiv.org/abs/2602.04112)|null|
+|**2026-02-03**|**Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning**|Zidi Xiong et.al.|[2602.03978](http://arxiv.org/abs/2602.03978)|null|
+|**2026-02-03**|**Learning to Reason Faithfully through Step-Level Faithfulness Maximization**|Runquan Gui et.al.|[2602.03507](http://arxiv.org/abs/2602.03507)|null|
 |**2026-02-03**|**Beyond Variance: Prompt-Efficient RLVR via Rare-Event Amplification and Bidirectional Pairing**|Xin Sheng et.al.|[2602.03452](http://arxiv.org/abs/2602.03452)|null|
 |**2026-02-03**|**Verified Critical Step Optimization for LLM Agents**|Mukai Li et.al.|[2602.03412](http://arxiv.org/abs/2602.03412)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
-|**2026-02-03**|**CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs**|Zhiyuan Yao et.al.|[2602.03048](http://arxiv.org/abs/2602.03048)|null|
+|**2026-02-04**|**CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs**|Zhiyuan Yao et.al.|[2602.03048](http://arxiv.org/abs/2602.03048)|null|
 |**2026-02-03**|**CPMobius: Iterative Coach-Player Reasoning for Data-Free Reinforcement Learning**|Ran Li et.al.|[2602.02979](http://arxiv.org/abs/2602.02979)|null|
 |**2026-02-02**|**Expanding the Capabilities of Reinforcement Learning via Text Feedback**|Yuda Song et.al.|[2602.02482](http://arxiv.org/abs/2602.02482)|null|
 |**2026-02-02**|**Proof-RM: A Scalable and Generalizable Reward Model for Math Proof**|Haotong Yang et.al.|[2602.02377](http://arxiv.org/abs/2602.02377)|null|
 |**2026-02-02**|**Think Dense, Not Long: Dynamic Decoupled Conditional Advantage for Efficient Reasoning**|Keqin Peng et.al.|[2602.02099](http://arxiv.org/abs/2602.02099)|null|
 |**2026-02-02**|**Grad2Reward: From Sparse Judgment to Dense Rewards for Improving Open-Ended LLM Reasoning**|Zheng Zhang et.al.|[2602.01791](http://arxiv.org/abs/2602.01791)|null|
-|**2026-02-02**|**Beyond Mode Elicitation: Diversity-Preserving Reinforcement Learning via Latent Diffusion Reasoner**|Haoqiang Kang et.al.|[2602.01705](http://arxiv.org/abs/2602.01705)|null|
+|**2026-02-03**|**Beyond Mode Elicitation: Diversity-Preserving Reinforcement Learning via Latent Diffusion Reasoner**|Haoqiang Kang et.al.|[2602.01705](http://arxiv.org/abs/2602.01705)|null|
 |**2026-02-02**|**The Multiple Ticket Hypothesis: Random Sparse Subnetworks Suffice for RLVR**|Israel Adewuyi et.al.|[2602.01599](http://arxiv.org/abs/2602.01599)|null|
 |**2026-02-01**|**When Domains Interact: Asymmetric and Order-Sensitive Cross-Domain Effects in Reinforcement Learning for Reasoning**|Wang Yang et.al.|[2602.01365](http://arxiv.org/abs/2602.01365)|null|
 |**2026-02-01**|**Probing RLVR training instability through the lens of objective-level hacking**|Yiming Dong et.al.|[2602.01103](http://arxiv.org/abs/2602.01103)|null|
@@ -178,13 +185,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Thickening-to-Thinning: Reward Shaping via Human-Inspired Learning Dynamics for LLM Reasoning**|Wenze Lin et.al.|[2602.04265](http://arxiv.org/abs/2602.04265)|null|
+|**2026-02-04**|**Training Data Efficiency in Multimodal Process Reward Models**|Jinyuan Li et.al.|[2602.04145](http://arxiv.org/abs/2602.04145)|null|
+|**2026-02-03**|**Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning**|Zidi Xiong et.al.|[2602.03978](http://arxiv.org/abs/2602.03978)|null|
+|**2026-02-03**|**Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling**|Yubao Zhao et.al.|[2602.03719](http://arxiv.org/abs/2602.03719)|null|
+|**2026-02-03**|**Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation**|Changze Lv et.al.|[2602.03619](http://arxiv.org/abs/2602.03619)|null|
+|**2026-02-03**|**Learning to Reason Faithfully through Step-Level Faithfulness Maximization**|Runquan Gui et.al.|[2602.03507](http://arxiv.org/abs/2602.03507)|null|
 |**2026-02-03**|**Beyond Variance: Prompt-Efficient RLVR via Rare-Event Amplification and Bidirectional Pairing**|Xin Sheng et.al.|[2602.03452](http://arxiv.org/abs/2602.03452)|null|
 |**2026-02-03**|**Verified Critical Step Optimization for LLM Agents**|Mukai Li et.al.|[2602.03412](http://arxiv.org/abs/2602.03412)|null|
 |**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](http://arxiv.org/abs/2602.03320)|null|
 |**2026-02-03**|**Self-Hinting Language Models Enhance Reinforcement Learning**|Baohao Liao et.al.|[2602.03143](http://arxiv.org/abs/2602.03143)|null|
 |**2026-02-03**|**Test-time Recursive Thinking: Self-Improvement without External Feedback**|Yufan Zhuang et.al.|[2602.03094](http://arxiv.org/abs/2602.03094)|null|
 |**2026-02-03**|**MAS-ProVe: Understanding the Process Verification of Multi-Agent Systems**|Vishal Venkataramani et.al.|[2602.03053](http://arxiv.org/abs/2602.03053)|null|
-|**2026-02-03**|**CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs**|Zhiyuan Yao et.al.|[2602.03048](http://arxiv.org/abs/2602.03048)|null|
+|**2026-02-04**|**CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs**|Zhiyuan Yao et.al.|[2602.03048](http://arxiv.org/abs/2602.03048)|null|
 |**2026-02-02**|**Proof-RM: A Scalable and Generalizable Reward Model for Math Proof**|Haotong Yang et.al.|[2602.02377](http://arxiv.org/abs/2602.02377)|null|
 |**2026-02-02**|**Think Dense, Not Long: Dynamic Decoupled Conditional Advantage for Efficient Reasoning**|Keqin Peng et.al.|[2602.02099](http://arxiv.org/abs/2602.02099)|null|
 |**2026-02-02**|**Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents**|Zeping Li et.al.|[2602.02050](http://arxiv.org/abs/2602.02050)|null|
