@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards**|Bowen Ping et.al.|[2602.05758](http://arxiv.org/abs/2602.05758)|null|
+|**2026-02-05**|**Anchored Policy Optimization: Mitigating Exploration Collapse Via Support-Constrained Rectification**|Tianyi Wang et.al.|[2602.05717](http://arxiv.org/abs/2602.05717)|null|
+|**2026-02-05**|**Rewards as Labels: Revisiting RLVR from a Classification Perspective**|Zepeng Zhai et.al.|[2602.05630](http://arxiv.org/abs/2602.05630)|null|
+|**2026-02-05**|**Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation**|Zhiqi Yu et.al.|[2602.05548](http://arxiv.org/abs/2602.05548)|null|
+|**2026-02-05**|**A Unified Framework for Rethinking Policy Divergence Measures in GRPO**|Qingyuan Wu et.al.|[2602.05494](http://arxiv.org/abs/2602.05494)|null|
+|**2026-02-05**|**Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities**|Pengyi Li et.al.|[2602.05281](http://arxiv.org/abs/2602.05281)|null|
+|**2026-02-05**|**Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR**|Fanfan Liu et.al.|[2602.05261](http://arxiv.org/abs/2602.05261)|null|
+|**2026-02-05**|**EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization**|Kevin Han et.al.|[2602.05165](http://arxiv.org/abs/2602.05165)|null|
+|**2026-02-04**|**Reinforcement Learning Enhancement Using Vector Semantic Representation and Symbolic Reasoning for Human-Centered Autonomous Emergency Braking**|Vinal Asodia et.al.|[2602.05079](http://arxiv.org/abs/2602.05079)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
 |**2026-02-04**|**QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning**|Doyeon Lee et.al.|[2602.04620](http://arxiv.org/abs/2602.04620)|null|
 |**2026-02-04**|**EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL**|Lunjun Zhang et.al.|[2602.04417](http://arxiv.org/abs/2602.04417)|null|
 |**2026-02-04**|**MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation**|Lin Wang et.al.|[2602.04278](http://arxiv.org/abs/2602.04278)|null|
@@ -192,8 +202,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Anchored Policy Optimization: Mitigating Exploration Collapse Via Support-Constrained Rectification**|Tianyi Wang et.al.|[2602.05717](http://arxiv.org/abs/2602.05717)|null|
+|**2026-02-05**|**Rewards as Labels: Revisiting RLVR from a Classification Perspective**|Zepeng Zhai et.al.|[2602.05630](http://arxiv.org/abs/2602.05630)|null|
+|**2026-02-05**|**Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation**|Zhiqi Yu et.al.|[2602.05548](http://arxiv.org/abs/2602.05548)|null|
+|**2026-02-05**|**A Unified Framework for Rethinking Policy Divergence Measures in GRPO**|Qingyuan Wu et.al.|[2602.05494](http://arxiv.org/abs/2602.05494)|null|
+|**2026-02-05**|**Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities**|Pengyi Li et.al.|[2602.05281](http://arxiv.org/abs/2602.05281)|null|
+|**2026-02-05**|**Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR**|Fanfan Liu et.al.|[2602.05261](http://arxiv.org/abs/2602.05261)|null|
+|**2026-02-05**|**EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization**|Kevin Han et.al.|[2602.05165](http://arxiv.org/abs/2602.05165)|null|
+|**2026-02-04**|**Euphonium: Steering Video Flow Matching via Process Reward Gradient Guided Stochastic Dynamics**|Ruizhe Zhong et.al.|[2602.04928](http://arxiv.org/abs/2602.04928)|null|
 |**2026-02-04**|**Thickening-to-Thinning: Reward Shaping via Human-Inspired Learning Dynamics for LLM Reasoning**|Wenze Lin et.al.|[2602.04265](http://arxiv.org/abs/2602.04265)|null|
-|**2026-02-04**|**Training Data Efficiency in Multimodal Process Reward Models**|Jinyuan Li et.al.|[2602.04145](http://arxiv.org/abs/2602.04145)|null|
+|**2026-02-05**|**Training Data Efficiency in Multimodal Process Reward Models**|Jinyuan Li et.al.|[2602.04145](http://arxiv.org/abs/2602.04145)|null|
 |**2026-02-03**|**Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning**|Zidi Xiong et.al.|[2602.03978](http://arxiv.org/abs/2602.03978)|null|
 |**2026-02-03**|**Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling**|Yubao Zhao et.al.|[2602.03719](http://arxiv.org/abs/2602.03719)|null|
 |**2026-02-03**|**Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation**|Changze Lv et.al.|[2602.03619](http://arxiv.org/abs/2602.03619)|null|
