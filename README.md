@@ -202,6 +202,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**$f$ -GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment**|Rajdeep Haldar et.al.|[2602.05946](http://arxiv.org/abs/2602.05946)|null|
+|**2026-02-05**|**Stop Rewarding Hallucinated Steps: Faithfulness-Aware Step-Level Reinforcement Learning for Small Reasoning Models**|Shuo Nie et.al.|[2602.05897](http://arxiv.org/abs/2602.05897)|null|
 |**2026-02-05**|**Anchored Policy Optimization: Mitigating Exploration Collapse Via Support-Constrained Rectification**|Tianyi Wang et.al.|[2602.05717](http://arxiv.org/abs/2602.05717)|null|
 |**2026-02-05**|**Rewards as Labels: Revisiting RLVR from a Classification Perspective**|Zepeng Zhai et.al.|[2602.05630](http://arxiv.org/abs/2602.05630)|null|
 |**2026-02-05**|**Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation**|Zhiqi Yu et.al.|[2602.05548](http://arxiv.org/abs/2602.05548)|null|
