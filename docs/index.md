@@ -9,15 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**rePIRL: Learn PRM with Inverse RL for LLM Reasoning**|Xian Wu et.al.|[2602.07832](http://arxiv.org/abs/2602.07832)|null|
+|**2026-02-07**|**Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs**|Sagnik Mukherjee et.al.|[2602.07729](http://arxiv.org/abs/2602.07729)|null|
+|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-06**|**Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling**|Kate Sanders et.al.|[2602.06795](http://arxiv.org/abs/2602.06795)|null|
+|**2026-02-06**|**F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare**|Daniil Plyusov et.al.|[2602.06717](http://arxiv.org/abs/2602.06717)|null|
+|**2026-02-06**|**Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models**|Li Lu et.al.|[2602.06687](http://arxiv.org/abs/2602.06687)|null|
+|**2026-02-06**|**AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents**|Haotian Chen et.al.|[2602.06485](http://arxiv.org/abs/2602.06485)|null|
+|**2026-02-06**|**VowelPrompt: Hearing Speech Emotions from Text via Vowel-level Prosodic Augmentation**|Yancheng Wang et.al.|[2602.06270](http://arxiv.org/abs/2602.06270)|null|
+|**2026-02-05**|**Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning**|Zhuoming Chen et.al.|[2602.06107](http://arxiv.org/abs/2602.06107)|null|
 |**2026-02-05**|**$f$ -GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment**|Rajdeep Haldar et.al.|[2602.05946](http://arxiv.org/abs/2602.05946)|null|
 |**2026-02-05**|**LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards**|Bowen Ping et.al.|[2602.05758](http://arxiv.org/abs/2602.05758)|null|
 |**2026-02-05**|**Anchored Policy Optimization: Mitigating Exploration Collapse Via Support-Constrained Rectification**|Tianyi Wang et.al.|[2602.05717](http://arxiv.org/abs/2602.05717)|null|
 |**2026-02-05**|**Rewards as Labels: Revisiting RLVR from a Classification Perspective**|Zepeng Zhai et.al.|[2602.05630](http://arxiv.org/abs/2602.05630)|null|
 |**2026-02-05**|**Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation**|Zhiqi Yu et.al.|[2602.05548](http://arxiv.org/abs/2602.05548)|null|
-|**2026-02-05**|**A Unified Framework for Rethinking Policy Divergence Measures in GRPO**|Qingyuan Wu et.al.|[2602.05494](http://arxiv.org/abs/2602.05494)|null|
-|**2026-02-05**|**Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities**|Pengyi Li et.al.|[2602.05281](http://arxiv.org/abs/2602.05281)|null|
+|**2026-02-07**|**A Unified Framework for Rethinking Policy Divergence Measures in GRPO**|Qingyuan Wu et.al.|[2602.05494](http://arxiv.org/abs/2602.05494)|null|
+|**2026-02-06**|**Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities**|Pengyi Li et.al.|[2602.05281](http://arxiv.org/abs/2602.05281)|null|
 |**2026-02-05**|**Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR**|Fanfan Liu et.al.|[2602.05261](http://arxiv.org/abs/2602.05261)|null|
-|**2026-02-05**|**EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization**|Kevin Han et.al.|[2602.05165](http://arxiv.org/abs/2602.05165)|null|
+|**2026-02-07**|**EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization**|Kevin Han et.al.|[2602.05165](http://arxiv.org/abs/2602.05165)|null|
 |**2026-02-04**|**Reinforcement Learning Enhancement Using Vector Semantic Representation and Symbolic Reasoning for Human-Centered Autonomous Emergency Braking**|Vinal Asodia et.al.|[2602.05079](http://arxiv.org/abs/2602.05079)|null|
 |**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
 |**2026-02-04**|**QUATRO: Query-Adaptive Trust Region Policy Optimization for LLM Fine-tuning**|Doyeon Lee et.al.|[2602.04620](http://arxiv.org/abs/2602.04620)|null|
@@ -196,6 +205,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**rePIRL: Learn PRM with Inverse RL for LLM Reasoning**|Xian Wu et.al.|[2602.07832](http://arxiv.org/abs/2602.07832)|null|
+|**2026-02-08**|**Generative Reasoning Re-ranker**|Mingfu Liang et.al.|[2602.07774](http://arxiv.org/abs/2602.07774)|null|
+|**2026-02-07**|**Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs**|Sagnik Mukherjee et.al.|[2602.07729](http://arxiv.org/abs/2602.07729)|null|
+|**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
+|**2026-02-06**|**Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling**|Kate Sanders et.al.|[2602.06795](http://arxiv.org/abs/2602.06795)|null|
+|**2026-02-06**|**F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare**|Daniil Plyusov et.al.|[2602.06717](http://arxiv.org/abs/2602.06717)|null|
+|**2026-02-06**|**Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models**|Li Lu et.al.|[2602.06687](http://arxiv.org/abs/2602.06687)|null|
+|**2026-02-06**|**Adaptive Uncertainty-Aware Tree Search for Robust Reasoning**|Zeen Song et.al.|[2602.06493](http://arxiv.org/abs/2602.06493)|null|
+|**2026-02-06**|**POINTS-GUI-G: GUI-Grounding Journey**|Zhongyin Zhao et.al.|[2602.06391](http://arxiv.org/abs/2602.06391)|null|
+|**2026-02-06**|**B-GRPO: Unsupervised Speech Emotion Recognition based on Batched-Group Relative Policy Optimization**|Yingying Gao et.al.|[2602.06290](http://arxiv.org/abs/2602.06290)|null|
+|**2026-02-06**|**VowelPrompt: Hearing Speech Emotions from Text via Vowel-level Prosodic Augmentation**|Yancheng Wang et.al.|[2602.06270](http://arxiv.org/abs/2602.06270)|null|
 |**2026-02-05**|**$f$ -GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment**|Rajdeep Haldar et.al.|[2602.05946](http://arxiv.org/abs/2602.05946)|null|
 |**2026-02-05**|**Stop Rewarding Hallucinated Steps: Faithfulness-Aware Step-Level Reinforcement Learning for Small Reasoning Models**|Shuo Nie et.al.|[2602.05897](http://arxiv.org/abs/2602.05897)|null|
 |**2026-02-05**|**Anchored Policy Optimization: Mitigating Exploration Collapse Via Support-Constrained Rectification**|Tianyi Wang et.al.|[2602.05717](http://arxiv.org/abs/2602.05717)|null|
