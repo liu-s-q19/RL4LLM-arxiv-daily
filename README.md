@@ -14,9 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Flexible Entropy Control in RLVR with Gradient-Preserving Perspective**|Kun Chen et.al.|[2602.09782](http://arxiv.org/abs/2602.09782)|null|
+|**2026-02-10**|**Reward Modeling for Reinforcement Learning-Based LLM Reasoning: Design, Challenges, and Evaluation**|Pei-Chi Pan et.al.|[2602.09305](http://arxiv.org/abs/2602.09305)|null|
+|**2026-02-09**|**$n$ -Musketeers: Reinforcement Learning Shapes Collaboration Among Language Models**|Ryozo Masukawa et.al.|[2602.09173](http://arxiv.org/abs/2602.09173)|null|
+|**2026-02-09**|**Beyond Scalar Scores: Reinforcement Learning for Error-Aware Quality Estimation of Machine Translation**|Archchana Sindhujan et.al.|[2602.08600](http://arxiv.org/abs/2602.08600)|null|
+|**2026-02-09**|**Learning Self-Correction in Vision-Language Models via Rollout Augmentation**|Yi Ding et.al.|[2602.08503](http://arxiv.org/abs/2602.08503)|null|
+|**2026-02-09**|**Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards**|Xiaodong Lu et.al.|[2602.08499](http://arxiv.org/abs/2602.08499)|null|
+|**2026-02-09**|**Beyond Correctness: Learning Robust Reasoning via Transfer**|Hyunseok Lee et.al.|[2602.08489](http://arxiv.org/abs/2602.08489)|null|
+|**2026-02-10**|**E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs**|Xianjie Liu et.al.|[2602.08355](http://arxiv.org/abs/2602.08355)|null|
+|**2026-02-09**|**OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration**|Qi Guo et.al.|[2602.08344](http://arxiv.org/abs/2602.08344)|null|
+|**2026-02-09**|**New Skills or Sharper Primitives? A Probabilistic Perspective on the Emergence of Reasoning in RLVR**|Zhilin Wang et.al.|[2602.08281](http://arxiv.org/abs/2602.08281)|null|
+|**2026-02-09**|**Document Reconstruction Unlocks Scalable Long-Context RLVR**|Yao Xiao et.al.|[2602.08237](http://arxiv.org/abs/2602.08237)|null|
+|**2026-02-08**|**When Is Compositional Reasoning Learnable from Verifiable Rewards?**|Daniel Barzilai et.al.|[2602.07992](http://arxiv.org/abs/2602.07992)|null|
 |**2026-02-08**|**rePIRL: Learn PRM with Inverse RL for LLM Reasoning**|Xian Wu et.al.|[2602.07832](http://arxiv.org/abs/2602.07832)|null|
 |**2026-02-07**|**Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs**|Sagnik Mukherjee et.al.|[2602.07729](http://arxiv.org/abs/2602.07729)|null|
-|**2026-02-06**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
+|**2026-02-09**|**InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning**|Yuchen Yan et.al.|[2602.06960](http://arxiv.org/abs/2602.06960)|null|
 |**2026-02-06**|**Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling**|Kate Sanders et.al.|[2602.06795](http://arxiv.org/abs/2602.06795)|null|
 |**2026-02-06**|**F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare**|Daniil Plyusov et.al.|[2602.06717](http://arxiv.org/abs/2602.06717)|null|
 |**2026-02-06**|**Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models**|Li Lu et.al.|[2602.06687](http://arxiv.org/abs/2602.06687)|null|
@@ -198,7 +210,7 @@
 |**2025-10-06**|**Reinforcement Learning for Clinical Reasoning: Aligning LLMs with ACR Imaging Appropriateness Criteria**|Anni Tziakouri et.al.|[2510.05194](http://arxiv.org/abs/2510.05194)|null|
 |**2025-10-01**|**Prompt Curriculum Learning for Efficient LLM Post-Training**|Zhaolin Gao et.al.|[2510.01135](http://arxiv.org/abs/2510.01135)|null|
 |**2025-10-14**|**GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning**|Mustansar Fiaz et.al.|[2509.25026](http://arxiv.org/abs/2509.25026)|null|
-|**2025-12-27**|**No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM Reinforcement Learning via Entropy-Guided Advantage Shaping**|Thanh-Long V. Le et.al.|[2509.21880](http://arxiv.org/abs/2509.21880)|null|
+|**2026-02-09**|**No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM Reinforcement Learning via Entropy-Guided Advantage Shaping**|Thanh-Long V. Le et.al.|[2509.21880](http://arxiv.org/abs/2509.21880)|null|
 |**2025-09-11**|**MR-UIE: Multi-Perspective Reasoning with Reinforcement Learning for Universal Information Extraction**|Zhongqiu Li et.al.|[2509.09082](http://arxiv.org/abs/2509.09082)|null|
 |**2025-11-20**|**PepThink-R1: LLM for Interpretable Cyclic Peptide Optimization with CoT SFT and Reinforcement Learning**|Ruheng Wang et.al.|[2508.14765](http://arxiv.org/abs/2508.14765)|null|
 |**2025-08-21**|**ThinkTuning: Instilling Cognitive Reflections without Distillation**|Aswin RRV et.al.|[2508.07616](http://arxiv.org/abs/2508.07616)|null|
@@ -212,8 +224,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Flexible Entropy Control in RLVR with Gradient-Preserving Perspective**|Kun Chen et.al.|[2602.09782](http://arxiv.org/abs/2602.09782)|null|
+|**2026-02-09**|**$n$ -Musketeers: Reinforcement Learning Shapes Collaboration Among Language Models**|Ryozo Masukawa et.al.|[2602.09173](http://arxiv.org/abs/2602.09173)|null|
+|**2026-02-09**|**Bayesian Preference Learning for Test-Time Steerable Reward Models**|Jiwoo Hong et.al.|[2602.08819](http://arxiv.org/abs/2602.08819)|null|
+|**2026-02-09**|**Contextual Rollout Bandits for Reinforcement Learning with Verifiable Rewards**|Xiaodong Lu et.al.|[2602.08499](http://arxiv.org/abs/2602.08499)|null|
+|**2026-02-09**|**Beyond Correctness: Learning Robust Reasoning via Transfer**|Hyunseok Lee et.al.|[2602.08489](http://arxiv.org/abs/2602.08489)|null|
+|**2026-02-09**|**What, Whether and How? Unveiling Process Reward Models for Thinking with Images Reasoning**|Yujin Zhou et.al.|[2602.08346](http://arxiv.org/abs/2602.08346)|null|
+|**2026-02-09**|**OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration**|Qi Guo et.al.|[2602.08344](http://arxiv.org/abs/2602.08344)|null|
+|**2026-02-09**|**CoTZero: Annotation-Free Human-Like Vision Reasoning via Hierarchical Synthetic CoT**|Chengyi Du et.al.|[2602.08339](http://arxiv.org/abs/2602.08339)|null|
+|**2026-02-09**|**New Skills or Sharper Primitives? A Probabilistic Perspective on the Emergence of Reasoning in RLVR**|Zhilin Wang et.al.|[2602.08281](http://arxiv.org/abs/2602.08281)|null|
+|**2026-02-09**|**Document Reconstruction Unlocks Scalable Long-Context RLVR**|Yao Xiao et.al.|[2602.08237](http://arxiv.org/abs/2602.08237)|null|
+|**2026-02-08**|**When Is Compositional Reasoning Learnable from Verifiable Rewards?**|Daniel Barzilai et.al.|[2602.07992](http://arxiv.org/abs/2602.07992)|null|
 |**2026-02-08**|**rePIRL: Learn PRM with Inverse RL for LLM Reasoning**|Xian Wu et.al.|[2602.07832](http://arxiv.org/abs/2602.07832)|null|
-|**2026-02-08**|**Generative Reasoning Re-ranker**|Mingfu Liang et.al.|[2602.07774](http://arxiv.org/abs/2602.07774)|null|
+|**2026-02-10**|**Generative Reasoning Re-ranker**|Mingfu Liang et.al.|[2602.07774](http://arxiv.org/abs/2602.07774)|null|
 |**2026-02-07**|**Do We Need Adam? Surprisingly Strong and Sparse Reinforcement Learning with SGD in LLMs**|Sagnik Mukherjee et.al.|[2602.07729](http://arxiv.org/abs/2602.07729)|null|
 |**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
 |**2026-02-06**|**Generating Data-Driven Reasoning Rubrics for Domain-Adaptive Reward Modeling**|Kate Sanders et.al.|[2602.06795](http://arxiv.org/abs/2602.06795)|null|
@@ -398,6 +421,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios**|Tian Gao et.al.|[2602.08440](http://arxiv.org/abs/2602.08440)|null|
 |**2026-01-30**|**MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving**|Xidong Li et.al.|[2601.22930](http://arxiv.org/abs/2601.22930)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
 |**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
