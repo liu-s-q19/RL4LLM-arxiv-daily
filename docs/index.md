@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**|Leheng Sheng et.al.|[2602.10885](http://arxiv.org/abs/2602.10885)|null|
+|**2026-02-11**|**Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models**|Williams Jonathan et.al.|[2602.10520](http://arxiv.org/abs/2602.10520)|null|
+|**2026-02-10**|**Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models**|Shiting Huang et.al.|[2602.10224](http://arxiv.org/abs/2602.10224)|null|
+|**2026-02-10**|**ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning**|Shuaiyi Nie et.al.|[2602.09953](http://arxiv.org/abs/2602.09953)|null|
 |**2026-02-10**|**Flexible Entropy Control in RLVR with Gradient-Preserving Perspective**|Kun Chen et.al.|[2602.09782](http://arxiv.org/abs/2602.09782)|null|
 |**2026-02-10**|**Reward Modeling for Reinforcement Learning-Based LLM Reasoning: Design, Challenges, and Evaluation**|Pei-Chi Pan et.al.|[2602.09305](http://arxiv.org/abs/2602.09305)|null|
 |**2026-02-09**|**$n$ -Musketeers: Reinforcement Learning Shapes Collaboration Among Language Models**|Ryozo Masukawa et.al.|[2602.09173](http://arxiv.org/abs/2602.09173)|null|
@@ -217,6 +221,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**|Leheng Sheng et.al.|[2602.10885](http://arxiv.org/abs/2602.10885)|null|
+|**2026-02-11**|**ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents**|Cong Pang et.al.|[2602.10863](http://arxiv.org/abs/2602.10863)|null|
+|**2026-02-11**|**Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models**|Williams Jonathan et.al.|[2602.10520](http://arxiv.org/abs/2602.10520)|null|
+|**2026-02-11**|**SecCodePRM: A Process Reward Model for Code Security**|Weichen Yu et.al.|[2602.10418](http://arxiv.org/abs/2602.10418)|null|
+|**2026-02-10**|**Blockwise Advantage Estimation for Multi-Objective RL with Verifiable Rewards**|Kirill Pavlenko et.al.|[2602.10231](http://arxiv.org/abs/2602.10231)|null|
+|**2026-02-10**|**Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models**|Shiting Huang et.al.|[2602.10224](http://arxiv.org/abs/2602.10224)|null|
+|**2026-02-10**|**ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning**|Shuaiyi Nie et.al.|[2602.09953](http://arxiv.org/abs/2602.09953)|null|
 |**2026-02-10**|**Flexible Entropy Control in RLVR with Gradient-Preserving Perspective**|Kun Chen et.al.|[2602.09782](http://arxiv.org/abs/2602.09782)|null|
 |**2026-02-09**|**$n$ -Musketeers: Reinforcement Learning Shapes Collaboration Among Language Models**|Ryozo Masukawa et.al.|[2602.09173](http://arxiv.org/abs/2602.09173)|null|
 |**2026-02-09**|**Bayesian Preference Learning for Test-Time Steerable Reward Models**|Jiwoo Hong et.al.|[2602.08819](http://arxiv.org/abs/2602.08819)|null|
@@ -412,6 +423,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving**|Sining Ang et.al.|[2602.10719](http://arxiv.org/abs/2602.10719)|null|
+|**2026-02-11**|**Found-RL: foundation model-enhanced reinforcement learning for autonomous driving**|Yansong Qu et.al.|[2602.10458](http://arxiv.org/abs/2602.10458)|null|
 |**2026-02-09**|**SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios**|Tian Gao et.al.|[2602.08440](http://arxiv.org/abs/2602.08440)|null|
 |**2026-01-30**|**MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving**|Xidong Li et.al.|[2601.22930](http://arxiv.org/abs/2601.22930)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
