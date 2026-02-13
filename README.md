@@ -14,8 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**|Xin Xu et.al.|[2602.12036](http://arxiv.org/abs/2602.12036)|null|
+|**2026-02-12**|**Detecting RLVR Training Data via Structural Convergence of Reasoning**|Hongbo Zhang et.al.|[2602.11792](http://arxiv.org/abs/2602.11792)|null|
+|**2026-02-12**|**RELATE: A Reinforcement Learning-Enhanced LLM Framework for Advertising Text Generation**|Jinfang Wang et.al.|[2602.11780](http://arxiv.org/abs/2602.11780)|null|
+|**2026-02-12**|**Temperature as a Meta-Policy: Adaptive Temperature in LLM Reinforcement Learning**|Haoran Dang et.al.|[2602.11779](http://arxiv.org/abs/2602.11779)|null|
+|**2026-02-12**|**TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents**|Aladin Djuhera et.al.|[2602.11767](http://arxiv.org/abs/2602.11767)|null|
+|**2026-02-12**|**PRIME: A Process-Outcome Alignment Benchmark for Verifiable Reasoning in Mathematics and Engineering**|Xiangfeng Wang et.al.|[2602.11570](http://arxiv.org/abs/2602.11570)|null|
+|**2026-02-12**|**Native Reasoning Models: Training Language Models to Reason on Unverifiable Data**|Yuanfu Wang et.al.|[2602.11549](http://arxiv.org/abs/2602.11549)|null|
+|**2026-02-12**|**Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning**|Zhengbo Jiao et.al.|[2602.11455](http://arxiv.org/abs/2602.11455)|null|
+|**2026-02-11**|**PhyCritic: Multimodal Critic Models for Physical AI**|Tianyi Xiong et.al.|[2602.11124](http://arxiv.org/abs/2602.11124)|null|
 |**2026-02-11**|**Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**|Leheng Sheng et.al.|[2602.10885](http://arxiv.org/abs/2602.10885)|null|
-|**2026-02-11**|**Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models**|Williams Jonathan et.al.|[2602.10520](http://arxiv.org/abs/2602.10520)|null|
+|**2026-02-12**|**Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models**|Jonathan Williams et.al.|[2602.10520](http://arxiv.org/abs/2602.10520)|null|
 |**2026-02-10**|**Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models**|Shiting Huang et.al.|[2602.10224](http://arxiv.org/abs/2602.10224)|null|
 |**2026-02-10**|**ATTNPO: Attention-Guided Process Supervision for Efficient Reasoning**|Shuaiyi Nie et.al.|[2602.09953](http://arxiv.org/abs/2602.09953)|null|
 |**2026-02-10**|**Flexible Entropy Control in RLVR with Gradient-Preserving Perspective**|Kun Chen et.al.|[2602.09782](http://arxiv.org/abs/2602.09782)|null|
@@ -228,9 +237,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**|Xin Xu et.al.|[2602.12036](http://arxiv.org/abs/2602.12036)|null|
+|**2026-02-12**|**Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments**|Romain Froger et.al.|[2602.11964](http://arxiv.org/abs/2602.11964)|null|
+|**2026-02-12**|**Detecting RLVR Training Data via Structural Convergence of Reasoning**|Hongbo Zhang et.al.|[2602.11792](http://arxiv.org/abs/2602.11792)|null|
+|**2026-02-12**|**Quark Medical Alignment: A Holistic Multi-Dimensional Alignment and Collaborative Optimization Paradigm**|Tianxiang Xu et.al.|[2602.11661](http://arxiv.org/abs/2602.11661)|null|
+|**2026-02-12**|**PRIME: A Process-Outcome Alignment Benchmark for Verifiable Reasoning in Mathematics and Engineering**|Xiangfeng Wang et.al.|[2602.11570](http://arxiv.org/abs/2602.11570)|null|
+|**2026-02-12**|**Native Reasoning Models: Training Language Models to Reason on Unverifiable Data**|Yuanfu Wang et.al.|[2602.11549](http://arxiv.org/abs/2602.11549)|null|
+|**2026-02-12**|**Adaptive Milestone Reward for GUI Agents**|Congmin Zheng et.al.|[2602.11524](http://arxiv.org/abs/2602.11524)|null|
+|**2026-02-12**|**Credit Where It is Due: Cross-Modality Connectivity Drives Precise Reinforcement Learning for MLLM Reasoning**|Zhengbo Jiao et.al.|[2602.11455](http://arxiv.org/abs/2602.11455)|null|
+|**2026-02-11**|**Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards**|Reinhard Heckel et.al.|[2602.11128](http://arxiv.org/abs/2602.11128)|null|
 |**2026-02-11**|**Reinforcing Chain-of-Thought Reasoning with Self-Evolving Rubrics**|Leheng Sheng et.al.|[2602.10885](http://arxiv.org/abs/2602.10885)|null|
 |**2026-02-11**|**ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents**|Cong Pang et.al.|[2602.10863](http://arxiv.org/abs/2602.10863)|null|
-|**2026-02-11**|**Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models**|Williams Jonathan et.al.|[2602.10520](http://arxiv.org/abs/2602.10520)|null|
+|**2026-02-12**|**Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models**|Jonathan Williams et.al.|[2602.10520](http://arxiv.org/abs/2602.10520)|null|
 |**2026-02-11**|**SecCodePRM: A Process Reward Model for Code Security**|Weichen Yu et.al.|[2602.10418](http://arxiv.org/abs/2602.10418)|null|
 |**2026-02-10**|**Blockwise Advantage Estimation for Multi-Objective RL with Verifiable Rewards**|Kirill Pavlenko et.al.|[2602.10231](http://arxiv.org/abs/2602.10231)|null|
 |**2026-02-10**|**Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models**|Shiting Huang et.al.|[2602.10224](http://arxiv.org/abs/2602.10224)|null|
