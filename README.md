@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
+|**2026-02-13**|**Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models**|Zesheng Hong et.al.|[2602.12846](http://arxiv.org/abs/2602.12846)|null|
+|**2026-02-13**|**Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR**|Dohyung Kim et.al.|[2602.12642](http://arxiv.org/abs/2602.12642)|null|
+|**2026-02-13**|**VI-CuRL: Stabilizing Verifier-Independent RL Reasoning via Confidence-Guided Variance Reduction**|Xin-Qiang Cai et.al.|[2602.12579](http://arxiv.org/abs/2602.12579)|null|
+|**2026-02-13**|**To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models**|Haoqing Wang et.al.|[2602.12566](http://arxiv.org/abs/2602.12566)|null|
 |**2026-02-12**|**Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**|Xin Xu et.al.|[2602.12036](http://arxiv.org/abs/2602.12036)|null|
 |**2026-02-12**|**Detecting RLVR Training Data via Structural Convergence of Reasoning**|Hongbo Zhang et.al.|[2602.11792](http://arxiv.org/abs/2602.11792)|null|
 |**2026-02-12**|**RELATE: A Reinforcement Learning-Enhanced LLM Framework for Advertising Text Generation**|Jinfang Wang et.al.|[2602.11780](http://arxiv.org/abs/2602.11780)|null|
@@ -237,6 +242,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
+|**2026-02-13**|**Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models**|Zesheng Hong et.al.|[2602.12846](http://arxiv.org/abs/2602.12846)|null|
+|**2026-02-13**|**VI-CuRL: Stabilizing Verifier-Independent RL Reasoning via Confidence-Guided Variance Reduction**|Xin-Qiang Cai et.al.|[2602.12579](http://arxiv.org/abs/2602.12579)|null|
+|**2026-02-13**|**To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models**|Haoqing Wang et.al.|[2602.12566](http://arxiv.org/abs/2602.12566)|null|
+|**2026-02-12**|**What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis**|Xirui Li et.al.|[2602.12395](http://arxiv.org/abs/2602.12395)|null|
 |**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|null|
 |**2026-02-12**|**Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**|Xin Xu et.al.|[2602.12036](http://arxiv.org/abs/2602.12036)|null|
 |**2026-02-12**|**Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments**|Romain Froger et.al.|[2602.11964](http://arxiv.org/abs/2602.11964)|null|
@@ -453,7 +463,7 @@
 |---|---|---|---|---|
 |**2026-02-11**|**From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving**|Sining Ang et.al.|[2602.10719](http://arxiv.org/abs/2602.10719)|null|
 |**2026-02-11**|**Found-RL: foundation model-enhanced reinforcement learning for autonomous driving**|Yansong Qu et.al.|[2602.10458](http://arxiv.org/abs/2602.10458)|null|
-|**2026-02-09**|**SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios**|Tian Gao et.al.|[2602.08440](http://arxiv.org/abs/2602.08440)|null|
+|**2026-02-13**|**SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios**|Tian Gao et.al.|[2602.08440](http://arxiv.org/abs/2602.08440)|null|
 |**2026-01-30**|**MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving**|Xidong Li et.al.|[2601.22930](http://arxiv.org/abs/2601.22930)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
 |**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
