@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Deep Dense Exploration for LLM Reinforcement Learning via Pivot-Driven Resampling**|Yiran Guo et.al.|[2602.14169](http://arxiv.org/abs/2602.14169)|null|
+|**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012](http://arxiv.org/abs/2602.14012)|null|
+|**2026-02-15**|**QuRL: Efficient Reinforcement Learning with Quantized Rollout**|Yuhang Li et.al.|[2602.13953](http://arxiv.org/abs/2602.13953)|null|
+|**2026-02-14**|**Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings**|Haonan Jiang et.al.|[2602.13823](http://arxiv.org/abs/2602.13823)|null|
 |**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
 |**2026-02-13**|**Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models**|Zesheng Hong et.al.|[2602.12846](http://arxiv.org/abs/2602.12846)|null|
 |**2026-02-13**|**Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR**|Dohyung Kim et.al.|[2602.12642](http://arxiv.org/abs/2602.12642)|null|
@@ -235,6 +239,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Process-Supervised Multi-Agent Reinforcement Learning for Reliable Clinical Reasoning**|Chaeeun Lee et.al.|[2602.14160](http://arxiv.org/abs/2602.14160)|null|
+|**2026-02-15**|**GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training**|Yuan Cao et.al.|[2602.14093](http://arxiv.org/abs/2602.14093)|null|
+|**2026-02-15**|**Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**|Ruipeng Jia et.al.|[2602.14069](http://arxiv.org/abs/2602.14069)|null|
+|**2026-02-15**|**QuRL: Efficient Reinforcement Learning with Quantized Rollout**|Yuhang Li et.al.|[2602.13953](http://arxiv.org/abs/2602.13953)|null|
 |**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
 |**2026-02-13**|**Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models**|Zesheng Hong et.al.|[2602.12846](http://arxiv.org/abs/2602.12846)|null|
 |**2026-02-13**|**VI-CuRL: Stabilizing Verifier-Independent RL Reasoning via Confidence-Guided Variance Reduction**|Xin-Qiang Cai et.al.|[2602.12579](http://arxiv.org/abs/2602.12579)|null|
