@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
+|**2026-02-17**|**The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes**|Mohammad Taufeeque et.al.|[2602.15515](http://arxiv.org/abs/2602.15515)|null|
+|**2026-02-16**|**On the Learning Dynamics of RLVR at the Edge of Competence**|Yu Huang et.al.|[2602.14872](http://arxiv.org/abs/2602.14872)|null|
+|**2026-02-16**|**Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs**|Lunjun Zhang et.al.|[2602.14697](http://arxiv.org/abs/2602.14697)|null|
+|**2026-02-16**|**TikArt: Aperture-Guided Observation for Fine-Grained Visual Reasoning via Reinforcement Learning**|Hao Ding et.al.|[2602.14482](http://arxiv.org/abs/2602.14482)|null|
+|**2026-02-16**|**LACONIC: Length-Aware Constrained Reinforcement Learning for LLM**|Chang Liu et.al.|[2602.14468](http://arxiv.org/abs/2602.14468)|null|
+|**2026-02-15**|**Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning**|Zhi Zhang et.al.|[2602.14338](http://arxiv.org/abs/2602.14338)|null|
+|**2026-02-15**|**Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding**|Fengxiang Wang et.al.|[2602.14225](http://arxiv.org/abs/2602.14225)|null|
 |**2026-02-15**|**Deep Dense Exploration for LLM Reinforcement Learning via Pivot-Driven Resampling**|Yiran Guo et.al.|[2602.14169](http://arxiv.org/abs/2602.14169)|null|
 |**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012](http://arxiv.org/abs/2602.14012)|null|
 |**2026-02-15**|**QuRL: Efficient Reinforcement Learning with Quantized Rollout**|Yuhang Li et.al.|[2602.13953](http://arxiv.org/abs/2602.13953)|null|
@@ -239,6 +247,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**On the Learning Dynamics of RLVR at the Edge of Competence**|Yu Huang et.al.|[2602.14872](http://arxiv.org/abs/2602.14872)|null|
+|**2026-02-16**|**MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation**|Hongpeng Wang et.al.|[2602.14534](http://arxiv.org/abs/2602.14534)|null|
+|**2026-02-15**|**Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning**|Zhi Zhang et.al.|[2602.14338](http://arxiv.org/abs/2602.14338)|null|
+|**2026-02-15**|**Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding**|Fengxiang Wang et.al.|[2602.14225](http://arxiv.org/abs/2602.14225)|null|
 |**2026-02-15**|**Process-Supervised Multi-Agent Reinforcement Learning for Reliable Clinical Reasoning**|Chaeeun Lee et.al.|[2602.14160](http://arxiv.org/abs/2602.14160)|null|
 |**2026-02-15**|**GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training**|Yuan Cao et.al.|[2602.14093](http://arxiv.org/abs/2602.14093)|null|
 |**2026-02-15**|**Open Rubric System: Scaling Reinforcement Learning with Pairwise Adaptive Rubric**|Ruipeng Jia et.al.|[2602.14069](http://arxiv.org/abs/2602.14069)|null|
