@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards**|Johannes Ackermann et.al.|[2602.18037](http://arxiv.org/abs/2602.18037)|null|
 |**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
 |**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
 |**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
@@ -253,6 +254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards**|Johannes Ackermann et.al.|[2602.18037](http://arxiv.org/abs/2602.18037)|null|
 |**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
 |**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
 |**2026-02-18**|**References Improve LLM Alignment in Non-Verifiable Domains**|Kejian Shi et.al.|[2602.16802](http://arxiv.org/abs/2602.16802)|null|
@@ -483,6 +485,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving**|Sutej Kulgod et.al.|[2602.17677](http://arxiv.org/abs/2602.17677)|null|
 |**2026-02-11**|**From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving**|Sining Ang et.al.|[2602.10719](http://arxiv.org/abs/2602.10719)|null|
 |**2026-02-11**|**Found-RL: foundation model-enhanced reinforcement learning for autonomous driving**|Yansong Qu et.al.|[2602.10458](http://arxiv.org/abs/2602.10458)|null|
 |**2026-02-13**|**SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios**|Tian Gao et.al.|[2602.08440](http://arxiv.org/abs/2602.08440)|null|
