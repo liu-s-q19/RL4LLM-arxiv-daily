@@ -9,16 +9,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning**|Xu Wan et.al.|[2602.20722](http://arxiv.org/abs/2602.20722)|null|
+|**2026-02-22**|**Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning**|Zhuoxu Huang et.al.|[2602.20197](http://arxiv.org/abs/2602.20197)|null|
+|**2026-02-23**|**ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models**|Andre He et.al.|[2602.20117](http://arxiv.org/abs/2602.20117)|null|
+|**2026-02-23**|**DSDR: Dual-Scale Diversity Regularization for Exploration in LLM Reasoning**|Zhongwei Wan et.al.|[2602.19895](http://arxiv.org/abs/2602.19895)|null|
+|**2026-02-23**|**SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning**|Zelin He et.al.|[2602.19455](http://arxiv.org/abs/2602.19455)|null|
 |**2026-02-22**|**Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering**|Maryam Amirizaniani et.al.|[2602.19317](http://arxiv.org/abs/2602.19317)|null|
 |**2026-02-22**|**How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization**|Yangyi Fang et.al.|[2602.19208](http://arxiv.org/abs/2602.19208)|null|
 |**2026-02-20**|**Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards**|Johannes Ackermann et.al.|[2602.18037](http://arxiv.org/abs/2602.18037)|null|
 |**2026-02-19**|**Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs**|Luke Huang et.al.|[2602.17616](http://arxiv.org/abs/2602.17616)|null|
 |**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
-|**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
+|**2026-02-24**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
 |**2026-02-19**|**Algorithmic Collusion at Test Time: A Meta-game Design and Evaluation**|Yuhong Luo et.al.|[2602.17203](http://arxiv.org/abs/2602.17203)|null|
 |**2026-02-18**|**References Improve LLM Alignment in Non-Verifiable Domains**|Kejian Shi et.al.|[2602.16802](http://arxiv.org/abs/2602.16802)|null|
 |**2026-02-18**|**DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning**|Haoxiang Sun et.al.|[2602.16742](http://arxiv.org/abs/2602.16742)|null|
-|**2026-02-18**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
+|**2026-02-23**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
 |**2026-02-17**|**The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes**|Mohammad Taufeeque et.al.|[2602.15515](http://arxiv.org/abs/2602.15515)|null|
 |**2026-02-16**|**On the Learning Dynamics of RLVR at the Edge of Competence**|Yu Huang et.al.|[2602.14872](http://arxiv.org/abs/2602.14872)|null|
 |**2026-02-16**|**Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs**|Lunjun Zhang et.al.|[2602.14697](http://arxiv.org/abs/2602.14697)|null|
@@ -256,13 +261,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning**|Xu Wan et.al.|[2602.20722](http://arxiv.org/abs/2602.20722)|null|
+|**2026-02-24**|**GATES: Self-Distillation under Privileged Context with Consensus Gating**|Alex Stein et.al.|[2602.20574](http://arxiv.org/abs/2602.20574)|null|
+|**2026-02-22**|**Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning**|Zhuoxu Huang et.al.|[2602.20197](http://arxiv.org/abs/2602.20197)|null|
+|**2026-02-23**|**ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models**|Andre He et.al.|[2602.20117](http://arxiv.org/abs/2602.20117)|null|
+|**2026-02-23**|**SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning**|Zelin He et.al.|[2602.19455](http://arxiv.org/abs/2602.19455)|null|
+|**2026-02-23**|**OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents**|Ruicheng Ao et.al.|[2602.19439](http://arxiv.org/abs/2602.19439)|null|
 |**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Shirui Chen et.al.|[2602.19313](http://arxiv.org/abs/2602.19313)|null|
 |**2026-02-22**|**How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization**|Yangyi Fang et.al.|[2602.19208](http://arxiv.org/abs/2602.19208)|null|
 |**2026-02-22**|**Adaptive Problem Generation via Symbolic Representations**|Teresa Yeo et.al.|[2602.19187](http://arxiv.org/abs/2602.19187)|null|
 |**2026-02-22**|**EMAD: Evidence-Centric Grounded Multimodal Diagnosis for Alzheimer's Disease**|Qiuhui Chen et.al.|[2602.19178](http://arxiv.org/abs/2602.19178)|null|
 |**2026-02-20**|**Gradient Regularization Prevents Reward Hacking in Reinforcement Learning from Human Feedback and Verifiable Rewards**|Johannes Ackermann et.al.|[2602.18037](http://arxiv.org/abs/2602.18037)|null|
 |**2026-02-19**|**RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward**|Qiucheng Wu et.al.|[2602.17558](http://arxiv.org/abs/2602.17558)|null|
-|**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
+|**2026-02-24**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|
 |**2026-02-18**|**References Improve LLM Alignment in Non-Verifiable Domains**|Kejian Shi et.al.|[2602.16802](http://arxiv.org/abs/2602.16802)|null|
 |**2026-02-18**|**DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning**|Haoxiang Sun et.al.|[2602.16742](http://arxiv.org/abs/2602.16742)|null|
 |**2026-02-22**|**Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents**|Yun-Shiuan Chuang et.al.|[2602.16246](http://arxiv.org/abs/2602.16246)|null|
