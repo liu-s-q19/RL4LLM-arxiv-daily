@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization**|Jinghan Li et.al.|[2602.21743](http://arxiv.org/abs/2602.21743)|null|
+|**2026-02-25**|**RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**|Yukun Chen et.al.|[2602.21628](http://arxiv.org/abs/2602.21628)|null|
+|**2026-02-25**|**GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning**|Ningyuan Yang et.al.|[2602.21492](http://arxiv.org/abs/2602.21492)|null|
+|**2026-02-24**|**Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning**|Yuanda Xu et.al.|[2602.21420](http://arxiv.org/abs/2602.21420)|null|
 |**2026-02-24**|**Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning**|Xu Wan et.al.|[2602.20722](http://arxiv.org/abs/2602.20722)|null|
 |**2026-02-22**|**Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning**|Zhuoxu Huang et.al.|[2602.20197](http://arxiv.org/abs/2602.20197)|null|
 |**2026-02-23**|**ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models**|Andre He et.al.|[2602.20117](http://arxiv.org/abs/2602.20117)|null|
@@ -261,12 +265,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization**|Jinghan Li et.al.|[2602.21743](http://arxiv.org/abs/2602.21743)|null|
+|**2026-02-25**|**RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**|Yukun Chen et.al.|[2602.21628](http://arxiv.org/abs/2602.21628)|null|
+|**2026-02-24**|**Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning**|Yuanda Xu et.al.|[2602.21420](http://arxiv.org/abs/2602.21420)|null|
 |**2026-02-24**|**Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning**|Xu Wan et.al.|[2602.20722](http://arxiv.org/abs/2602.20722)|null|
 |**2026-02-24**|**GATES: Self-Distillation under Privileged Context with Consensus Gating**|Alex Stein et.al.|[2602.20574](http://arxiv.org/abs/2602.20574)|null|
 |**2026-02-22**|**Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning**|Zhuoxu Huang et.al.|[2602.20197](http://arxiv.org/abs/2602.20197)|null|
 |**2026-02-23**|**ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models**|Andre He et.al.|[2602.20117](http://arxiv.org/abs/2602.20117)|null|
 |**2026-02-23**|**SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning**|Zelin He et.al.|[2602.19455](http://arxiv.org/abs/2602.19455)|null|
-|**2026-02-23**|**OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents**|Ruicheng Ao et.al.|[2602.19439](http://arxiv.org/abs/2602.19439)|null|
+|**2026-02-24**|**OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents**|Ruicheng Ao et.al.|[2602.19439](http://arxiv.org/abs/2602.19439)|null|
 |**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Shirui Chen et.al.|[2602.19313](http://arxiv.org/abs/2602.19313)|null|
 |**2026-02-22**|**How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization**|Yangyi Fang et.al.|[2602.19208](http://arxiv.org/abs/2602.19208)|null|
 |**2026-02-22**|**Adaptive Problem Generation via Symbolic Representations**|Teresa Yeo et.al.|[2602.19187](http://arxiv.org/abs/2602.19187)|null|
