@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
+|**2026-03-02**|**Expanding LLM Agent Boundaries with Strategy-Guided Exploration**|Andrew Szot et.al.|[2603.02045](http://arxiv.org/abs/2603.02045)|null|
+|**2026-03-02**|**Efficient RLVR Training via Weighted Mutual Information Data Selection**|Xinyu Zhou et.al.|[2603.01907](http://arxiv.org/abs/2603.01907)|null|
+|**2026-03-02**|**Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models**|Qiyuan Zhang et.al.|[2603.01571](http://arxiv.org/abs/2603.01571)|null|
+|**2026-03-02**|**LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**|Chenxing Wei et.al.|[2603.01563](http://arxiv.org/abs/2603.01563)|null|
+|**2026-03-02**|**Align and Filter: Improving Performance in Asynchronous On-Policy RL**|Homayoun Honari et.al.|[2603.01365](http://arxiv.org/abs/2603.01365)|null|
+|**2026-03-01**|**MOSAIC: A Unified Platform for Cross-Paradigm Comparison and Evaluation of Homogeneous and Heterogeneous Multi-Agent RL, LLM, VLM, and Human Decision-Makers**|Abdulhamid M. Mousa et.al.|[2603.01260](http://arxiv.org/abs/2603.01260)|null|
+|**2026-03-01**|**Towards Policy-Adaptive Image Guardrail: Benchmark and Method**|Caiyong Piao et.al.|[2603.01228](http://arxiv.org/abs/2603.01228)|null|
+|**2026-03-01**|**How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning**|Xiangxiang Zhang et.al.|[2603.01070](http://arxiv.org/abs/2603.01070)|null|
 |**2026-02-27**|**Recycling Failures: Salvaging Exploration in RLVR via Fine-Grained Off-Policy Guidance**|Yanwei Ren et.al.|[2602.24110](http://arxiv.org/abs/2602.24110)|null|
 |**2026-02-27**|**Task Complexity Matters: An Empirical Study of Reasoning in LLMs for Sentiment Analysis**|Donghao Huang et.al.|[2602.24060](http://arxiv.org/abs/2602.24060)|null|
 |**2026-02-26**|**Know What You Know: Metacognitive Entropy Calibration for Verifiable RL Reasoning**|Qiannian Zhao et.al.|[2602.22751](http://arxiv.org/abs/2602.22751)|null|
@@ -17,7 +26,7 @@ layout: default
 |**2026-02-25**|**UpSkill: Mutual Information Skill Learning for Structured Response Diversity in LLMs**|Devan Shah et.al.|[2602.22296](http://arxiv.org/abs/2602.22296)|null|
 |**2026-02-25**|**GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL**|Rui Yang et.al.|[2602.22190](http://arxiv.org/abs/2602.22190)|null|
 |**2026-02-26**|**Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization**|Jinghan Li et.al.|[2602.21743](http://arxiv.org/abs/2602.21743)|null|
-|**2026-02-25**|**RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**|Yukun Chen et.al.|[2602.21628](http://arxiv.org/abs/2602.21628)|null|
+|**2026-03-03**|**RuCL: Stratified Rubric-Based Curriculum Learning for Multimodal Large Language Model Reasoning**|Yukun Chen et.al.|[2602.21628](http://arxiv.org/abs/2602.21628)|null|
 |**2026-02-25**|**GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning**|Ningyuan Yang et.al.|[2602.21492](http://arxiv.org/abs/2602.21492)|null|
 |**2026-02-24**|**Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning**|Yuanda Xu et.al.|[2602.21420](http://arxiv.org/abs/2602.21420)|null|
 |**2026-02-24**|**Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning**|Xu Wan et.al.|[2602.20722](http://arxiv.org/abs/2602.20722)|null|
@@ -272,6 +281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference**|Rituraj Sharma et.al.|[2603.02479](http://arxiv.org/abs/2603.02479)|null|
+|**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
+|**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
+|**2026-03-02**|**Expanding LLM Agent Boundaries with Strategy-Guided Exploration**|Andrew Szot et.al.|[2603.02045](http://arxiv.org/abs/2603.02045)|null|
+|**2026-03-02**|**Efficient RLVR Training via Weighted Mutual Information Data Selection**|Xinyu Zhou et.al.|[2603.01907](http://arxiv.org/abs/2603.01907)|null|
+|**2026-03-02**|**CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework**|Yuexi Du et.al.|[2603.01607](http://arxiv.org/abs/2603.01607)|null|
+|**2026-03-02**|**Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models**|Qiyuan Zhang et.al.|[2603.01571](http://arxiv.org/abs/2603.01571)|null|
+|**2026-03-02**|**LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**|Chenxing Wei et.al.|[2603.01563](http://arxiv.org/abs/2603.01563)|null|
+|**2026-03-01**|**Towards Policy-Adaptive Image Guardrail: Benchmark and Method**|Caiyong Piao et.al.|[2603.01228](http://arxiv.org/abs/2603.01228)|null|
+|**2026-03-01**|**DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent**|Tongzhou Wu et.al.|[2603.01152](http://arxiv.org/abs/2603.01152)|null|
 |**2026-02-27**|**Stepwise Penalization for Length-Efficient Chain-of-Thought Reasoning**|Xintong Li et.al.|[2603.00296](http://arxiv.org/abs/2603.00296)|null|
 |**2026-02-27**|**Recycling Failures: Salvaging Exploration in RLVR via Fine-Grained Off-Policy Guidance**|Yanwei Ren et.al.|[2602.24110](http://arxiv.org/abs/2602.24110)|null|
 |**2026-02-26**|**Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning**|Chris Samarinas et.al.|[2602.23440](http://arxiv.org/abs/2602.23440)|null|
@@ -525,6 +544,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**|Zhiye Wang et.al.|[2603.00919](http://arxiv.org/abs/2603.00919)|null|
 |**2026-01-28**|**Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving**|Sutej Kulgod et.al.|[2602.17677](http://arxiv.org/abs/2602.17677)|null|
 |**2026-02-11**|**From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving**|Sining Ang et.al.|[2602.10719](http://arxiv.org/abs/2602.10719)|null|
 |**2026-02-11**|**Found-RL: foundation model-enhanced reinforcement learning for autonomous driving**|Yansong Qu et.al.|[2602.10458](http://arxiv.org/abs/2602.10458)|null|
