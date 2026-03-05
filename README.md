@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning**|Anas Zafar et.al.|[2603.03437](http://arxiv.org/abs/2603.03437)|null|
 |**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
 |**2026-03-02**|**Expanding LLM Agent Boundaries with Strategy-Guided Exploration**|Andrew Szot et.al.|[2603.02045](http://arxiv.org/abs/2603.02045)|null|
 |**2026-03-02**|**Efficient RLVR Training via Weighted Mutual Information Data Selection**|Xinyu Zhou et.al.|[2603.01907](http://arxiv.org/abs/2603.01907)|null|
@@ -288,6 +289,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**A Rubric-Supervised Critic from Sparse Real-World Outcomes**|Xingyao Wang et.al.|[2603.03800](http://arxiv.org/abs/2603.03800)|null|
+|**2026-03-03**|**Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning**|Anas Zafar et.al.|[2603.03437](http://arxiv.org/abs/2603.03437)|null|
 |**2026-03-03**|**PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference**|Rituraj Sharma et.al.|[2603.02479](http://arxiv.org/abs/2603.02479)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208](http://arxiv.org/abs/2603.02208)|null|
 |**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
