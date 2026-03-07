@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding**|Xiongkun Linghu et.al.|[2603.04976](http://arxiv.org/abs/2603.04976)|null|
+|**2026-03-05**|**BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning**|Yuan Li et.al.|[2603.04918](http://arxiv.org/abs/2603.04918)|null|
+|**2026-03-04**|**BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning**|Tarjei Paule Hage et.al.|[2603.04124](http://arxiv.org/abs/2603.04124)|null|
 |**2026-03-03**|**Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning**|Anas Zafar et.al.|[2603.03437](http://arxiv.org/abs/2603.03437)|null|
 |**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|
 |**2026-03-02**|**Expanding LLM Agent Boundaries with Strategy-Guided Exploration**|Andrew Szot et.al.|[2603.02045](http://arxiv.org/abs/2603.02045)|null|
@@ -289,6 +292,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation**|Benjamin Feuer et.al.|[2603.05485](http://arxiv.org/abs/2603.05485)|null|
+|**2026-03-05**|**3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding**|Xiongkun Linghu et.al.|[2603.04976](http://arxiv.org/abs/2603.04976)|null|
+|**2026-03-04**|**BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning**|Tarjei Paule Hage et.al.|[2603.04124](http://arxiv.org/abs/2603.04124)|null|
 |**2026-03-04**|**A Rubric-Supervised Critic from Sparse Real-World Outcomes**|Xingyao Wang et.al.|[2603.03800](http://arxiv.org/abs/2603.03800)|null|
 |**2026-03-03**|**Beyond Accuracy: Evaluating Visual Grounding In Multimodal Medical Reasoning**|Anas Zafar et.al.|[2603.03437](http://arxiv.org/abs/2603.03437)|null|
 |**2026-03-03**|**PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference**|Rituraj Sharma et.al.|[2603.02479](http://arxiv.org/abs/2603.02479)|null|
@@ -591,8 +597,8 @@
 |**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[2506.06218](http://arxiv.org/abs/2506.06218)|null|
 |**2025-05-30**|**ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving**|Yongming Chen et.al.|[2505.24317](http://arxiv.org/abs/2505.24317)|null|
 |**2025-05-22**|**VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving**|Yansong Qu et.al.|[2505.16377](http://arxiv.org/abs/2505.16377)|null|
-|**2025-07-11**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[2505.08264](http://arxiv.org/abs/2505.08264)|null|
-|**2025-07-11**|**Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**|Ahmed Abouelazm et.al.|[2505.06737](http://arxiv.org/abs/2505.06737)|null|
+|**2026-03-05**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[2505.08264](http://arxiv.org/abs/2505.08264)|null|
+|**2026-03-05**|**Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**|Ahmed Abouelazm et.al.|[2505.06737](http://arxiv.org/abs/2505.06737)|null|
 |**2025-04-28**|**Interactive Double Deep Q-network: Integrating Human Interventions and Evaluative Predictions in Reinforcement Learning of Autonomous Driving**|Alkis Sygkounas et.al.|[2505.01440](http://arxiv.org/abs/2505.01440)|null|
 |**2025-03-27**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[2503.19690](http://arxiv.org/abs/2503.19690)|null|
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400](http://arxiv.org/abs/2503.11400)|null|
