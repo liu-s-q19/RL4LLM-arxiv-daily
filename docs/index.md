@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](http://arxiv.org/abs/2603.07961)|null|
+|**2026-03-09**|**SWE-Fuse: Empowering Software Agents via Issue-free Trajectory Learning and Entropy-aware RLVR Training**|Xin-Cheng Wen et.al.|[2603.07927](http://arxiv.org/abs/2603.07927)|null|
+|**2026-03-09**|**SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans**|Hansi Zeng et.al.|[2603.07853](http://arxiv.org/abs/2603.07853)|null|
+|**2026-03-07**|**$\textbf{Re}^{2}$ : Unlocking LLM Reasoning via Reinforcement Learning with Re-solving**|Pinzheng Wang et.al.|[2603.07197](http://arxiv.org/abs/2603.07197)|null|
+|**2026-03-07**|**Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking in RLVR**|Muhammad Khalifa et.al.|[2603.07084](http://arxiv.org/abs/2603.07084)|null|
+|**2026-03-06**|**Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration**|Yanjun Chen et.al.|[2603.06859](http://arxiv.org/abs/2603.06859)|null|
 |**2026-03-06**|**Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion**|Pengcheng Jiang et.al.|[2603.06397](http://arxiv.org/abs/2603.06397)|null|
 |**2026-03-06**|**Partial Policy Gradients for RL in LLMs**|Puneet Mathur et.al.|[2603.06138](http://arxiv.org/abs/2603.06138)|null|
 |**2026-03-06**|**Reference-guided Policy Optimization for Molecular Optimization via LLM Reasoning**|Xuan Li et.al.|[2603.05900](http://arxiv.org/abs/2603.05900)|null|
@@ -289,6 +295,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning**|Chi-Min Chan et.al.|[2603.08095](http://arxiv.org/abs/2603.08095)|null|
+|**2026-03-09**|**Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference**|Noah Golowich et.al.|[2603.07887](http://arxiv.org/abs/2603.07887)|null|
+|**2026-03-09**|**SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans**|Hansi Zeng et.al.|[2603.07853](http://arxiv.org/abs/2603.07853)|null|
+|**2026-03-08**|**Shorter Thoughts, Same Answers: Difficulty-Scaled Segment-Wise RL for CoT Compression**|Ye Tian et.al.|[2603.07598](http://arxiv.org/abs/2603.07598)|null|
+|**2026-03-07**|**$\textbf{Re}^{2}$ : Unlocking LLM Reasoning via Reinforcement Learning with Re-solving**|Pinzheng Wang et.al.|[2603.07197](http://arxiv.org/abs/2603.07197)|null|
+|**2026-03-07**|**Chart-RL: Generalized Chart Comprehension via Reinforcement Learning with Verifiable Rewards**|Xin Zhang et.al.|[2603.06958](http://arxiv.org/abs/2603.06958)|null|
+|**2026-03-07**|**Post-Training with Policy Gradients: Optimality and the Base Model Barrier**|Alireza Mousavi-Hosseini et.al.|[2603.06957](http://arxiv.org/abs/2603.06957)|null|
 |**2026-03-06**|**From Entropy to Calibrated Uncertainty: Training Language Models to Reason About Uncertainty**|Azza Jenane et.al.|[2603.06317](http://arxiv.org/abs/2603.06317)|null|
 |**2026-03-06**|**ChatShopBuddy: Towards Reliable Conversational Shopping Agents via Reinforcement Learning**|Yiruo Cheng et.al.|[2603.06065](http://arxiv.org/abs/2603.06065)|null|
 |**2026-03-06**|**Reference-guided Policy Optimization for Molecular Optimization via LLM Reasoning**|Xuan Li et.al.|[2603.05900](http://arxiv.org/abs/2603.05900)|null|
@@ -569,7 +582,7 @@ layout: default
 |**2026-02-13**|**SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios**|Tian Gao et.al.|[2602.08440](http://arxiv.org/abs/2602.08440)|null|
 |**2026-01-30**|**MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving**|Xidong Li et.al.|[2601.22930](http://arxiv.org/abs/2601.22930)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
-|**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
+|**2026-03-07**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
 |**2026-01-29**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Ziang Guo et.al.|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
 |**2026-01-12**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
 |**2025-12-06**|**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**|Mingwang Xu et.al.|[2512.11872](http://arxiv.org/abs/2512.11872)|null|
