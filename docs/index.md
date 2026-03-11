@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning**|Tiehua Mei et.al.|[2603.09803](http://arxiv.org/abs/2603.09803)|null|
+|**2026-03-10**|**MORE-R1: Guiding LVLM for Multimodal Object-Entity Relation Extraction via Stepwise Reasoning with Reinforcement Learning**|Xiang Yuan et.al.|[2603.09478](http://arxiv.org/abs/2603.09478)|null|
+|**2026-03-10**|**Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards**|Zhengzhao Ma et.al.|[2603.09117](http://arxiv.org/abs/2603.09117)|null|
+|**2026-03-09**|**Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance**|Joshua Castillo et.al.|[2603.08933](http://arxiv.org/abs/2603.08933)|null|
+|**2026-03-09**|**How Far Can Unsupervised RLVR Scale LLM Training?**|Bingxiang He et.al.|[2603.08660](http://arxiv.org/abs/2603.08660)|null|
 |**2026-03-09**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](http://arxiv.org/abs/2603.07961)|null|
 |**2026-03-09**|**SWE-Fuse: Empowering Software Agents via Issue-free Trajectory Learning and Entropy-aware RLVR Training**|Xin-Cheng Wen et.al.|[2603.07927](http://arxiv.org/abs/2603.07927)|null|
 |**2026-03-09**|**SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans**|Hansi Zeng et.al.|[2603.07853](http://arxiv.org/abs/2603.07853)|null|
@@ -295,6 +300,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning**|Tiehua Mei et.al.|[2603.09803](http://arxiv.org/abs/2603.09803)|null|
+|**2026-03-10**|**Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments**|Haoyuan Li et.al.|[2603.09740](http://arxiv.org/abs/2603.09740)|null|
+|**2026-03-10**|**GeoSolver: Scaling Test-Time Reasoning in Remote Sensing with Fine-Grained Process Supervision**|Lang Sun et.al.|[2603.09551](http://arxiv.org/abs/2603.09551)|null|
+|**2026-03-10**|**Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards**|Zhengzhao Ma et.al.|[2603.09117](http://arxiv.org/abs/2603.09117)|null|
+|**2026-03-09**|**MAPLE: Elevating Medical Reasoning from Statistical Consensus to Process-Led Alignment**|Kailong Fan et.al.|[2603.08987](http://arxiv.org/abs/2603.08987)|null|
+|**2026-03-09**|**How Far Can Unsupervised RLVR Scale LLM Training?**|Bingxiang He et.al.|[2603.08660](http://arxiv.org/abs/2603.08660)|null|
+|**2026-03-09**|**Not All Queries Need Deep Thought: CoFiCot for Adaptive Coarse-to-fine Stateful Refinement**|Dongxu Zhang et.al.|[2603.08251](http://arxiv.org/abs/2603.08251)|null|
 |**2026-03-09**|**DC-W2S: Dual-Consensus Weak-to-Strong Training for Reliable Process Reward Modeling in Biological Reasoning**|Chi-Min Chan et.al.|[2603.08095](http://arxiv.org/abs/2603.08095)|null|
 |**2026-03-09**|**Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference**|Noah Golowich et.al.|[2603.07887](http://arxiv.org/abs/2603.07887)|null|
 |**2026-03-09**|**SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans**|Hansi Zeng et.al.|[2603.07853](http://arxiv.org/abs/2603.07853)|null|
@@ -574,6 +586,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning**|Chun-Peng Chang et.al.|[2603.09512](http://arxiv.org/abs/2603.09512)|null|
+|**2026-03-09**|**Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures**|David Fernandez et.al.|[2603.08897](http://arxiv.org/abs/2603.08897)|null|
 |**2026-03-06**|**BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**|Thomas Monninger et.al.|[2603.06576](http://arxiv.org/abs/2603.06576)|null|
 |**2026-03-01**|**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**|Zhiye Wang et.al.|[2603.00919](http://arxiv.org/abs/2603.00919)|null|
 |**2026-01-28**|**Reducing Text Bias in Synthetically Generated MCQAs for VLMs in Autonomous Driving**|Sutej Kulgod et.al.|[2602.17677](http://arxiv.org/abs/2602.17677)|null|
