@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|
+|**2026-03-11**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
+|**2026-03-11**|**Reinforcement Learning with Conditional Expectation Reward**|Changyi Xiao et.al.|[2603.10624](http://arxiv.org/abs/2603.10624)|null|
+|**2026-03-11**|**Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning**|Zhaowei Zhang et.al.|[2603.10588](http://arxiv.org/abs/2603.10588)|null|
+|**2026-03-11**|**Tackling Length Inflation Without Trade-offs: Group Relative Reward Rescaling for Reinforcement Learning**|Zichao Li et.al.|[2603.10535](http://arxiv.org/abs/2603.10535)|null|
+|**2026-03-10**|**Calibration-Reasoning Framework for Descriptive Speech Quality Assessment**|Elizaveta Kostenok et.al.|[2603.10175](http://arxiv.org/abs/2603.10175)|null|
+|**2026-03-10**|**CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR**|Sijia Cui et.al.|[2603.10101](http://arxiv.org/abs/2603.10101)|null|
 |**2026-03-10**|**Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning**|Tiehua Mei et.al.|[2603.09803](http://arxiv.org/abs/2603.09803)|null|
 |**2026-03-10**|**MORE-R1: Guiding LVLM for Multimodal Object-Entity Relation Extraction via Stepwise Reasoning with Reinforcement Learning**|Xiang Yuan et.al.|[2603.09478](http://arxiv.org/abs/2603.09478)|null|
 |**2026-03-10**|**Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards**|Zhengzhao Ma et.al.|[2603.09117](http://arxiv.org/abs/2603.09117)|null|
@@ -71,7 +78,7 @@
 |**2026-02-17**|**The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes**|Mohammad Taufeeque et.al.|[2602.15515](http://arxiv.org/abs/2602.15515)|null|
 |**2026-02-16**|**On the Learning Dynamics of RLVR at the Edge of Competence**|Yu Huang et.al.|[2602.14872](http://arxiv.org/abs/2602.14872)|null|
 |**2026-02-16**|**Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs**|Lunjun Zhang et.al.|[2602.14697](http://arxiv.org/abs/2602.14697)|null|
-|**2026-02-16**|**TikArt: Aperture-Guided Observation for Fine-Grained Visual Reasoning via Reinforcement Learning**|Hao Ding et.al.|[2602.14482](http://arxiv.org/abs/2602.14482)|null|
+|**2026-03-11**|**TikArt: Stabilizing Aperture-Guided Fine-Grained Visual Reasoning with Reinforcement Learning**|Hao Ding et.al.|[2602.14482](http://arxiv.org/abs/2602.14482)|null|
 |**2026-02-16**|**LACONIC: Length-Aware Constrained Reinforcement Learning for LLM**|Chang Liu et.al.|[2602.14468](http://arxiv.org/abs/2602.14468)|null|
 |**2026-02-15**|**Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning**|Zhi Zhang et.al.|[2602.14338](http://arxiv.org/abs/2602.14338)|null|
 |**2026-02-15**|**Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding**|Fengxiang Wang et.al.|[2602.14225](http://arxiv.org/abs/2602.14225)|null|
@@ -307,6 +314,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|
+|**2026-03-11**|**Multilingual Reasoning Gym: Multilingual Scaling of Procedural Reasoning Environments**|Konstantin Dobler et.al.|[2603.10793](http://arxiv.org/abs/2603.10793)|null|
+|**2026-03-11**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
+|**2026-03-11**|**Reinforcement Learning with Conditional Expectation Reward**|Changyi Xiao et.al.|[2603.10624](http://arxiv.org/abs/2603.10624)|null|
+|**2026-03-11**|**Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning**|Zhaowei Zhang et.al.|[2603.10588](http://arxiv.org/abs/2603.10588)|null|
+|**2026-03-11**|**Safe and Scalable Web Agent Learning via Recreated Websites**|Hyungjoo Chae et.al.|[2603.10505](http://arxiv.org/abs/2603.10505)|null|
+|**2026-03-11**|**Graph-GRPO: Training Graph Flow Models with Reinforcement Learning**|Baoheng Zhu et.al.|[2603.10395](http://arxiv.org/abs/2603.10395)|null|
+|**2026-03-10**|**CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR**|Sijia Cui et.al.|[2603.10101](http://arxiv.org/abs/2603.10101)|null|
 |**2026-03-10**|**Good Reasoning Makes Good Demonstrations: Implicit Reasoning Quality Supervision via In-Context Reinforcement Learning**|Tiehua Mei et.al.|[2603.09803](http://arxiv.org/abs/2603.09803)|null|
 |**2026-03-10**|**Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments**|Haoyuan Li et.al.|[2603.09740](http://arxiv.org/abs/2603.09740)|null|
 |**2026-03-10**|**GeoSolver: Scaling Test-Time Reasoning in Remote Sensing with Fine-Grained Process Supervision**|Lang Sun et.al.|[2603.09551](http://arxiv.org/abs/2603.09551)|null|
