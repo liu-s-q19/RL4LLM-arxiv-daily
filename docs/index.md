@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models**|Samy Jelassi et.al.|[2603.12248](http://arxiv.org/abs/2603.12248)|null|
+|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
+|**2026-03-11**|**Hindsight-Anchored Policy Optimization: Turning Failure into Feedback in Sparse Reward Settings**|Yuning Wu et.al.|[2603.11321](http://arxiv.org/abs/2603.11321)|null|
+|**2026-03-11**|**DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning**|Hanxu Hu et.al.|[2603.11193](http://arxiv.org/abs/2603.11193)|null|
 |**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|
 |**2026-03-11**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
 |**2026-03-11**|**Reinforcement Learning with Conditional Expectation Reward**|Changyi Xiao et.al.|[2603.10624](http://arxiv.org/abs/2603.10624)|null|
@@ -21,7 +25,7 @@ layout: default
 |**2026-03-10**|**Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards**|Zhengzhao Ma et.al.|[2603.09117](http://arxiv.org/abs/2603.09117)|null|
 |**2026-03-09**|**Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance**|Joshua Castillo et.al.|[2603.08933](http://arxiv.org/abs/2603.08933)|null|
 |**2026-03-09**|**How Far Can Unsupervised RLVR Scale LLM Training?**|Bingxiang He et.al.|[2603.08660](http://arxiv.org/abs/2603.08660)|null|
-|**2026-03-09**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](http://arxiv.org/abs/2603.07961)|null|
+|**2026-03-12**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](http://arxiv.org/abs/2603.07961)|null|
 |**2026-03-09**|**SWE-Fuse: Empowering Software Agents via Issue-free Trajectory Learning and Entropy-aware RLVR Training**|Xin-Cheng Wen et.al.|[2603.07927](http://arxiv.org/abs/2603.07927)|null|
 |**2026-03-09**|**SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans**|Hansi Zeng et.al.|[2603.07853](http://arxiv.org/abs/2603.07853)|null|
 |**2026-03-07**|**$\textbf{Re}^{2}$ : Unlocking LLM Reasoning via Reinforcement Learning with Re-solving**|Pinzheng Wang et.al.|[2603.07197](http://arxiv.org/abs/2603.07197)|null|
@@ -80,7 +84,7 @@ layout: default
 |**2026-02-15**|**Deep Dense Exploration for LLM Reinforcement Learning via Pivot-Driven Resampling**|Yiran Guo et.al.|[2602.14169](http://arxiv.org/abs/2602.14169)|null|
 |**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012](http://arxiv.org/abs/2602.14012)|null|
 |**2026-02-15**|**QuRL: Efficient Reinforcement Learning with Quantized Rollout**|Yuhang Li et.al.|[2602.13953](http://arxiv.org/abs/2602.13953)|null|
-|**2026-02-21**|**Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings**|Haonan Jiang et.al.|[2602.13823](http://arxiv.org/abs/2602.13823)|null|
+|**2026-03-12**|**Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings**|Haonan Jiang et.al.|[2602.13823](http://arxiv.org/abs/2602.13823)|null|
 |**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
 |**2026-02-13**|**Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models**|Zesheng Hong et.al.|[2602.12846](http://arxiv.org/abs/2602.12846)|null|
 |**2026-02-13**|**Beyond Normalization: Rethinking the Partition Function as a Difficulty Scheduler for RLVR**|Dohyung Kim et.al.|[2602.12642](http://arxiv.org/abs/2602.12642)|null|
@@ -307,6 +311,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Hindsight-Anchored Policy Optimization: Turning Failure into Feedback in Sparse Reward Settings**|Yuning Wu et.al.|[2603.11321](http://arxiv.org/abs/2603.11321)|null|
+|**2026-03-11**|**DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning**|Hanxu Hu et.al.|[2603.11193](http://arxiv.org/abs/2603.11193)|null|
 |**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|
 |**2026-03-11**|**Multilingual Reasoning Gym: Multilingual Scaling of Procedural Reasoning Environments**|Konstantin Dobler et.al.|[2603.10793](http://arxiv.org/abs/2603.10793)|null|
 |**2026-03-11**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
