@@ -14,12 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Test-time RL alignment exposes task familiarity artifacts in LLM benchmarks**|Kun Wang et.al.|[2603.12875](http://arxiv.org/abs/2603.12875)|null|
+|**2026-03-13**|**Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design**|Xu Guo et.al.|[2603.12826](http://arxiv.org/abs/2603.12826)|null|
+|**2026-03-13**|**EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning**|Chi Ruan et.al.|[2603.12698](http://arxiv.org/abs/2603.12698)|null|
 |**2026-03-12**|**Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models**|Samy Jelassi et.al.|[2603.12248](http://arxiv.org/abs/2603.12248)|null|
 |**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
 |**2026-03-11**|**Hindsight-Anchored Policy Optimization: Turning Failure into Feedback in Sparse Reward Settings**|Yuning Wu et.al.|[2603.11321](http://arxiv.org/abs/2603.11321)|null|
 |**2026-03-11**|**DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning**|Hanxu Hu et.al.|[2603.11193](http://arxiv.org/abs/2603.11193)|null|
 |**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|
-|**2026-03-11**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
+|**2026-03-13**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
 |**2026-03-11**|**Reinforcement Learning with Conditional Expectation Reward**|Changyi Xiao et.al.|[2603.10624](http://arxiv.org/abs/2603.10624)|null|
 |**2026-03-11**|**Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning**|Zhaowei Zhang et.al.|[2603.10588](http://arxiv.org/abs/2603.10588)|null|
 |**2026-03-11**|**Tackling Length Inflation Without Trade-offs: Group Relative Reward Rescaling for Reinforcement Learning**|Zichao Li et.al.|[2603.10535](http://arxiv.org/abs/2603.10535)|null|
@@ -318,11 +321,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Thinking in Streaming Video**|Zikang Liu et.al.|[2603.12938](http://arxiv.org/abs/2603.12938)|null|
+|**2026-03-13**|**Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design**|Xu Guo et.al.|[2603.12826](http://arxiv.org/abs/2603.12826)|null|
+|**2026-03-13**|**Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing**|Shuchang Lyu et.al.|[2603.12788](http://arxiv.org/abs/2603.12788)|null|
+|**2026-03-13**|**EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning**|Chi Ruan et.al.|[2603.12698](http://arxiv.org/abs/2603.12698)|null|
 |**2026-03-11**|**Hindsight-Anchored Policy Optimization: Turning Failure into Feedback in Sparse Reward Settings**|Yuning Wu et.al.|[2603.11321](http://arxiv.org/abs/2603.11321)|null|
 |**2026-03-11**|**DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning**|Hanxu Hu et.al.|[2603.11193](http://arxiv.org/abs/2603.11193)|null|
 |**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|
 |**2026-03-11**|**Multilingual Reasoning Gym: Multilingual Scaling of Procedural Reasoning Environments**|Konstantin Dobler et.al.|[2603.10793](http://arxiv.org/abs/2603.10793)|null|
-|**2026-03-11**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
+|**2026-03-13**|**mAceReason-Math: A Dataset of High-Quality Multilingual Math Problems Ready For RLVR**|Konstantin Dobler et.al.|[2603.10767](http://arxiv.org/abs/2603.10767)|null|
 |**2026-03-11**|**Reinforcement Learning with Conditional Expectation Reward**|Changyi Xiao et.al.|[2603.10624](http://arxiv.org/abs/2603.10624)|null|
 |**2026-03-11**|**Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning**|Zhaowei Zhang et.al.|[2603.10588](http://arxiv.org/abs/2603.10588)|null|
 |**2026-03-11**|**Safe and Scalable Web Agent Learning via Recreated Websites**|Hyungjoo Chae et.al.|[2603.10505](http://arxiv.org/abs/2603.10505)|null|
