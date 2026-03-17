@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**An Industrial-Scale Insurance LLM Achieving Verifiable Domain Mastery and Hallucination Control without Competence Trade-offs**|Qian Zhu et.al.|[2603.14463](http://arxiv.org/abs/2603.14463)|null|
+|**2026-03-15**|**From $\boldsymbol{\logπ}$ to $\boldsymbolπ$ : Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight**|Xiaoliang Fu et.al.|[2603.14389](http://arxiv.org/abs/2603.14389)|null|
+|**2026-03-07**|**AutoTool: Automatic Scaling of Tool-Use Capabilities in RL via Decoupled Entropy Constraints**|Yirong Zeng et.al.|[2603.13348](http://arxiv.org/abs/2603.13348)|null|
 |**2026-03-13**|**Test-time RL alignment exposes task familiarity artifacts in LLM benchmarks**|Kun Wang et.al.|[2603.12875](http://arxiv.org/abs/2603.12875)|null|
 |**2026-03-13**|**Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design**|Xu Guo et.al.|[2603.12826](http://arxiv.org/abs/2603.12826)|null|
 |**2026-03-13**|**EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning**|Chi Ruan et.al.|[2603.12698](http://arxiv.org/abs/2603.12698)|null|
@@ -321,6 +324,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting**|Daeun Lee et.al.|[2603.14659](http://arxiv.org/abs/2603.14659)|null|
+|**2026-03-15**|**From $\boldsymbol{\logπ}$ to $\boldsymbolπ$ : Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight**|Xiaoliang Fu et.al.|[2603.14389](http://arxiv.org/abs/2603.14389)|null|
 |**2026-03-13**|**Thinking in Streaming Video**|Zikang Liu et.al.|[2603.12938](http://arxiv.org/abs/2603.12938)|null|
 |**2026-03-13**|**Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design**|Xu Guo et.al.|[2603.12826](http://arxiv.org/abs/2603.12826)|null|
 |**2026-03-13**|**Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing**|Shuchang Lyu et.al.|[2603.12788](http://arxiv.org/abs/2603.12788)|null|
