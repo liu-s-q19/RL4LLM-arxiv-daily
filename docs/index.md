@@ -9,13 +9,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**IQuest-Coder-V1 Technical Report**|Jian Yang et.al.|[2603.16733](http://arxiv.org/abs/2603.16733)|null|
+|**2026-03-17**|**When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making**|Jun Liu et.al.|[2603.16673](http://arxiv.org/abs/2603.16673)|null|
+|**2026-03-17**|**Dual Consensus: Escaping from Spurious Majority in Unsupervised RLVR via Two-Stage Vote Mechanism**|Kaixuan Du et.al.|[2603.16223](http://arxiv.org/abs/2603.16223)|null|
+|**2026-03-17**|**Offline Exploration-Aware Fine-Tuning for Long-Chain Mathematical Reasoning**|Yongyu Mu et.al.|[2603.16206](http://arxiv.org/abs/2603.16206)|null|
+|**2026-03-17**|**Execution-Grounded Credit Assignment for GRPO in Code Generation**|Abhijit Kumar et.al.|[2603.16158](http://arxiv.org/abs/2603.16158)|null|
+|**2026-03-17**|**Noisy Data is Destructive to Reinforcement Learning with Verifiable Rewards**|Yuxuan Zhu et.al.|[2603.16140](http://arxiv.org/abs/2603.16140)|null|
+|**2026-03-17**|**The PokeAgent Challenge: Competitive and Long-Context Learning at Scale**|Seth Karten et.al.|[2603.15563](http://arxiv.org/abs/2603.15563)|null|
 |**2026-03-15**|**An Industrial-Scale Insurance LLM Achieving Verifiable Domain Mastery and Hallucination Control without Competence Trade-offs**|Qian Zhu et.al.|[2603.14463](http://arxiv.org/abs/2603.14463)|null|
 |**2026-03-15**|**From $\boldsymbol{\logπ}$ to $\boldsymbolπ$ : Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight**|Xiaoliang Fu et.al.|[2603.14389](http://arxiv.org/abs/2603.14389)|null|
 |**2026-03-07**|**AutoTool: Automatic Scaling of Tool-Use Capabilities in RL via Decoupled Entropy Constraints**|Yirong Zeng et.al.|[2603.13348](http://arxiv.org/abs/2603.13348)|null|
 |**2026-03-13**|**Test-time RL alignment exposes task familiarity artifacts in LLM benchmarks**|Kun Wang et.al.|[2603.12875](http://arxiv.org/abs/2603.12875)|null|
 |**2026-03-13**|**Rethinking Multiple-Choice Questions for RLVR: Unlocking Potential via Distractor Design**|Xu Guo et.al.|[2603.12826](http://arxiv.org/abs/2603.12826)|null|
 |**2026-03-13**|**EvolveCoder: Evolving Test Cases via Adversarial Verification for Code Reinforcement Learning**|Chi Ruan et.al.|[2603.12698](http://arxiv.org/abs/2603.12698)|null|
-|**2026-03-12**|**Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models**|Samy Jelassi et.al.|[2603.12248](http://arxiv.org/abs/2603.12248)|null|
+|**2026-03-16**|**Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models**|Samy Jelassi et.al.|[2603.12248](http://arxiv.org/abs/2603.12248)|null|
 |**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
 |**2026-03-11**|**Hindsight-Anchored Policy Optimization: Turning Failure into Feedback in Sparse Reward Settings**|Yuning Wu et.al.|[2603.11321](http://arxiv.org/abs/2603.11321)|null|
 |**2026-03-11**|**DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning**|Hanxu Hu et.al.|[2603.11193](http://arxiv.org/abs/2603.11193)|null|
@@ -317,6 +324,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Internalizing Agency from Reflective Experience**|Rui Ge et.al.|[2603.16843](http://arxiv.org/abs/2603.16843)|null|
+|**2026-03-17**|**ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation**|Zihe Wang et.al.|[2603.16495](http://arxiv.org/abs/2603.16495)|null|
+|**2026-03-17**|**Grounding the Score: Explicit Visual Premise Verification for Reliable Vision-Language Process Reward Models**|Junxin Wang et.al.|[2603.16253](http://arxiv.org/abs/2603.16253)|null|
+|**2026-03-17**|**Offline Exploration-Aware Fine-Tuning for Long-Chain Mathematical Reasoning**|Yongyu Mu et.al.|[2603.16206](http://arxiv.org/abs/2603.16206)|null|
+|**2026-03-17**|**Execution-Grounded Credit Assignment for GRPO in Code Generation**|Abhijit Kumar et.al.|[2603.16158](http://arxiv.org/abs/2603.16158)|null|
+|**2026-03-17**|**DyJR: Preserving Diversity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay**|Long Li et.al.|[2603.16157](http://arxiv.org/abs/2603.16157)|null|
+|**2026-03-17**|**Noisy Data is Destructive to Reinforcement Learning with Verifiable Rewards**|Yuxuan Zhu et.al.|[2603.16140](http://arxiv.org/abs/2603.16140)|null|
+|**2026-03-17**|**ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning**|Yu Li et.al.|[2603.16060](http://arxiv.org/abs/2603.16060)|null|
+|**2026-03-16**|**Aligning Paralinguistic Understanding and Generation in Speech LLMs via Multi-Task Reinforcement Learning**|Jingxiang Chen et.al.|[2603.15981](http://arxiv.org/abs/2603.15981)|null|
+|**2026-03-16**|**Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning**|Aozhe Wang et.al.|[2603.15611](http://arxiv.org/abs/2603.15611)|null|
+|**2026-03-17**|**Gym-V: A Unified Vision Environment System for Agentic Vision Research**|Fanqing Meng et.al.|[2603.15432](http://arxiv.org/abs/2603.15432)|null|
+|**2026-03-17**|**SAGE: Multi-Agent Self-Evolution for LLM Reasoning**|Yulin Peng et.al.|[2603.15255](http://arxiv.org/abs/2603.15255)|null|
+|**2026-03-17**|**Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**|Jiahe Song et.al.|[2603.15011](http://arxiv.org/abs/2603.15011)|null|
 |**2026-03-15**|**VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting**|Daeun Lee et.al.|[2603.14659](http://arxiv.org/abs/2603.14659)|null|
 |**2026-03-15**|**From $\boldsymbol{\logπ}$ to $\boldsymbolπ$ : Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight**|Xiaoliang Fu et.al.|[2603.14389](http://arxiv.org/abs/2603.14389)|null|
 |**2026-03-13**|**Thinking in Streaming Video**|Zikang Liu et.al.|[2603.12938](http://arxiv.org/abs/2603.12938)|null|
@@ -619,6 +639,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving**|Yihong Guo et.al.|[2603.15771](http://arxiv.org/abs/2603.15771)|null|
 |**2026-03-10**|**Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning**|Chun-Peng Chang et.al.|[2603.09512](http://arxiv.org/abs/2603.09512)|null|
 |**2026-03-09**|**Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures**|David Fernandez et.al.|[2603.08897](http://arxiv.org/abs/2603.08897)|null|
 |**2026-03-06**|**BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**|Thomas Monninger et.al.|[2603.06576](http://arxiv.org/abs/2603.06576)|null|
