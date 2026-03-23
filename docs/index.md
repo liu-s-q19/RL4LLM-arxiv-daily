@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs**|Wenjian Zhang et.al.|[2603.20046](http://arxiv.org/abs/2603.20046)|null|
+|**2026-03-20**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004](http://arxiv.org/abs/2603.20004)|null|
+|**2026-03-20**|**Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States**|Yurun Yuan et.al.|[2603.19987](http://arxiv.org/abs/2603.19987)|null|
+|**2026-03-13**|**MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels**|Tianyang Luo et.al.|[2603.19310](http://arxiv.org/abs/2603.19310)|null|
 |**2026-03-19**|**How Uncertainty Estimation Scales with Sampling in Reasoning Models**|Maksym Del et.al.|[2603.19118](http://arxiv.org/abs/2603.19118)|null|
 |**2026-03-19**|**Context Bootstrapped Reinforcement Learning**|Saaket Agashe et.al.|[2603.18953](http://arxiv.org/abs/2603.18953)|null|
 |**2026-03-19**|**Discounted Beta--Bernoulli Reward Estimation for Sample-Efficient Reinforcement Learning with Verifiable Rewards**|Haechan Kim et.al.|[2603.18444](http://arxiv.org/abs/2603.18444)|null|
@@ -332,6 +336,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**ReViSQL: Achieving Human-Level Text-to-SQL**|Yuxuan Zhu et.al.|[2603.20004](http://arxiv.org/abs/2603.20004)|null|
 |**2026-03-19**|**OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards**|Zehao Li et.al.|[2603.19191](http://arxiv.org/abs/2603.19191)|null|
 |**2026-03-19**|**VEPO: Variable Entropy Policy Optimization for Low-Resource Language Foundation Models**|Chonghan Liu et.al.|[2603.19152](http://arxiv.org/abs/2603.19152)|null|
 |**2026-03-19**|**Context Bootstrapped Reinforcement Learning**|Saaket Agashe et.al.|[2603.18953](http://arxiv.org/abs/2603.18953)|null|
