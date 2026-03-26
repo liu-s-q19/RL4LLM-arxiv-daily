@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
+|**2026-03-25**|**Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization**|Fei Bai et.al.|[2603.24093](http://arxiv.org/abs/2603.24093)|null|
 |**2026-03-24**|**Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought**|Yunheng Li et.al.|[2603.22847](http://arxiv.org/abs/2603.22847)|null|
 |**2026-03-23**|**Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs**|Haoming Meng et.al.|[2603.22446](http://arxiv.org/abs/2603.22446)|null|
 |**2026-03-22**|**WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement**|Fangyuan Li et.al.|[2603.22352](http://arxiv.org/abs/2603.22352)|null|
@@ -347,6 +349,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization**|Fei Bai et.al.|[2603.24093](http://arxiv.org/abs/2603.24093)|null|
+|**2026-03-25**|**AD-Reasoning: Multimodal Guideline-Guided Reasoning for Alzheimer's Disease Diagnosis**|Qiuhui Chen et.al.|[2603.24059](http://arxiv.org/abs/2603.24059)|null|
+|**2026-03-21**|**Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction**|Haoyu Wang et.al.|[2603.23550](http://arxiv.org/abs/2603.23550)|null|
 |**2026-03-24**|**Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought**|Yunheng Li et.al.|[2603.22847](http://arxiv.org/abs/2603.22847)|null|
 |**2026-03-23**|**Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs**|Haoming Meng et.al.|[2603.22446](http://arxiv.org/abs/2603.22446)|null|
 |**2026-03-23**|**CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation**|Max Fu et.al.|[2603.22435](http://arxiv.org/abs/2603.22435)|null|
@@ -686,6 +691,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
 |**2026-03-16**|**CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving**|Yihong Guo et.al.|[2603.15771](http://arxiv.org/abs/2603.15771)|null|
 |**2026-03-10**|**Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning**|Chun-Peng Chang et.al.|[2603.09512](http://arxiv.org/abs/2603.09512)|null|
