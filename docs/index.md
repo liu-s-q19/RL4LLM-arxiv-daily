@@ -9,13 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning**|Chenglong Wang et.al.|[2603.25108](http://arxiv.org/abs/2603.25108)|null|
+|**2026-03-26**|**Bridging Perception and Reasoning: Token Reweighting for RLVR in Multimodal LLMs**|Jinda Lu et.al.|[2603.25077](http://arxiv.org/abs/2603.25077)|null|
+|**2026-03-25**|**Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR**|Haobo Xu et.al.|[2603.24840](http://arxiv.org/abs/2603.24840)|null|
 |**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
 |**2026-03-25**|**Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization**|Fei Bai et.al.|[2603.24093](http://arxiv.org/abs/2603.24093)|null|
 |**2026-03-24**|**Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought**|Yunheng Li et.al.|[2603.22847](http://arxiv.org/abs/2603.22847)|null|
 |**2026-03-23**|**Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs**|Haoming Meng et.al.|[2603.22446](http://arxiv.org/abs/2603.22446)|null|
 |**2026-03-22**|**WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement**|Fangyuan Li et.al.|[2603.22352](http://arxiv.org/abs/2603.22352)|null|
 |**2026-03-23**|**On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation**|Kexin Huang et.al.|[2603.22117](http://arxiv.org/abs/2603.22117)|null|
-|**2026-03-23**|**P^2O: Joint Policy and Prompt Optimization**|Xinyu Lu et.al.|[2603.21877](http://arxiv.org/abs/2603.21877)|null|
+|**2026-03-26**|**P^2O: Joint Policy and Prompt Optimization**|Xinyu Lu et.al.|[2603.21877](http://arxiv.org/abs/2603.21877)|null|
 |**2026-03-23**|**Probing How Scalable Table Data Enhances General Long-Context Reasoning**|Huaibing Xie et.al.|[2603.21719](http://arxiv.org/abs/2603.21719)|null|
 |**2026-03-22**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|Shuai Wang et.al.|[2603.21440](http://arxiv.org/abs/2603.21440)|null|
 |**2026-03-22**|**RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models**|Dongyoung Kim et.al.|[2603.21341](http://arxiv.org/abs/2603.21341)|null|
@@ -35,7 +38,7 @@ layout: default
 |**2026-03-17**|**REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge**|Yasi Zhang et.al.|[2603.17145](http://arxiv.org/abs/2603.17145)|null|
 |**2026-03-19**|**HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning**|Shenzhi Wang et.al.|[2603.17024](http://arxiv.org/abs/2603.17024)|null|
 |**2026-03-17**|**IQuest-Coder-V1 Technical Report**|Jian Yang et.al.|[2603.16733](http://arxiv.org/abs/2603.16733)|null|
-|**2026-03-17**|**When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making**|Jun Liu et.al.|[2603.16673](http://arxiv.org/abs/2603.16673)|null|
+|**2026-03-26**|**When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making**|Jun Liu et.al.|[2603.16673](http://arxiv.org/abs/2603.16673)|null|
 |**2026-03-17**|**Dual Consensus: Escaping from Spurious Majority in Unsupervised RLVR via Two-Stage Vote Mechanism**|Kaixuan Du et.al.|[2603.16223](http://arxiv.org/abs/2603.16223)|null|
 |**2026-03-17**|**Offline Exploration-Aware Fine-Tuning for Long-Chain Mathematical Reasoning**|Yongyu Mu et.al.|[2603.16206](http://arxiv.org/abs/2603.16206)|null|
 |**2026-03-17**|**Execution-Grounded Credit Assignment for GRPO in Code Generation**|Abhijit Kumar et.al.|[2603.16158](http://arxiv.org/abs/2603.16158)|null|
@@ -349,6 +352,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models**|Xunguang Wang et.al.|[2603.25412](http://arxiv.org/abs/2603.25412)|null|
+|**2026-03-26**|**MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning**|Chenglong Wang et.al.|[2603.25108](http://arxiv.org/abs/2603.25108)|null|
+|**2026-03-26**|**Bridging Perception and Reasoning: Token Reweighting for RLVR in Multimodal LLMs**|Jinda Lu et.al.|[2603.25077](http://arxiv.org/abs/2603.25077)|null|
+|**2026-03-25**|**Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR**|Haobo Xu et.al.|[2603.24840](http://arxiv.org/abs/2603.24840)|null|
 |**2026-03-25**|**Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization**|Fei Bai et.al.|[2603.24093](http://arxiv.org/abs/2603.24093)|null|
 |**2026-03-25**|**AD-Reasoning: Multimodal Guideline-Guided Reasoning for Alzheimer's Disease Diagnosis**|Qiuhui Chen et.al.|[2603.24059](http://arxiv.org/abs/2603.24059)|null|
 |**2026-03-21**|**Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction**|Haoyu Wang et.al.|[2603.23550](http://arxiv.org/abs/2603.23550)|null|
@@ -358,7 +365,7 @@ layout: default
 |**2026-03-22**|**WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement**|Fangyuan Li et.al.|[2603.22352](http://arxiv.org/abs/2603.22352)|null|
 |**2026-03-23**|**SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation**|Sashuai Zhou et.al.|[2603.22228](http://arxiv.org/abs/2603.22228)|null|
 |**2026-03-23**|**On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation**|Kexin Huang et.al.|[2603.22117](http://arxiv.org/abs/2603.22117)|null|
-|**2026-03-23**|**P^2O: Joint Policy and Prompt Optimization**|Xinyu Lu et.al.|[2603.21877](http://arxiv.org/abs/2603.21877)|null|
+|**2026-03-26**|**P^2O: Joint Policy and Prompt Optimization**|Xinyu Lu et.al.|[2603.21877](http://arxiv.org/abs/2603.21877)|null|
 |**2026-03-23**|**PRM-as-a-Judge: A Dense Evaluation Paradigm for Fine-Grained Robotic Auditing**|Yuheng Ji et.al.|[2603.21669](http://arxiv.org/abs/2603.21669)|null|
 |**2026-03-23**|**TAMTRL: Teacher-Aligned Reward Reshaping for Multi-Turn Reinforcement Learning in Long-Context Compression**|Li Wang et.al.|[2603.21663](http://arxiv.org/abs/2603.21663)|null|
 |**2026-03-22**|**Prompt replay: speeding up grpo with on-policy reuse of high-signal prompts**|Andrei Baroian et.al.|[2603.21177](http://arxiv.org/abs/2603.21177)|null|
@@ -691,6 +698,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
 |**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
 |**2026-03-16**|**CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving**|Yihong Guo et.al.|[2603.15771](http://arxiv.org/abs/2603.15771)|null|
