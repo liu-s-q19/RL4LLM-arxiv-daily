@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
+|**2026-03-30**|**ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models**|Song Yu et.al.|[2603.28204](http://arxiv.org/abs/2603.28204)|null|
+|**2026-03-30**|**Heddle: A Distributed Orchestration System for Agentic RL Rollout**|Zili Zhang et.al.|[2603.28101](http://arxiv.org/abs/2603.28101)|null|
+|**2026-03-30**|**SARL: Label-Free Reinforcement Learning by Rewarding Reasoning Topology**|Yifan Wang et.al.|[2603.27977](http://arxiv.org/abs/2603.27977)|null|
+|**2026-03-28**|**Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models**|Yuhang Han et.al.|[2603.27375](http://arxiv.org/abs/2603.27375)|null|
+|**2026-03-28**|**Incentivizing Temporal-Awareness in Egocentric Video Understanding Models**|Zhiyang Xu et.al.|[2603.27184](http://arxiv.org/abs/2603.27184)|null|
+|**2026-03-27**|**Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR**|Jinda Lu et.al.|[2603.26126](http://arxiv.org/abs/2603.26126)|null|
 |**2026-03-26**|**MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning**|Chenglong Wang et.al.|[2603.25108](http://arxiv.org/abs/2603.25108)|null|
 |**2026-03-26**|**Bridging Perception and Reasoning: Token Reweighting for RLVR in Multimodal LLMs**|Jinda Lu et.al.|[2603.25077](http://arxiv.org/abs/2603.25077)|null|
 |**2026-03-25**|**Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR**|Haobo Xu et.al.|[2603.24840](http://arxiv.org/abs/2603.24840)|null|
@@ -25,7 +32,7 @@
 |**2026-03-23**|**On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation**|Kexin Huang et.al.|[2603.22117](http://arxiv.org/abs/2603.22117)|null|
 |**2026-03-26**|**P^2O: Joint Policy and Prompt Optimization**|Xinyu Lu et.al.|[2603.21877](http://arxiv.org/abs/2603.21877)|null|
 |**2026-03-23**|**Probing How Scalable Table Data Enhances General Long-Context Reasoning**|Huaibing Xie et.al.|[2603.21719](http://arxiv.org/abs/2603.21719)|null|
-|**2026-03-22**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|Shuai Wang et.al.|[2603.21440](http://arxiv.org/abs/2603.21440)|null|
+|**2026-03-30**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|Shuai Wang et.al.|[2603.21440](http://arxiv.org/abs/2603.21440)|null|
 |**2026-03-22**|**RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models**|Dongyoung Kim et.al.|[2603.21341](http://arxiv.org/abs/2603.21341)|null|
 |**2026-03-22**|**Prompt replay: speeding up grpo with on-policy reuse of high-signal prompts**|Andrei Baroian et.al.|[2603.21177](http://arxiv.org/abs/2603.21177)|null|
 |**2026-03-21**|**RLVR Training of LLMs Does Not Improve Thinking Ability for General QA: Evaluation Method and a Simple Solution**|Kaiyuan Li et.al.|[2603.20799](http://arxiv.org/abs/2603.20799)|null|
@@ -359,6 +366,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
+|**2026-03-30**|**ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models**|Song Yu et.al.|[2603.28204](http://arxiv.org/abs/2603.28204)|null|
+|**2026-03-30**|**SARL: Label-Free Reinforcement Learning by Rewarding Reasoning Topology**|Yifan Wang et.al.|[2603.27977](http://arxiv.org/abs/2603.27977)|null|
+|**2026-03-29**|**Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning**|Ming Liu et.al.|[2603.27866](http://arxiv.org/abs/2603.27866)|null|
+|**2026-03-29**|**Difference Feedback: Generating Multimodal Process-Level Supervision for VLM Reinforcement Learning**|Feiding et.al.|[2603.27482](http://arxiv.org/abs/2603.27482)|null|
+|**2026-03-28**|**Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models**|Yuhang Han et.al.|[2603.27375](http://arxiv.org/abs/2603.27375)|null|
+|**2026-03-28**|**Incentivizing Temporal-Awareness in Egocentric Video Understanding Models**|Zhiyang Xu et.al.|[2603.27184](http://arxiv.org/abs/2603.27184)|null|
+|**2026-03-27**|**Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**|Zelin Tan et.al.|[2603.26535](http://arxiv.org/abs/2603.26535)|null|
+|**2026-03-27**|**Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR**|Jinda Lu et.al.|[2603.26126](http://arxiv.org/abs/2603.26126)|null|
 |**2026-03-26**|**Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models**|Xunguang Wang et.al.|[2603.25412](http://arxiv.org/abs/2603.25412)|null|
 |**2026-03-26**|**MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning**|Chenglong Wang et.al.|[2603.25108](http://arxiv.org/abs/2603.25108)|null|
 |**2026-03-26**|**Bridging Perception and Reasoning: Token Reweighting for RLVR in Multimodal LLMs**|Jinda Lu et.al.|[2603.25077](http://arxiv.org/abs/2603.25077)|null|
@@ -707,6 +723,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Neuro-Cognitive Reward Modeling for Human-Centered Autonomous Vehicle Control**|Zhuoli Zhuang et.al.|[2603.25968](http://arxiv.org/abs/2603.25968)|null|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
 |**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
