@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Learning Diagnostic Reasoning for Decision Support in Toxicology**|Nico Oberländer et.al.|[2603.29608](http://arxiv.org/abs/2603.29608)|null|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
 |**2026-03-30**|**ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models**|Song Yu et.al.|[2603.28204](http://arxiv.org/abs/2603.28204)|null|
 |**2026-03-30**|**Heddle: A Distributed Orchestration System for Agentic RL Rollout**|Zili Zhang et.al.|[2603.28101](http://arxiv.org/abs/2603.28101)|null|
@@ -359,6 +360,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Reinforced Reasoning for End-to-End Retrosynthetic Planning**|Chenyang Zuo et.al.|[2603.29723](http://arxiv.org/abs/2603.29723)|null|
+|**2026-03-31**|**Learning to Generate Formally Verifiable Step-by-Step Logic Reasoning via Structured Formal Intermediaries**|Luoxin Chen et.al.|[2603.29500](http://arxiv.org/abs/2603.29500)|null|
+|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
 |**2026-03-30**|**ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models**|Song Yu et.al.|[2603.28204](http://arxiv.org/abs/2603.28204)|null|
 |**2026-03-30**|**SARL: Label-Free Reinforcement Learning by Rewarding Reasoning Topology**|Yifan Wang et.al.|[2603.27977](http://arxiv.org/abs/2603.27977)|null|
@@ -714,7 +718,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-26**|**Neuro-Cognitive Reward Modeling for Human-Centered Autonomous Vehicle Control**|Zhuoli Zhuang et.al.|[2603.25968](http://arxiv.org/abs/2603.25968)|null|
+|**2026-03-31**|**Neuro-Cognitive Reward Modeling for Human-Centered Autonomous Vehicle Control**|Zhuoli Zhuang et.al.|[2603.25968](http://arxiv.org/abs/2603.25968)|null|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
 |**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
