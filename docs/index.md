@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Policy Improvement Reinforcement Learning**|Huaiyang Wang et.al.|[2604.00860](http://arxiv.org/abs/2604.00860)|null|
+|**2026-04-01**|**RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning**|Shaopeng Fu et.al.|[2604.00790](http://arxiv.org/abs/2604.00790)|null|
 |**2026-03-31**|**Learning Diagnostic Reasoning for Decision Support in Toxicology**|Nico Oberländer et.al.|[2603.29608](http://arxiv.org/abs/2603.29608)|null|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
 |**2026-03-30**|**ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models**|Song Yu et.al.|[2603.28204](http://arxiv.org/abs/2603.28204)|null|
@@ -360,6 +362,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Policy Improvement Reinforcement Learning**|Huaiyang Wang et.al.|[2604.00860](http://arxiv.org/abs/2604.00860)|null|
+|**2026-04-01**|**Learning to Hint for Reinforcement Learning**|Yu Xia et.al.|[2604.00698](http://arxiv.org/abs/2604.00698)|null|
+|**2026-04-01**|**Execution-Verified Reinforcement Learning for Optimization Modeling**|Runda Guan et.al.|[2604.00442](http://arxiv.org/abs/2604.00442)|null|
 |**2026-03-31**|**Reinforced Reasoning for End-to-End Retrosynthetic Planning**|Chenyang Zuo et.al.|[2603.29723](http://arxiv.org/abs/2603.29723)|null|
 |**2026-03-31**|**Learning to Generate Formally Verifiable Step-by-Step Logic Reasoning via Structured Formal Intermediaries**|Luoxin Chen et.al.|[2603.29500](http://arxiv.org/abs/2603.29500)|null|
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
@@ -720,7 +725,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-31**|**Neuro-Cognitive Reward Modeling for Human-Centered Autonomous Vehicle Control**|Zhuoli Zhuang et.al.|[2603.25968](http://arxiv.org/abs/2603.25968)|null|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
-|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
+|**2026-04-01**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
 |**2026-03-16**|**CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving**|Yihong Guo et.al.|[2603.15771](http://arxiv.org/abs/2603.15771)|null|
 |**2026-03-10**|**Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning**|Chun-Peng Chang et.al.|[2603.09512](http://arxiv.org/abs/2603.09512)|null|
@@ -739,7 +744,7 @@ layout: default
 |**2025-12-06**|**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**|Mingwang Xu et.al.|[2512.11872](http://arxiv.org/abs/2512.11872)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-04**|**dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning**|Yingzi Ma et.al.|[2512.04459](http://arxiv.org/abs/2512.04459)|null|
-|**2025-12-02**|**Lumos: Let there be Language Model System Certification**|Isha Chaudhary et.al.|[2512.02966](http://arxiv.org/abs/2512.02966)|null|
+|**2026-03-31**|**Lumos: Let there be Language Model System Certification**|Isha Chaudhary et.al.|[2512.02966](http://arxiv.org/abs/2512.02966)|null|
 |**2025-12-02**|**OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic**|Songyan Zhang et.al.|[2512.01830](http://arxiv.org/abs/2512.01830)|null|
 |**2025-12-01**|**RoboDriveVLM: A Novel Benchmark and Baseline towards Robust Vision-Language Models for Autonomous Driving**|Dacheng Liao et.al.|[2512.01300](http://arxiv.org/abs/2512.01300)|null|
 |**2025-11-25**|**CoC-VLA: Delving into Adversarial Domain Transfer for Explainable Autonomous Driving via Chain-of-Causality Visual-Language-Action Model**|Dapeng Zhang et.al.|[2511.19914](http://arxiv.org/abs/2511.19914)|null|
