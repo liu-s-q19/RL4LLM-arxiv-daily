@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing**|Gengsheng Li et.al.|[2604.02288](http://arxiv.org/abs/2604.02288)|null|
+|**2026-04-02**|**Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning**|Rafael Pardinas et.al.|[2604.02007](http://arxiv.org/abs/2604.02007)|null|
+|**2026-04-02**|**ProCeedRL: Process Critic with Exploratory Demonstration Reinforcement Learning for LLM Agentic Reasoning**|Jingyue Gao et.al.|[2604.02006](http://arxiv.org/abs/2604.02006)|null|
+|**2026-04-02**|**Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models**|Zekai Ye et.al.|[2604.01840](http://arxiv.org/abs/2604.01840)|null|
+|**2026-04-02**|**ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement**|Difan Jiao et.al.|[2604.01591](http://arxiv.org/abs/2604.01591)|null|
+|**2026-04-02**|**Matching Accuracy, Different Geometry: Evolution Strategies vs GRPO in LLM Post-Training**|William Hoy et.al.|[2604.01499](http://arxiv.org/abs/2604.01499)|null|
+|**2026-04-01**|**When Reward Hacking Rebounds: Understanding and Mitigating It with Representation-Level Signals**|Rui Wu et.al.|[2604.01476](http://arxiv.org/abs/2604.01476)|null|
+|**2026-04-01**|**Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming**|Qianfan Zhang et.al.|[2604.01302](http://arxiv.org/abs/2604.01302)|null|
 |**2026-04-01**|**Policy Improvement Reinforcement Learning**|Huaiyang Wang et.al.|[2604.00860](http://arxiv.org/abs/2604.00860)|null|
 |**2026-04-01**|**RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning**|Shaopeng Fu et.al.|[2604.00790](http://arxiv.org/abs/2604.00790)|null|
 |**2026-03-31**|**Learning Diagnostic Reasoning for Decision Support in Toxicology**|Nico Oberländer et.al.|[2603.29608](http://arxiv.org/abs/2603.29608)|null|
@@ -48,7 +56,7 @@ layout: default
 |**2026-03-17**|**REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge**|Yasi Zhang et.al.|[2603.17145](http://arxiv.org/abs/2603.17145)|null|
 |**2026-03-19**|**HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning**|Shenzhi Wang et.al.|[2603.17024](http://arxiv.org/abs/2603.17024)|null|
 |**2026-03-17**|**IQuest-Coder-V1 Technical Report**|Jian Yang et.al.|[2603.16733](http://arxiv.org/abs/2603.16733)|null|
-|**2026-03-26**|**When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making**|Jun Liu et.al.|[2603.16673](http://arxiv.org/abs/2603.16673)|null|
+|**2026-04-01**|**When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making**|Jun Liu et.al.|[2603.16673](http://arxiv.org/abs/2603.16673)|null|
 |**2026-03-17**|**Dual Consensus: Escaping from Spurious Majority in Unsupervised RLVR via Two-Stage Vote Mechanism**|Kaixuan Du et.al.|[2603.16223](http://arxiv.org/abs/2603.16223)|null|
 |**2026-03-17**|**Offline Exploration-Aware Fine-Tuning for Long-Chain Mathematical Reasoning**|Yongyu Mu et.al.|[2603.16206](http://arxiv.org/abs/2603.16206)|null|
 |**2026-03-17**|**Execution-Grounded Credit Assignment for GRPO in Code Generation**|Abhijit Kumar et.al.|[2603.16158](http://arxiv.org/abs/2603.16158)|null|
@@ -362,6 +370,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing**|Gengsheng Li et.al.|[2604.02288](http://arxiv.org/abs/2604.02288)|null|
+|**2026-04-02**|**Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning**|Rafael Pardinas et.al.|[2604.02007](http://arxiv.org/abs/2604.02007)|null|
+|**2026-04-02**|**Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models**|Zekai Ye et.al.|[2604.01840](http://arxiv.org/abs/2604.01840)|null|
 |**2026-04-01**|**Policy Improvement Reinforcement Learning**|Huaiyang Wang et.al.|[2604.00860](http://arxiv.org/abs/2604.00860)|null|
 |**2026-04-01**|**Learning to Hint for Reinforcement Learning**|Yu Xia et.al.|[2604.00698](http://arxiv.org/abs/2604.00698)|null|
 |**2026-04-01**|**Execution-Verified Reinforcement Learning for Optimization Modeling**|Runda Guan et.al.|[2604.00442](http://arxiv.org/abs/2604.00442)|null|
