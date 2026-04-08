@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Target Policy Optimization**|Jean Kaddour et.al.|[2604.06159](http://arxiv.org/abs/2604.06159)|null|
 |**2026-04-06**|**Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation**|Hengrui Gu et.al.|[2604.04894](http://arxiv.org/abs/2604.04894)|null|
 |**2026-04-06**|**Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems**|Justin Chih-Yao Chen et.al.|[2604.04767](http://arxiv.org/abs/2604.04767)|null|
 |**2026-04-06**|**Paper Espresso: From Paper Overload to Research Insight**|Mingzhe Du et.al.|[2604.04562](http://arxiv.org/abs/2604.04562)|null|
@@ -19,7 +20,7 @@ layout: default
 |**2026-04-03**|**Apriel-1.5-OpenReasoner: RL Post-Training for General-Purpose and Efficient Reasoning**|Rafael Pardinas et.al.|[2604.02007](http://arxiv.org/abs/2604.02007)|null|
 |**2026-04-02**|**ProCeedRL: Process Critic with Exploratory Demonstration Reinforcement Learning for LLM Agentic Reasoning**|Jingyue Gao et.al.|[2604.02006](http://arxiv.org/abs/2604.02006)|null|
 |**2026-04-02**|**Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models**|Zekai Ye et.al.|[2604.01840](http://arxiv.org/abs/2604.01840)|null|
-|**2026-04-02**|**ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement**|Difan Jiao et.al.|[2604.01591](http://arxiv.org/abs/2604.01591)|null|
+|**2026-04-06**|**ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement**|Difan Jiao et.al.|[2604.01591](http://arxiv.org/abs/2604.01591)|null|
 |**2026-04-02**|**Matching Accuracy, Different Geometry: Evolution Strategies vs GRPO in LLM Post-Training**|William Hoy et.al.|[2604.01499](http://arxiv.org/abs/2604.01499)|null|
 |**2026-04-01**|**When Reward Hacking Rebounds: Understanding and Mitigating It with Representation-Level Signals**|Rui Wu et.al.|[2604.01476](http://arxiv.org/abs/2604.01476)|null|
 |**2026-04-01**|**Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming**|Qianfan Zhang et.al.|[2604.01302](http://arxiv.org/abs/2604.01302)|null|
@@ -357,7 +358,7 @@ layout: default
 |**2025-11-28**|**Video-CoM: Interactive Video Reasoning via Chain of Manipulations**|Hanoona Rasheed et.al.|[2511.23477](http://arxiv.org/abs/2511.23477)|null|
 |**2025-11-27**|**DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning**|Zhihong Shao et.al.|[2511.22570](http://arxiv.org/abs/2511.22570)|null|
 |**2025-10-27**|**The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination**|Chenlong Yin et.al.|[2510.22977](http://arxiv.org/abs/2510.22977)|null|
-|**2025-10-29**|**NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation**|Longtian Qiu et.al.|[2510.21122](http://arxiv.org/abs/2510.21122)|null|
+|**2026-04-07**|**NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation**|Longtian Qiu et.al.|[2510.21122](http://arxiv.org/abs/2510.21122)|null|
 |**2025-10-20**|**Local Coherence or Global Validity? Investigating RLVR Traces in Math Domains**|Soumya Rani Samineni et.al.|[2510.18176](http://arxiv.org/abs/2510.18176)|null|
 |**2025-10-17**|**The Road Less Traveled: Enhancing Exploration in LLMs via Sequential Sampling**|Shijia Kang et.al.|[2510.15502](http://arxiv.org/abs/2510.15502)|null|
 |**2026-02-22**|**Enhancing Reasoning for Diffusion LLMs via Distribution Matching Policy Optimization**|Yuchen Zhu et.al.|[2510.08233](http://arxiv.org/abs/2510.08233)|null|
@@ -376,6 +377,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection**|Siyuan Cheng et.al.|[2604.05424](http://arxiv.org/abs/2604.05424)|null|
 |**2026-04-06**|**Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation**|Hengrui Gu et.al.|[2604.04894](http://arxiv.org/abs/2604.04894)|null|
 |**2026-04-06**|**The Role of Generator Access in Autoregressive Post-Training**|Amit Kiran Rege et.al.|[2604.04855](http://arxiv.org/abs/2604.04855)|null|
 |**2026-04-06**|**Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems**|Justin Chih-Yao Chen et.al.|[2604.04767](http://arxiv.org/abs/2604.04767)|null|
@@ -748,6 +750,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving**|Kaiser Hamid et.al.|[2604.05378](http://arxiv.org/abs/2604.05378)|null|
 |**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Runhao Mao et.al.|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
 |**2026-04-06**|**Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers**|Jiancheng Wang et.al.|[2604.04630](http://arxiv.org/abs/2604.04630)|null|
 |**2026-04-03**|**V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views**|Junwei You et.al.|[2604.02710](http://arxiv.org/abs/2604.02710)|null|
