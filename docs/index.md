@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|null|
+|**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
+|**2026-04-09**|**Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization**|Sai Srinivas Kancheti et.al.|[2604.08476](http://arxiv.org/abs/2604.08476)|null|
+|**2026-04-09**|**TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis**|Sikai Bai et.al.|[2604.08468](http://arxiv.org/abs/2604.08468)|null|
+|**2026-04-09**|**Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data**|Yuchuan Deng et.al.|[2604.08322](http://arxiv.org/abs/2604.08322)|null|
+|**2026-04-09**|**ZeroCoder: Can LLMs Improve Code Generation Without Ground-Truth Supervision?**|Lishui Fan et.al.|[2604.07864](http://arxiv.org/abs/2604.07864)|null|
+|**2026-04-09**|**QaRL: Rollout-Aligned Quantization-Aware RL for Fast and Stable Training under Training--Inference Mismatch**|Hao Gu et.al.|[2604.07853](http://arxiv.org/abs/2604.07853)|null|
+|**2026-04-09**|**SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**|Xinshun Feng et.al.|[2604.07791](http://arxiv.org/abs/2604.07791)|null|
+|**2026-04-09**|**Mitigating Distribution Sharpening in Math RLVR via Distribution-Aligned Hint Synthesis and Backward Hint Annealing**|Pei-Xi Xie et.al.|[2604.07747](http://arxiv.org/abs/2604.07747)|null|
+|**2026-04-09**|**Reinforcement Learning with LLM-Guided Action Spaces for Synthesizable Lead Optimization**|Tao Li et.al.|[2604.07669](http://arxiv.org/abs/2604.07669)|null|
+|**2026-04-09**|**An Imperfect Verifier is Good Enough: Learning with Noisy Rewards**|Andreas Plesner et.al.|[2604.07666](http://arxiv.org/abs/2604.07666)|null|
 |**2026-04-07**|**Target Policy Optimization**|Jean Kaddour et.al.|[2604.06159](http://arxiv.org/abs/2604.06159)|null|
 |**2026-04-06**|**Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation**|Hengrui Gu et.al.|[2604.04894](http://arxiv.org/abs/2604.04894)|null|
 |**2026-04-06**|**Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems**|Justin Chih-Yao Chen et.al.|[2604.04767](http://arxiv.org/abs/2604.04767)|null|
@@ -377,6 +388,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
+|**2026-04-09**|**Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization**|Sai Srinivas Kancheti et.al.|[2604.08476](http://arxiv.org/abs/2604.08476)|null|
+|**2026-04-09**|**TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis**|Sikai Bai et.al.|[2604.08468](http://arxiv.org/abs/2604.08468)|null|
+|**2026-04-09**|**Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data**|Yuchuan Deng et.al.|[2604.08322](http://arxiv.org/abs/2604.08322)|null|
+|**2026-04-09**|**Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search**|Chuzhan Hao et.al.|[2604.08124](http://arxiv.org/abs/2604.08124)|null|
+|**2026-04-09**|**SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking**|Weiyang Huang et.al.|[2604.07922](http://arxiv.org/abs/2604.07922)|null|
+|**2026-04-09**|**ZeroCoder: Can LLMs Improve Code Generation Without Ground-Truth Supervision?**|Lishui Fan et.al.|[2604.07864](http://arxiv.org/abs/2604.07864)|null|
+|**2026-04-09**|**SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**|Xinshun Feng et.al.|[2604.07791](http://arxiv.org/abs/2604.07791)|null|
+|**2026-04-09**|**Mitigating Distribution Sharpening in Math RLVR via Distribution-Aligned Hint Synthesis and Backward Hint Annealing**|Pei-Xi Xie et.al.|[2604.07747](http://arxiv.org/abs/2604.07747)|null|
+|**2026-04-09**|**An Imperfect Verifier is Good Enough: Learning with Noisy Rewards**|Andreas Plesner et.al.|[2604.07666](http://arxiv.org/abs/2604.07666)|null|
+|**2026-04-08**|**SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval**|Roxana Petcu et.al.|[2604.07415](http://arxiv.org/abs/2604.07415)|null|
 |**2026-04-08**|**Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions**|Guo Gan et.al.|[2604.07277](http://arxiv.org/abs/2604.07277)|null|
 |**2026-04-05**|**The Art of Building Verifiers for Computer Use Agents**|Corby Rosset et.al.|[2604.06240](http://arxiv.org/abs/2604.06240)|null|
 |**2026-04-07**|**PRISM-MCTS: Learning from Reasoning Trajectories with Metacognitive Reflection**|Siyuan Cheng et.al.|[2604.05424](http://arxiv.org/abs/2604.05424)|null|
