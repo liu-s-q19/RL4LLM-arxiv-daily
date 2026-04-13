@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-10**|**Visually-Guided Policy Optimization for Multimodal Reasoning**|Zengbin Wang et.al.|[2604.09349](http://arxiv.org/abs/2604.09349)|null|
+|**2026-04-10**|**Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym**|Lars Benedikt Kaesberg et.al.|[2604.09338](http://arxiv.org/abs/2604.09338)|null|
+|**2026-04-10**|**TensorHub: Scalable and Elastic Weight Transfer for LLM RL Training**|Chenhao Ye et.al.|[2604.09107](http://arxiv.org/abs/2604.09107)|null|
+|**2026-04-10**|**PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment**|Jihwan Oh et.al.|[2604.08986](http://arxiv.org/abs/2604.08986)|null|
+|**2026-04-09**|**Skip-Connected Policy Optimization for Implicit Advantage**|Fengwei Teng et.al.|[2604.08690](http://arxiv.org/abs/2604.08690)|null|
 |**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|null|
 |**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
 |**2026-04-09**|**Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization**|Sai Srinivas Kancheti et.al.|[2604.08476](http://arxiv.org/abs/2604.08476)|null|
@@ -395,6 +400,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-10**|**Process Reward Agents for Steering Knowledge-Intensive Reasoning**|Jiwoong Sohn et.al.|[2604.09482](http://arxiv.org/abs/2604.09482)|null|
+|**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
+|**2026-04-10**|**Visually-Guided Policy Optimization for Multimodal Reasoning**|Zengbin Wang et.al.|[2604.09349](http://arxiv.org/abs/2604.09349)|null|
+|**2026-04-10**|**ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning**|Shifeng Liu et.al.|[2604.08990](http://arxiv.org/abs/2604.08990)|null|
+|**2026-04-10**|**PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment**|Jihwan Oh et.al.|[2604.08986](http://arxiv.org/abs/2604.08986)|null|
+|**2026-04-10**|**SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks**|Tianyi Wang et.al.|[2604.08865](http://arxiv.org/abs/2604.08865)|null|
 |**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
 |**2026-04-09**|**Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization**|Sai Srinivas Kancheti et.al.|[2604.08476](http://arxiv.org/abs/2604.08476)|null|
 |**2026-04-09**|**TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis**|Sikai Bai et.al.|[2604.08468](http://arxiv.org/abs/2604.08468)|null|
