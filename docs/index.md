@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration**|Zhipeng Chen et.al.|[2604.11446](http://arxiv.org/abs/2604.11446)|null|
+|**2026-04-13**|**Rethinking Token-Level Credit Assignment in RLVR: A Polarity-Entropy Analysis**|Yuhang He et.al.|[2604.11056](http://arxiv.org/abs/2604.11056)|null|
+|**2026-04-12**|**Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning**|Zikang Shan et.al.|[2604.10701](http://arxiv.org/abs/2604.10701)|null|
+|**2026-04-10**|**Instructing LLMs to Negotiate using Reinforcement Learning with Verifiable Rewards**|Shuze Daniel Liu et.al.|[2604.09855](http://arxiv.org/abs/2604.09855)|null|
+|**2026-04-10**|**Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward**|Weiyang Guo et.al.|[2604.09748](http://arxiv.org/abs/2604.09748)|null|
 |**2026-04-10**|**Visually-Guided Policy Optimization for Multimodal Reasoning**|Zengbin Wang et.al.|[2604.09349](http://arxiv.org/abs/2604.09349)|null|
 |**2026-04-10**|**Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym**|Lars Benedikt Kaesberg et.al.|[2604.09338](http://arxiv.org/abs/2604.09338)|null|
 |**2026-04-10**|**TensorHub: Scalable and Elastic Weight Transfer for LLM RL Training**|Chenhao Ye et.al.|[2604.09107](http://arxiv.org/abs/2604.09107)|null|
@@ -21,7 +26,7 @@ layout: default
 |**2026-04-09**|**Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data**|Yuchuan Deng et.al.|[2604.08322](http://arxiv.org/abs/2604.08322)|null|
 |**2026-04-09**|**ZeroCoder: Can LLMs Improve Code Generation Without Ground-Truth Supervision?**|Lishui Fan et.al.|[2604.07864](http://arxiv.org/abs/2604.07864)|null|
 |**2026-04-09**|**QaRL: Rollout-Aligned Quantization-Aware RL for Fast and Stable Training under Training--Inference Mismatch**|Hao Gu et.al.|[2604.07853](http://arxiv.org/abs/2604.07853)|null|
-|**2026-04-09**|**SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**|Xinshun Feng et.al.|[2604.07791](http://arxiv.org/abs/2604.07791)|null|
+|**2026-04-13**|**SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**|Xinshun Feng et.al.|[2604.07791](http://arxiv.org/abs/2604.07791)|null|
 |**2026-04-09**|**Mitigating Distribution Sharpening in Math RLVR via Distribution-Aligned Hint Synthesis and Backward Hint Annealing**|Pei-Xi Xie et.al.|[2604.07747](http://arxiv.org/abs/2604.07747)|null|
 |**2026-04-09**|**Reinforcement Learning with LLM-Guided Action Spaces for Synthesizable Lead Optimization**|Tao Li et.al.|[2604.07669](http://arxiv.org/abs/2604.07669)|null|
 |**2026-04-09**|**An Imperfect Verifier is Good Enough: Learning with Noisy Rewards**|Andreas Plesner et.al.|[2604.07666](http://arxiv.org/abs/2604.07666)|null|
@@ -56,6 +61,7 @@ layout: default
 |**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
 |**2026-03-25**|**Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization**|Fei Bai et.al.|[2603.24093](http://arxiv.org/abs/2603.24093)|null|
 |**2026-03-24**|**Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought**|Yunheng Li et.al.|[2603.22847](http://arxiv.org/abs/2603.22847)|null|
+|**2026-04-13**|**Measuring and curing reasoning rigidity: from decorative chain-of-thought to genuine faithfulness**|Abhinaba Basu et.al.|[2603.22816](http://arxiv.org/abs/2603.22816)|null|
 |**2026-03-23**|**Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs**|Haoming Meng et.al.|[2603.22446](http://arxiv.org/abs/2603.22446)|null|
 |**2026-03-22**|**WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement**|Fangyuan Li et.al.|[2603.22352](http://arxiv.org/abs/2603.22352)|null|
 |**2026-03-23**|**On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation**|Kexin Huang et.al.|[2603.22117](http://arxiv.org/abs/2603.22117)|null|
@@ -393,8 +399,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Triviality Corrected Endogenous Reward**|Xinda Wang et.al.|[2604.11522](http://arxiv.org/abs/2604.11522)|null|
+|**2026-04-13**|**Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration**|Zhipeng Chen et.al.|[2604.11446](http://arxiv.org/abs/2604.11446)|null|
+|**2026-04-13**|**Rethinking Token-Level Credit Assignment in RLVR: A Polarity-Entropy Analysis**|Yuhang He et.al.|[2604.11056](http://arxiv.org/abs/2604.11056)|null|
+|**2026-04-12**|**Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series**|Krzysztof Ociepa et.al.|[2604.10799](http://arxiv.org/abs/2604.10799)|null|
+|**2026-04-12**|**Efficient Process Reward Modeling via Contrastive Mutual Information**|Nakyung Lee et.al.|[2604.10660](http://arxiv.org/abs/2604.10660)|null|
+|**2026-04-12**|**SWE-Shepherd: Advancing PRMs for Reinforcing Code Agents**|Mahir Labib Dihan et.al.|[2604.10493](http://arxiv.org/abs/2604.10493)|null|
+|**2026-04-11**|**AI Achieves a Perfect LSAT Score**|Bonmu Ku et.al.|[2604.10034](http://arxiv.org/abs/2604.10034)|null|
+|**2026-04-10**|**Instructing LLMs to Negotiate using Reinforcement Learning with Verifiable Rewards**|Shuze Daniel Liu et.al.|[2604.09855](http://arxiv.org/abs/2604.09855)|null|
+|**2026-04-10**|**Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward**|Weiyang Guo et.al.|[2604.09748](http://arxiv.org/abs/2604.09748)|null|
 |**2026-04-10**|**Process Reward Agents for Steering Knowledge-Intensive Reasoning**|Jiwoong Sohn et.al.|[2604.09482](http://arxiv.org/abs/2604.09482)|null|
-|**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
+|**2026-04-13**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
 |**2026-04-10**|**Visually-Guided Policy Optimization for Multimodal Reasoning**|Zengbin Wang et.al.|[2604.09349](http://arxiv.org/abs/2604.09349)|null|
 |**2026-04-10**|**ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning**|Shifeng Liu et.al.|[2604.08990](http://arxiv.org/abs/2604.08990)|null|
 |**2026-04-10**|**PerMix-RLVR: Preserving Persona Expressivity under Verifiable-Reward Alignment**|Jihwan Oh et.al.|[2604.08986](http://arxiv.org/abs/2604.08986)|null|
