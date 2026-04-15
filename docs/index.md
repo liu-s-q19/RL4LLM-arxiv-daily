@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance**|Linhao Yu et.al.|[2604.12627](http://arxiv.org/abs/2604.12627)|null|
+|**2026-04-14**|**KG-Reasoner: A Reinforced Model for End-to-End Multi-Hop Knowledge Graph Reasoning**|Shuai Wang et.al.|[2604.12487](http://arxiv.org/abs/2604.12487)|null|
+|**2026-04-14**|**ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance**|Daniil Gurgurov et.al.|[2604.12378](http://arxiv.org/abs/2604.12378)|null|
+|**2026-04-14**|**PubSwap: Public-Data Off-Policy Coordination for Federated RLVR**|Anupam Nayak et.al.|[2604.12160](http://arxiv.org/abs/2604.12160)|null|
+|**2026-04-13**|**Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision**|Yinghui He et.al.|[2604.12002](http://arxiv.org/abs/2604.12002)|null|
 |**2026-04-13**|**Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration**|Zhipeng Chen et.al.|[2604.11446](http://arxiv.org/abs/2604.11446)|null|
 |**2026-04-13**|**Rethinking Token-Level Credit Assignment in RLVR: A Polarity-Entropy Analysis**|Yuhang He et.al.|[2604.11056](http://arxiv.org/abs/2604.11056)|null|
 |**2026-04-12**|**Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning**|Zikang Shan et.al.|[2604.10701](http://arxiv.org/abs/2604.10701)|null|
@@ -67,7 +72,7 @@ layout: default
 |**2026-03-23**|**On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation**|Kexin Huang et.al.|[2603.22117](http://arxiv.org/abs/2603.22117)|null|
 |**2026-03-26**|**P^2O: Joint Policy and Prompt Optimization**|Xinyu Lu et.al.|[2603.21877](http://arxiv.org/abs/2603.21877)|null|
 |**2026-03-23**|**Probing How Scalable Table Data Enhances General Long-Context Reasoning**|Huaibing Xie et.al.|[2603.21719](http://arxiv.org/abs/2603.21719)|null|
-|**2026-03-30**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|Shuai Wang et.al.|[2603.21440](http://arxiv.org/abs/2603.21440)|null|
+|**2026-04-14**|**KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning**|Shuai Wang et.al.|[2603.21440](http://arxiv.org/abs/2603.21440)|null|
 |**2026-03-22**|**RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models**|Dongyoung Kim et.al.|[2603.21341](http://arxiv.org/abs/2603.21341)|null|
 |**2026-03-22**|**Prompt replay: speeding up grpo with on-policy reuse of high-signal prompts**|Andrei Baroian et.al.|[2603.21177](http://arxiv.org/abs/2603.21177)|null|
 |**2026-03-21**|**RLVR Training of LLMs Does Not Improve Thinking Ability for General QA: Evaluation Method and a Simple Solution**|Kaiyuan Li et.al.|[2603.20799](http://arxiv.org/abs/2603.20799)|null|
@@ -399,6 +404,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance**|Daniil Gurgurov et.al.|[2604.12378](http://arxiv.org/abs/2604.12378)|null|
+|**2026-04-14**|**PubSwap: Public-Data Off-Policy Coordination for Federated RLVR**|Anupam Nayak et.al.|[2604.12160](http://arxiv.org/abs/2604.12160)|null|
+|**2026-04-13**|**ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents**|Fei Tang et.al.|[2604.11784](http://arxiv.org/abs/2604.11784)|null|
+|**2026-04-13**|**Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language**|Peijie Wang et.al.|[2604.11600](http://arxiv.org/abs/2604.11600)|null|
 |**2026-04-13**|**Triviality Corrected Endogenous Reward**|Xinda Wang et.al.|[2604.11522](http://arxiv.org/abs/2604.11522)|null|
 |**2026-04-13**|**Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration**|Zhipeng Chen et.al.|[2604.11446](http://arxiv.org/abs/2604.11446)|null|
 |**2026-04-13**|**Rethinking Token-Level Credit Assignment in RLVR: A Polarity-Entropy Analysis**|Yuhang He et.al.|[2604.11056](http://arxiv.org/abs/2604.11056)|null|
