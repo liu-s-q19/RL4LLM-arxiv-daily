@@ -404,6 +404,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
+|**2026-04-15**|**$π$ -Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data**|Yaocheng Zhang et.al.|[2604.14054](http://arxiv.org/abs/2604.14054)|null|
+|**2026-04-15**|**Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model**|Shiteng Cao et.al.|[2604.14051](http://arxiv.org/abs/2604.14051)|null|
+|**2026-04-15**|**DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off**|Xiaofan Li et.al.|[2604.13902](http://arxiv.org/abs/2604.13902)|null|
+|**2026-04-14**|**Unleashing Implicit Rewards: Prefix-Value Learning for Distribution-Level Optimization**|Shiping Gao et.al.|[2604.13197](http://arxiv.org/abs/2604.13197)|null|
 |**2026-04-14**|**ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance**|Daniil Gurgurov et.al.|[2604.12378](http://arxiv.org/abs/2604.12378)|null|
 |**2026-04-14**|**PubSwap: Public-Data Off-Policy Coordination for Federated RLVR**|Anupam Nayak et.al.|[2604.12160](http://arxiv.org/abs/2604.12160)|null|
 |**2026-04-13**|**ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents**|Fei Tang et.al.|[2604.11784](http://arxiv.org/abs/2604.11784)|null|
