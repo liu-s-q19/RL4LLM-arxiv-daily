@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLM RL Algorithms
@@ -404,7 +404,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
 |**2026-04-15**|**$π$ -Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data**|Yaocheng Zhang et.al.|[2604.14054](http://arxiv.org/abs/2604.14054)|null|
 |**2026-04-15**|**Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model**|Shiteng Cao et.al.|[2604.14051](http://arxiv.org/abs/2604.14051)|null|
 |**2026-04-15**|**DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off**|Xiaofan Li et.al.|[2604.13902](http://arxiv.org/abs/2604.13902)|null|
