@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**HEALing Entropy Collapse: Enhancing Exploration in Few-Shot RLVR via Hybrid-Domain Entropy Dynamics Alignment**|Zhanyu Liu et.al.|[2604.17928](http://arxiv.org/abs/2604.17928)|null|
+|**2026-04-19**|**A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions**|Zhiyin Yu et.al.|[2604.17312](http://arxiv.org/abs/2604.17312)|null|
+|**2026-04-18**|**Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL**|Skylar Zhai et.al.|[2604.17073](http://arxiv.org/abs/2604.17073)|null|
+|**2026-04-18**|**SPS: Steering Probability Squeezing for Better Exploration in Reinforcement Learning for Large Language Models**|Yifu Huo et.al.|[2604.16995](http://arxiv.org/abs/2604.16995)|null|
+|**2026-04-18**|**MCPO: Mastery-Consolidated Policy Optimization for Large Reasoning Models**|Zhaokang Liao et.al.|[2604.16972](http://arxiv.org/abs/2604.16972)|null|
+|**2026-04-18**|**EasyVideoR1: Easier RL for Video Understanding**|Chuanyu Qin et.al.|[2604.16893](http://arxiv.org/abs/2604.16893)|null|
+|**2026-04-18**|**Incentivizing Parametric Knowledge via Reinforcement Learning with Verifiable Rewards for Cross-Cultural Entity Translation**|Jiang Zhou et.al.|[2604.16881](http://arxiv.org/abs/2604.16881)|null|
+|**2026-04-17**|**Agentic AI for Education: A Unified Multi-Agent Framework for Personalized Learning and Institutional Intelligence**|Arya Mary K J et.al.|[2604.16566](http://arxiv.org/abs/2604.16566)|null|
 |**2026-04-17**|**Detecting and Suppressing Reward Hacking with Gradient Fingerprints**|Songtao Wang et.al.|[2604.16242](http://arxiv.org/abs/2604.16242)|null|
 |**2026-04-17**|**AtManRL: Towards Faithful Reasoning via Differentiable Attention Saliency**|Max Henning Höth et.al.|[2604.16158](http://arxiv.org/abs/2604.16158)|null|
 |**2026-04-17**|**CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution**|Shidong Yang et.al.|[2604.15840](http://arxiv.org/abs/2604.15840)|null|
@@ -21,7 +29,7 @@
 |**2026-04-17**|**UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards**|Jun Wang et.al.|[2604.14967](http://arxiv.org/abs/2604.14967)|null|
 |**2026-04-16**|**Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis**|Zhiyuan Zhai et.al.|[2604.14877](http://arxiv.org/abs/2604.14877)|null|
 |**2026-04-17**|**Targeted Exploration via Unified Entropy Control for Reinforcement Learning**|Chen Wang et.al.|[2604.14646](http://arxiv.org/abs/2604.14646)|null|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
 |**2026-04-15**|**DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off**|Xiaofan Li et.al.|[2604.13902](http://arxiv.org/abs/2604.13902)|null|
 |**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)|null|
 |**2026-04-14**|**KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance**|Linhao Yu et.al.|[2604.12627](http://arxiv.org/abs/2604.12627)|null|
@@ -421,10 +429,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**Process Reward Models Meet Planning: Generating Precise and Scalable Datasets for Step-Level Rewards**|Raffaele Pisano et.al.|[2604.17957](http://arxiv.org/abs/2604.17957)|null|
+|**2026-04-20**|**ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection**|Qiuhui Chen et.al.|[2604.17949](http://arxiv.org/abs/2604.17949)|null|
+|**2026-04-20**|**HEALing Entropy Collapse: Enhancing Exploration in Few-Shot RLVR via Hybrid-Domain Entropy Dynamics Alignment**|Zhanyu Liu et.al.|[2604.17928](http://arxiv.org/abs/2604.17928)|null|
+|**2026-04-19**|**Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier**|Jazmia Henry et.al.|[2604.17573](http://arxiv.org/abs/2604.17573)|null|
+|**2026-04-19**|**MedPRMBench: A Fine-grained Benchmark for Process Reward Models in Medical Reasoning**|Lingyan Wu et.al.|[2604.17282](http://arxiv.org/abs/2604.17282)|null|
+|**2026-04-18**|**Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL**|Skylar Zhai et.al.|[2604.17073](http://arxiv.org/abs/2604.17073)|null|
+|**2026-04-18**|**MCPO: Mastery-Consolidated Policy Optimization for Large Reasoning Models**|Zhaokang Liao et.al.|[2604.16972](http://arxiv.org/abs/2604.16972)|null|
+|**2026-04-18**|**EasyVideoR1: Easier RL for Video Understanding**|Chuanyu Qin et.al.|[2604.16893](http://arxiv.org/abs/2604.16893)|null|
+|**2026-04-18**|**Incentivizing Parametric Knowledge via Reinforcement Learning with Verifiable Rewards for Cross-Cultural Entity Translation**|Jiang Zhou et.al.|[2604.16881](http://arxiv.org/abs/2604.16881)|null|
+|**2026-04-16**|**SCATR: Simple Calibrated Test-Time Ranking**|Divya Shyamal et.al.|[2604.16535](http://arxiv.org/abs/2604.16535)|null|
 |**2026-04-17**|**Detecting and Suppressing Reward Hacking with Gradient Fingerprints**|Songtao Wang et.al.|[2604.16242](http://arxiv.org/abs/2604.16242)|null|
 |**2026-04-16**|**LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking**|Lukas Helff et.al.|[2604.15149](http://arxiv.org/abs/2604.15149)|null|
 |**2026-04-16**|**SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling**|Hao Han et.al.|[2604.14820](http://arxiv.org/abs/2604.14820)|null|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
 |**2026-04-15**|**$π$ -Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data**|Yaocheng Zhang et.al.|[2604.14054](http://arxiv.org/abs/2604.14054)|null|
 |**2026-04-15**|**Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model**|Shiteng Cao et.al.|[2604.14051](http://arxiv.org/abs/2604.14051)|null|
 |**2026-04-15**|**DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off**|Xiaofan Li et.al.|[2604.13902](http://arxiv.org/abs/2604.13902)|null|
