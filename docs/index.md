@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems**|Jiabao Ji et.al.|[2604.21138](http://arxiv.org/abs/2604.21138)|null|
 |**2026-04-22**|**Near-Future Policy Optimization**|Chuanyu Qin et.al.|[2604.20733](http://arxiv.org/abs/2604.20733)|null|
 |**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
 |**2026-04-22**|**GRPO-VPS: Enhancing Group Relative Policy Optimization with Verifiable Process Supervision for Effective Reasoning**|Jingyi Wang et.al.|[2604.20659](http://arxiv.org/abs/2604.20659)|null|
@@ -156,7 +157,7 @@ layout: default
 |**2026-03-10**|**Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards**|Zhengzhao Ma et.al.|[2603.09117](http://arxiv.org/abs/2603.09117)|null|
 |**2026-03-09**|**Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance**|Joshua Castillo et.al.|[2603.08933](http://arxiv.org/abs/2603.08933)|null|
 |**2026-03-09**|**How Far Can Unsupervised RLVR Scale LLM Training?**|Bingxiang He et.al.|[2603.08660](http://arxiv.org/abs/2603.08660)|null|
-|**2026-03-12**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](http://arxiv.org/abs/2603.07961)|null|
+|**2026-04-23**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](http://arxiv.org/abs/2603.07961)|null|
 |**2026-03-09**|**SWE-Fuse: Empowering Software Agents via Issue-free Trajectory Learning and Entropy-aware RLVR Training**|Xin-Cheng Wen et.al.|[2603.07927](http://arxiv.org/abs/2603.07927)|null|
 |**2026-03-09**|**SynPlanResearch-R1: Encouraging Tool Exploration for Deep Research with Synthetic Plans**|Hansi Zeng et.al.|[2603.07853](http://arxiv.org/abs/2603.07853)|null|
 |**2026-03-07**|**$\textbf{Re}^{2}$ : Unlocking LLM Reasoning via Reinforcement Learning with Re-solving**|Pinzheng Wang et.al.|[2603.07197](http://arxiv.org/abs/2603.07197)|null|
