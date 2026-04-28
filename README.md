@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Improving Vision-language Models with Perception-centric Process Reward Models**|Yingqian Min et.al.|[2604.24583](http://arxiv.org/abs/2604.24583)|null|
+|**2026-04-25**|**Hidden States Know Where Reasoning Diverges: Credit Assignment via Span-Level Wasserstein Distance**|Xinzhu Chen et.al.|[2604.23318](http://arxiv.org/abs/2604.23318)|null|
 |**2026-04-24**|**Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for RL-based LLM Recommenders**|Wentao Shi et.al.|[2604.22504](http://arxiv.org/abs/2604.22504)|null|
 |**2026-04-23**|**Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning**|Qinan Yu et.al.|[2604.22074](http://arxiv.org/abs/2604.22074)|null|
 |**2026-04-22**|**Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems**|Jiabao Ji et.al.|[2604.21138](http://arxiv.org/abs/2604.21138)|null|
@@ -452,6 +454,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Improving Vision-language Models with Perception-centric Process Reward Models**|Yingqian Min et.al.|[2604.24583](http://arxiv.org/abs/2604.24583)|null|
+|**2026-04-27**|**DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models**|Dake Bu et.al.|[2604.24357](http://arxiv.org/abs/2604.24357)|null|
+|**2026-04-27**|**Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis**|Zhisong Qiu et.al.|[2604.24198](http://arxiv.org/abs/2604.24198)|null|
+|**2026-04-25**|**V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think**|Bingda Tang et.al.|[2604.23380](http://arxiv.org/abs/2604.23380)|null|
+|**2026-04-25**|**Hidden States Know Where Reasoning Diverges: Credit Assignment via Span-Level Wasserstein Distance**|Xinzhu Chen et.al.|[2604.23318](http://arxiv.org/abs/2604.23318)|null|
+|**2026-04-24**|**DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining**|Youze Zheng et.al.|[2604.23054](http://arxiv.org/abs/2604.23054)|null|
+|**2026-04-24**|**TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction**|Chengye Wang et.al.|[2604.22880](http://arxiv.org/abs/2604.22880)|null|
+|**2026-04-21**|**AeSlides: Incentivizing Aesthetic Layout in LLM-Based Slide Generation via Verifiable Rewards**|Yiming Pan et.al.|[2604.22840](http://arxiv.org/abs/2604.22840)|null|
 |**2026-04-24**|**CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution**|Xiangxi Zheng et.al.|[2604.22192](http://arxiv.org/abs/2604.22192)|null|
 |**2026-04-23**|**Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning**|Qinan Yu et.al.|[2604.22074](http://arxiv.org/abs/2604.22074)|null|
 |**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
