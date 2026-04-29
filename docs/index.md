@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum**|Chu-Cheng Lin et.al.|[2604.25907](http://arxiv.org/abs/2604.25907)|null|
+|**2026-04-28**|**Step-Audio-R1.5 Technical Report**|Yuxin Zhang et.al.|[2604.25719](http://arxiv.org/abs/2604.25719)|null|
+|**2026-04-28**|**DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing**|Hanqing Yang et.al.|[2604.25477](http://arxiv.org/abs/2604.25477)|null|
+|**2026-04-28**|**JURY-RL: Votes Propose, Proofs Dispose for Label-Free RLVR**|Xinjie Chen et.al.|[2604.25419](http://arxiv.org/abs/2604.25419)|null|
 |**2026-04-27**|**Improving Vision-language Models with Perception-centric Process Reward Models**|Yingqian Min et.al.|[2604.24583](http://arxiv.org/abs/2604.24583)|null|
 |**2026-04-25**|**Hidden States Know Where Reasoning Diverges: Credit Assignment via Span-Level Wasserstein Distance**|Xinzhu Chen et.al.|[2604.23318](http://arxiv.org/abs/2604.23318)|null|
 |**2026-04-24**|**Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for RL-based LLM Recommenders**|Wentao Shi et.al.|[2604.22504](http://arxiv.org/abs/2604.22504)|null|
@@ -447,6 +451,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum**|Chu-Cheng Lin et.al.|[2604.25907](http://arxiv.org/abs/2604.25907)|null|
+|**2026-04-28**|**When Errors Can Be Beneficial: A Categorization of Imperfect Rewards for Policy Gradient**|Shuning Shang et.al.|[2604.25872](http://arxiv.org/abs/2604.25872)|null|
+|**2026-04-28**|**Step-Audio-R1.5 Technical Report**|Yuxin Zhang et.al.|[2604.25719](http://arxiv.org/abs/2604.25719)|null|
+|**2026-04-28**|**JURY-RL: Votes Propose, Proofs Dispose for Label-Free RLVR**|Xinjie Chen et.al.|[2604.25419](http://arxiv.org/abs/2604.25419)|null|
 |**2026-04-27**|**Improving Vision-language Models with Perception-centric Process Reward Models**|Yingqian Min et.al.|[2604.24583](http://arxiv.org/abs/2604.24583)|null|
 |**2026-04-27**|**DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models**|Dake Bu et.al.|[2604.24357](http://arxiv.org/abs/2604.24357)|null|
 |**2026-04-27**|**Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis**|Zhisong Qiu et.al.|[2604.24198](http://arxiv.org/abs/2604.24198)|null|
