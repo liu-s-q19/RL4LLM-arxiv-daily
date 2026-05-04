@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Decouple before Integration: Test-time Synthesis of SFT and RLVR Task Vectors**|Chaohao Yuan et.al.|[2605.00610](http://arxiv.org/abs/2605.00610)|null|
+|**2026-05-01**|**ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning**|Zihan Lin et.al.|[2605.00380](http://arxiv.org/abs/2605.00380)|null|
+|**2026-05-01**|**Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity**|Anamika Lochab et.al.|[2605.00365](http://arxiv.org/abs/2605.00365)|null|
 |**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
 |**2026-04-30**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
 |**2026-04-30**|**ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models**|Jiasheng Zheng et.al.|[2604.27467](http://arxiv.org/abs/2604.27467)|null|
@@ -456,6 +459,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory**|Derong Xu et.al.|[2605.00702](http://arxiv.org/abs/2605.00702)|null|
+|**2026-05-01**|**AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning**|Haotian Zhao et.al.|[2605.00425](http://arxiv.org/abs/2605.00425)|null|
+|**2026-05-01**|**ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning**|Zihan Lin et.al.|[2605.00380](http://arxiv.org/abs/2605.00380)|null|
+|**2026-05-01**|**Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity**|Anamika Lochab et.al.|[2605.00365](http://arxiv.org/abs/2605.00365)|null|
 |**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
 |**2026-04-30**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
 |**2026-04-29**|**FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards**|Zhixin Han et.al.|[2604.26733](http://arxiv.org/abs/2604.26733)|null|
