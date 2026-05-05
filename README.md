@@ -14,11 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces**|Chenchen Zhang et.al.|[2605.02801](http://arxiv.org/abs/2605.02801)|null|
+|**2026-05-04**|**Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent**|Yao Shu et.al.|[2605.02469](http://arxiv.org/abs/2605.02469)|null|
+|**2026-05-04**|**Binary Rewards and Reinforcement Learning: Fundamental Challenges**|Marc Dymetman et.al.|[2605.02375](http://arxiv.org/abs/2605.02375)|null|
+|**2026-05-03**|**Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning**|Arash Ahmadi et.al.|[2605.02073](http://arxiv.org/abs/2605.02073)|null|
+|**2026-05-03**|**Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards**|Rudray Dave et.al.|[2605.01823](http://arxiv.org/abs/2605.01823)|null|
+|**2026-05-02**|**MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models**|Yin Zhang et.al.|[2605.01520](http://arxiv.org/abs/2605.01520)|null|
 |**2026-05-01**|**Decouple before Integration: Test-time Synthesis of SFT and RLVR Task Vectors**|Chaohao Yuan et.al.|[2605.00610](http://arxiv.org/abs/2605.00610)|null|
 |**2026-05-01**|**ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning**|Zihan Lin et.al.|[2605.00380](http://arxiv.org/abs/2605.00380)|null|
 |**2026-05-01**|**Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity**|Anamika Lochab et.al.|[2605.00365](http://arxiv.org/abs/2605.00365)|null|
-|**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
-|**2026-04-30**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
+|**2026-05-01**|**Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
+|**2026-05-04**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
 |**2026-04-30**|**ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models**|Jiasheng Zheng et.al.|[2604.27467](http://arxiv.org/abs/2604.27467)|null|
 |**2026-04-29**|**Co-Evolving Policy Distillation**|Naibin Gu et.al.|[2604.27083](http://arxiv.org/abs/2604.27083)|null|
 |**2026-04-30**|**Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens**|Zhenyu Zhao et.al.|[2604.26355](http://arxiv.org/abs/2604.26355)|null|
@@ -466,12 +472,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**SCPRM: A Schema-aware Cumulative Process Reward Model for Knowledge Graph Question Answering**|Jiujiu Chen et.al.|[2605.02819](http://arxiv.org/abs/2605.02819)|null|
+|**2026-05-04**|**Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent**|Yao Shu et.al.|[2605.02469](http://arxiv.org/abs/2605.02469)|null|
+|**2026-05-04**|**Controllable and Verifiable Process Data Synthesis for Process Reward Models**|Yinghui Chi et.al.|[2605.02395](http://arxiv.org/abs/2605.02395)|null|
+|**2026-05-04**|**Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning**|Haoyu Wang et.al.|[2605.02378](http://arxiv.org/abs/2605.02378)|null|
+|**2026-05-04**|**Binary Rewards and Reinforcement Learning: Fundamental Challenges**|Marc Dymetman et.al.|[2605.02375](http://arxiv.org/abs/2605.02375)|null|
+|**2026-05-04**|**Decoding-Time Debiasing via Process Reward Models: From Controlled Fill-in to Open-Ended Generation**|Muneeb Ur Raheem Khan et.al.|[2605.02348](http://arxiv.org/abs/2605.02348)|null|
+|**2026-05-03**|**Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards**|Rudray Dave et.al.|[2605.01823](http://arxiv.org/abs/2605.01823)|null|
+|**2026-05-02**|**MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models**|Yin Zhang et.al.|[2605.01520](http://arxiv.org/abs/2605.01520)|null|
+|**2026-05-02**|**GR-Ben: A General Reasoning Benchmark for Evaluating Process Reward Models**|Zhouhao Sun et.al.|[2605.01203](http://arxiv.org/abs/2605.01203)|null|
 |**2026-05-01**|**Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory**|Derong Xu et.al.|[2605.00702](http://arxiv.org/abs/2605.00702)|null|
 |**2026-05-01**|**AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning**|Haotian Zhao et.al.|[2605.00425](http://arxiv.org/abs/2605.00425)|null|
 |**2026-05-01**|**ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning**|Zihan Lin et.al.|[2605.00380](http://arxiv.org/abs/2605.00380)|null|
 |**2026-05-01**|**Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity**|Anamika Lochab et.al.|[2605.00365](http://arxiv.org/abs/2605.00365)|null|
-|**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
-|**2026-04-30**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
+|**2026-05-01**|**Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
+|**2026-05-04**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
 |**2026-04-29**|**FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards**|Zhixin Han et.al.|[2604.26733](http://arxiv.org/abs/2604.26733)|null|
 |**2026-04-29**|**PAINT: Partial-Solution Adaptive Interpolated Training for Self-Distilled Reasoners**|Zhiquan Tan et.al.|[2604.26573](http://arxiv.org/abs/2604.26573)|null|
 |**2026-04-28**|**How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum**|Chu-Cheng Lin et.al.|[2604.25907](http://arxiv.org/abs/2604.25907)|null|
@@ -925,7 +940,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-04-22**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
-|**2026-04-20**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
+|**2026-05-04**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
 |**2026-04-07**|**ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving**|Kaiser Hamid et.al.|[2604.05378](http://arxiv.org/abs/2604.05378)|null|
 |**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Runhao Mao et.al.|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
 |**2026-04-06**|**Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers**|Jiancheng Wang et.al.|[2604.04630](http://arxiv.org/abs/2604.04630)|null|
