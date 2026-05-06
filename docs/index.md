@@ -22,7 +22,7 @@ layout: default
 |**2026-05-04**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
 |**2026-04-30**|**ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models**|Jiasheng Zheng et.al.|[2604.27467](http://arxiv.org/abs/2604.27467)|null|
 |**2026-04-29**|**Co-Evolving Policy Distillation**|Naibin Gu et.al.|[2604.27083](http://arxiv.org/abs/2604.27083)|null|
-|**2026-04-30**|**Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens**|Zhenyu Zhao et.al.|[2604.26355](http://arxiv.org/abs/2604.26355)|null|
+|**2026-05-05**|**Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens**|Zhenyu Zhao et.al.|[2604.26355](http://arxiv.org/abs/2604.26355)|null|
 |**2026-04-28**|**How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum**|Chu-Cheng Lin et.al.|[2604.25907](http://arxiv.org/abs/2604.25907)|null|
 |**2026-04-28**|**Step-Audio-R1.5 Technical Report**|Yuxin Zhang et.al.|[2604.25719](http://arxiv.org/abs/2604.25719)|null|
 |**2026-04-28**|**DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing**|Hanqing Yang et.al.|[2604.25477](http://arxiv.org/abs/2604.25477)|null|
@@ -465,6 +465,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics**|Shuyue Stella Li et.al.|[2605.03871](http://arxiv.org/abs/2605.03871)|null|
+|**2026-05-05**|**Correct Is Not Enough: Training Reasoning Planners with Executor-Grounded Rewards**|Tianyang Han et.al.|[2605.03862](http://arxiv.org/abs/2605.03862)|null|
+|**2026-05-05**|**Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe**|Wenjin Hou et.al.|[2605.03677](http://arxiv.org/abs/2605.03677)|null|
 |**2026-05-04**|**SCPRM: A Schema-aware Cumulative Process Reward Model for Knowledge Graph Question Answering**|Jiujiu Chen et.al.|[2605.02819](http://arxiv.org/abs/2605.02819)|null|
 |**2026-05-04**|**Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent**|Yao Shu et.al.|[2605.02469](http://arxiv.org/abs/2605.02469)|null|
 |**2026-05-04**|**Controllable and Verifiable Process Data Synthesis for Process Reward Models**|Yinghui Chi et.al.|[2605.02395](http://arxiv.org/abs/2605.02395)|null|
