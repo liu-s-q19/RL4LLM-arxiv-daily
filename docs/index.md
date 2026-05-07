@@ -9,9 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance**|Song Yu et.al.|[2605.04960](http://arxiv.org/abs/2605.04960)|null|
 |**2026-05-04**|**Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces**|Chenchen Zhang et.al.|[2605.02801](http://arxiv.org/abs/2605.02801)|null|
 |**2026-05-04**|**Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent**|Yao Shu et.al.|[2605.02469](http://arxiv.org/abs/2605.02469)|null|
 |**2026-05-04**|**Binary Rewards and Reinforcement Learning: Fundamental Challenges**|Marc Dymetman et.al.|[2605.02375](http://arxiv.org/abs/2605.02375)|null|
+|**2026-05-06**|**ANO: A Principled Approach to Robust Policy Optimization**|Yiheng Zhang et.al.|[2605.02320](http://arxiv.org/abs/2605.02320)|null|
 |**2026-05-03**|**Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning**|Arash Ahmadi et.al.|[2605.02073](http://arxiv.org/abs/2605.02073)|null|
 |**2026-05-03**|**Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards**|Rudray Dave et.al.|[2605.01823](http://arxiv.org/abs/2605.01823)|null|
 |**2026-05-02**|**MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models**|Yin Zhang et.al.|[2605.01520](http://arxiv.org/abs/2605.01520)|null|
@@ -465,8 +467,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance**|Song Yu et.al.|[2605.04960](http://arxiv.org/abs/2605.04960)|null|
+|**2026-05-06**|**Reinforcement Learning for Compositional Generalization with Outcome-Level Optimization**|Xiyan Fu et.al.|[2605.04920](http://arxiv.org/abs/2605.04920)|null|
+|**2026-05-05**|**Efficiently Aligning Language Models with Online Natural Language Feedback**|Christine Ye et.al.|[2605.04356](http://arxiv.org/abs/2605.04356)|null|
 |**2026-05-05**|**EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics**|Shuyue Stella Li et.al.|[2605.03871](http://arxiv.org/abs/2605.03871)|null|
-|**2026-05-05**|**Correct Is Not Enough: Training Reasoning Planners with Executor-Grounded Rewards**|Tianyang Han et.al.|[2605.03862](http://arxiv.org/abs/2605.03862)|null|
+|**2026-05-06**|**Correct Is Not Enough: Training Reasoning Planners with Executor-Grounded Rewards**|Tianyang Han et.al.|[2605.03862](http://arxiv.org/abs/2605.03862)|null|
 |**2026-05-05**|**Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe**|Wenjin Hou et.al.|[2605.03677](http://arxiv.org/abs/2605.03677)|null|
 |**2026-05-04**|**SCPRM: A Schema-aware Cumulative Process Reward Model for Knowledge Graph Question Answering**|Jiujiu Chen et.al.|[2605.02819](http://arxiv.org/abs/2605.02819)|null|
 |**2026-05-04**|**Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent**|Yao Shu et.al.|[2605.02469](http://arxiv.org/abs/2605.02469)|null|
@@ -933,7 +938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-22**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
+|**2026-05-05**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
 |**2026-05-04**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
 |**2026-04-07**|**ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving**|Kaiser Hamid et.al.|[2604.05378](http://arxiv.org/abs/2604.05378)|null|
 |**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Runhao Mao et.al.|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
