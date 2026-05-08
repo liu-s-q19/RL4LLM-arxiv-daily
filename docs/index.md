@@ -9,6 +9,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
+|**2026-05-07**|**On the Implicit Reward Overfitting and the Low-rank Dynamics in RLVR**|Hao Ye et.al.|[2605.06523](http://arxiv.org/abs/2605.06523)|null|
+|**2026-05-07**|**Teaching Thinking Models to Reason with Tools: A Full-Pipeline Recipe for Tool-Integrated Reasoning**|Qianjia Cheng et.al.|[2605.06326](http://arxiv.org/abs/2605.06326)|null|
+|**2026-05-07**|**Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning**|Ömer Faruk Akgül et.al.|[2605.06241](http://arxiv.org/abs/2605.06241)|null|
+|**2026-05-07**|**OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models**|Jaehoon Kim et.al.|[2605.06188](http://arxiv.org/abs/2605.06188)|null|
+|**2026-05-07**|**Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex**|Yun Qu et.al.|[2605.06139](http://arxiv.org/abs/2605.06139)|null|
+|**2026-05-07**|**VISD: Enhancing Video Reasoning via Structured Self-Distillation**|Hao Lin et.al.|[2605.06094](http://arxiv.org/abs/2605.06094)|null|
+|**2026-05-07**|**Beyond Uniform Credit Assignment: Selective Eligibility Traces for RLVR**|Chaoli Mou et.al.|[2605.05965](http://arxiv.org/abs/2605.05965)|null|
+|**2026-05-07**|**AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD**|Yang Xu et.al.|[2605.05826](http://arxiv.org/abs/2605.05826)|null|
+|**2026-05-07**|**Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration**|Langlin Huang et.al.|[2605.05566](http://arxiv.org/abs/2605.05566)|null|
+|**2026-05-06**|**ZAYA1-8B Technical Report**|Robert Washbourne et.al.|[2605.05365](http://arxiv.org/abs/2605.05365)|null|
+|**2026-04-19**|**Internalizing Outcome Supervision into Process Supervision: A New Paradigm for Reinforcement Learning for Reasoning**|Fei Ding et.al.|[2605.05226](http://arxiv.org/abs/2605.05226)|null|
 |**2026-05-06**|**EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance**|Song Yu et.al.|[2605.04960](http://arxiv.org/abs/2605.04960)|null|
 |**2026-05-04**|**Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces**|Chenchen Zhang et.al.|[2605.02801](http://arxiv.org/abs/2605.02801)|null|
 |**2026-05-04**|**Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent**|Yao Shu et.al.|[2605.02469](http://arxiv.org/abs/2605.02469)|null|
@@ -467,6 +479,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
+|**2026-05-07**|**On the Implicit Reward Overfitting and the Low-rank Dynamics in RLVR**|Hao Ye et.al.|[2605.06523](http://arxiv.org/abs/2605.06523)|null|
+|**2026-05-07**|**Teaching Thinking Models to Reason with Tools: A Full-Pipeline Recipe for Tool-Integrated Reasoning**|Qianjia Cheng et.al.|[2605.06326](http://arxiv.org/abs/2605.06326)|null|
+|**2026-05-07**|**A $^2$ TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping**|Dingwei Chen et.al.|[2605.06200](http://arxiv.org/abs/2605.06200)|null|
+|**2026-05-07**|**OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models**|Jaehoon Kim et.al.|[2605.06188](http://arxiv.org/abs/2605.06188)|null|
+|**2026-05-07**|**Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex**|Yun Qu et.al.|[2605.06139](http://arxiv.org/abs/2605.06139)|null|
+|**2026-05-07**|**Policy-Guided Stepwise Model Routing for Cost-Effective Reasoning**|Wenwen Si et.al.|[2605.06116](http://arxiv.org/abs/2605.06116)|null|
+|**2026-05-07**|**Schedule-and-Calibrate: Utility-Guided Multi-Task Reinforcement Learning for Code LLMs**|Yujia Chen et.al.|[2605.06111](http://arxiv.org/abs/2605.06111)|null|
+|**2026-05-07**|**VISD: Enhancing Video Reasoning via Structured Self-Distillation**|Hao Lin et.al.|[2605.06094](http://arxiv.org/abs/2605.06094)|null|
+|**2026-05-07**|**Beyond Uniform Credit Assignment: Selective Eligibility Traces for RLVR**|Chaoli Mou et.al.|[2605.05965](http://arxiv.org/abs/2605.05965)|null|
+|**2026-05-07**|**AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD**|Yang Xu et.al.|[2605.05826](http://arxiv.org/abs/2605.05826)|null|
+|**2026-05-07**|**Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents**|Huyu Wu et.al.|[2605.05702](http://arxiv.org/abs/2605.05702)|null|
+|**2026-05-07**|**Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration**|Langlin Huang et.al.|[2605.05566](http://arxiv.org/abs/2605.05566)|null|
+|**2026-05-07**|**SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs**|Hyobin Park et.al.|[2605.05546](http://arxiv.org/abs/2605.05546)|null|
 |**2026-05-06**|**EP-GRPO: Entropy-Progress Aligned Group Relative Policy Optimization with Implicit Process Guidance**|Song Yu et.al.|[2605.04960](http://arxiv.org/abs/2605.04960)|null|
 |**2026-05-06**|**Reinforcement Learning for Compositional Generalization with Outcome-Level Optimization**|Xiyan Fu et.al.|[2605.04920](http://arxiv.org/abs/2605.04920)|null|
 |**2026-05-05**|**Efficiently Aligning Language Models with Online Natural Language Feedback**|Christine Ye et.al.|[2605.04356](http://arxiv.org/abs/2605.04356)|null|
