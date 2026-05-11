@@ -9,13 +9,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Gradient Starvation in Binary-Reward GRPO: Why Group-Mean Centering Fails and Why the Simplest Fix Works**|Wenhua Nie et.al.|[2605.07689](http://arxiv.org/abs/2605.07689)|null|
+|**2026-05-08**|**Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States**|Yunho Choi et.al.|[2605.07579](http://arxiv.org/abs/2605.07579)|null|
+|**2026-05-08**|**Rethinking Importance Sampling in LLM Policy Optimization: A Cumulative Token Perspective**|Yuheng Zhang et.al.|[2605.07331](http://arxiv.org/abs/2605.07331)|null|
+|**2026-05-08**|**Structured Role-Aware Policy Optimization for Multimodal Reasoning**|Bingqing Jiang et.al.|[2605.07274](http://arxiv.org/abs/2605.07274)|null|
+|**2026-05-08**|**Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs**|Wanli Yang et.al.|[2605.07153](http://arxiv.org/abs/2605.07153)|null|
+|**2026-05-08**|**Adaptive Negative Reinforcement for LLM Reasoning:Dynamically Balancing Correction and Diversity in RLVR**|Yash Ingle et.al.|[2605.07137](http://arxiv.org/abs/2605.07137)|null|
+|**2026-05-08**|**Where to Spend Rollouts: Hit-Utility Optimal Rollout Allocation for Group-Based RLVR**|Tao Wang et.al.|[2605.07114](http://arxiv.org/abs/2605.07114)|null|
+|**2026-05-08**|**Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training**|Pingbang Hu et.al.|[2605.07063](http://arxiv.org/abs/2605.07063)|null|
+|**2026-05-07**|**Behavior Cue Reasoning: Monitorable Reasoning Improves Efficiency and Safety through Oversight**|Christopher Z. Cui et.al.|[2605.07021](http://arxiv.org/abs/2605.07021)|null|
 |**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
 |**2026-05-07**|**On the Implicit Reward Overfitting and the Low-rank Dynamics in RLVR**|Hao Ye et.al.|[2605.06523](http://arxiv.org/abs/2605.06523)|null|
 |**2026-05-07**|**Teaching Thinking Models to Reason with Tools: A Full-Pipeline Recipe for Tool-Integrated Reasoning**|Qianjia Cheng et.al.|[2605.06326](http://arxiv.org/abs/2605.06326)|null|
 |**2026-05-07**|**Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning**|Ömer Faruk Akgül et.al.|[2605.06241](http://arxiv.org/abs/2605.06241)|null|
 |**2026-05-07**|**OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models**|Jaehoon Kim et.al.|[2605.06188](http://arxiv.org/abs/2605.06188)|null|
 |**2026-05-07**|**Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex**|Yun Qu et.al.|[2605.06139](http://arxiv.org/abs/2605.06139)|null|
-|**2026-05-07**|**VISD: Enhancing Video Reasoning via Structured Self-Distillation**|Hao Lin et.al.|[2605.06094](http://arxiv.org/abs/2605.06094)|null|
+|**2026-05-08**|**VISD: Enhancing Video Reasoning via Structured Self-Distillation**|Hao Lin et.al.|[2605.06094](http://arxiv.org/abs/2605.06094)|null|
 |**2026-05-07**|**Beyond Uniform Credit Assignment: Selective Eligibility Traces for RLVR**|Chaoli Mou et.al.|[2605.05965](http://arxiv.org/abs/2605.05965)|null|
 |**2026-05-07**|**AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD**|Yang Xu et.al.|[2605.05826](http://arxiv.org/abs/2605.05826)|null|
 |**2026-05-07**|**Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration**|Langlin Huang et.al.|[2605.05566](http://arxiv.org/abs/2605.05566)|null|
@@ -26,7 +35,7 @@ layout: default
 |**2026-05-04**|**Reference-Sampled Boltzmann Projection for KL-Regularized RLVR: Target-Matched Weighted SFT, Finite One-Shot Gaps, and Policy Mirror Descent**|Yao Shu et.al.|[2605.02469](http://arxiv.org/abs/2605.02469)|null|
 |**2026-05-04**|**Binary Rewards and Reinforcement Learning: Fundamental Challenges**|Marc Dymetman et.al.|[2605.02375](http://arxiv.org/abs/2605.02375)|null|
 |**2026-05-06**|**ANO: A Principled Approach to Robust Policy Optimization**|Yiheng Zhang et.al.|[2605.02320](http://arxiv.org/abs/2605.02320)|null|
-|**2026-05-03**|**Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning**|Arash Ahmadi et.al.|[2605.02073](http://arxiv.org/abs/2605.02073)|null|
+|**2026-05-08**|**Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning**|Arash Ahmadi et.al.|[2605.02073](http://arxiv.org/abs/2605.02073)|null|
 |**2026-05-03**|**Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards**|Rudray Dave et.al.|[2605.01823](http://arxiv.org/abs/2605.01823)|null|
 |**2026-05-02**|**MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models**|Yin Zhang et.al.|[2605.01520](http://arxiv.org/abs/2605.01520)|null|
 |**2026-05-01**|**Decouple before Integration: Test-time Synthesis of SFT and RLVR Task Vectors**|Chaohao Yuan et.al.|[2605.00610](http://arxiv.org/abs/2605.00610)|null|
@@ -479,6 +488,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**From Synthetic to Real: Toward Identity-Consistent Makeup Transfer with Synthetic and Real Data**|Yue Yu et.al.|[2605.07861](http://arxiv.org/abs/2605.07861)|null|
+|**2026-05-08**|**Gradient Starvation in Binary-Reward GRPO: Why Group-Mean Centering Fails and Why the Simplest Fix Works**|Wenhua Nie et.al.|[2605.07689](http://arxiv.org/abs/2605.07689)|null|
+|**2026-05-08**|**Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States**|Yunho Choi et.al.|[2605.07579](http://arxiv.org/abs/2605.07579)|null|
+|**2026-05-08**|**Rethinking Importance Sampling in LLM Policy Optimization: A Cumulative Token Perspective**|Yuheng Zhang et.al.|[2605.07331](http://arxiv.org/abs/2605.07331)|null|
+|**2026-05-08**|**Implicit Compression Regularization: Concise Reasoning via Internal Shorter Distributions in RL Post-Training**|Chen Wang et.al.|[2605.07316](http://arxiv.org/abs/2605.07316)|null|
+|**2026-05-08**|**Signal Reshaping for GRPO in Weak-Feedback Agentic Code Repair**|Jia Li et.al.|[2605.07276](http://arxiv.org/abs/2605.07276)|null|
+|**2026-05-08**|**Structured Role-Aware Policy Optimization for Multimodal Reasoning**|Bingqing Jiang et.al.|[2605.07274](http://arxiv.org/abs/2605.07274)|null|
+|**2026-05-08**|**HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents**|Guankai Li et.al.|[2605.07177](http://arxiv.org/abs/2605.07177)|null|
+|**2026-05-08**|**Adaptive Negative Reinforcement for LLM Reasoning:Dynamically Balancing Correction and Diversity in RLVR**|Yash Ingle et.al.|[2605.07137](http://arxiv.org/abs/2605.07137)|null|
+|**2026-05-08**|**Convergence and Emergence of In-Context Reinforcement Learning with Chain of Thought**|Zixuan Xie et.al.|[2605.07123](http://arxiv.org/abs/2605.07123)|null|
+|**2026-05-08**|**Where to Spend Rollouts: Hit-Utility Optimal Rollout Allocation for Group-Based RLVR**|Tao Wang et.al.|[2605.07114](http://arxiv.org/abs/2605.07114)|null|
+|**2026-05-07**|**Distributional Process Reward Models: Calibrated Prediction of Future Rewards via Conditional Optimal Transport**|Rachel Ma et.al.|[2605.06785](http://arxiv.org/abs/2605.06785)|null|
 |**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|
 |**2026-05-07**|**On the Implicit Reward Overfitting and the Low-rank Dynamics in RLVR**|Hao Ye et.al.|[2605.06523](http://arxiv.org/abs/2605.06523)|null|
 |**2026-05-07**|**Teaching Thinking Models to Reason with Tools: A Full-Pipeline Recipe for Tool-Integrated Reasoning**|Qianjia Cheng et.al.|[2605.06326](http://arxiv.org/abs/2605.06326)|null|
