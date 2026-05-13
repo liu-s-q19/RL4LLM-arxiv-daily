@@ -9,6 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
+|**2026-05-12**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
+|**2026-05-12**|**Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control**|Jiazheng Zhang et.al.|[2605.11775](http://arxiv.org/abs/2605.11775)|null|
+|**2026-05-12**|**Evolutionary Task Discovery: Advancing Reasoning Frontiers via Skill Composition and Complexity Scaling**|Liqin Ye et.al.|[2605.11666](http://arxiv.org/abs/2605.11666)|null|
+|**2026-05-12**|**Seirênes: Adversarial Self-Play with Evolving Distractions for LLM Reasoning**|Chi Zhang et.al.|[2605.11636](http://arxiv.org/abs/2605.11636)|null|
+|**2026-05-12**|**CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG**|Jianghan Shen et.al.|[2605.11611](http://arxiv.org/abs/2605.11611)|null|
+|**2026-05-12**|**Understanding and Preventing Entropy Collapse in RLVR with On-Policy Entropy Flow Optimization**|Huimin Xu et.al.|[2605.11491](http://arxiv.org/abs/2605.11491)|null|
+|**2026-05-12**|**Breaking $\textit{Winner-Takes-All}$ : Cooperative Policy Optimization Improves Diverse LLM Reasoning**|Haoxuan Chen et.al.|[2605.11461](http://arxiv.org/abs/2605.11461)|null|
+|**2026-05-12**|**fg-expo: Frontier-guided exploration-prioritized policy optimization via adaptive kl and gaussian curriculum**|Mingxiong Lin et.al.|[2605.11403](http://arxiv.org/abs/2605.11403)|null|
+|**2026-05-11**|**The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes**|Siqi Zhu et.al.|[2605.11182](http://arxiv.org/abs/2605.11182)|null|
+|**2026-05-11**|**Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR**|Jeonghye Kim et.al.|[2605.10781](http://arxiv.org/abs/2605.10781)|null|
+|**2026-05-11**|**Verifiable Process Rewards for Agentic Reasoning**|Huining Yuan et.al.|[2605.10325](http://arxiv.org/abs/2605.10325)|null|
+|**2026-05-11**|**Relative Score Policy Optimization for Diffusion Language Models**|Zichao Yu et.al.|[2605.10218](http://arxiv.org/abs/2605.10218)|null|
+|**2026-05-11**|**TRACE: Distilling Where It Matters via Token-Routed Self On-Policy Alignment**|Jiaxuan Wang et.al.|[2605.10194](http://arxiv.org/abs/2605.10194)|null|
+|**2026-05-11**|**FormalRewardBench: A Benchmark for Formal Theorem Proving Reward Models**|Zeynel A. Uluşan et.al.|[2605.10141](http://arxiv.org/abs/2605.10141)|null|
+|**2026-05-11**|**Omni-Persona: Systematic Benchmarking and Improving Omnimodal Personalization**|Yeongtak Oh et.al.|[2605.09996](http://arxiv.org/abs/2605.09996)|null|
+|**2026-05-11**|**expo: Exploration-prioritized policy optimization via adaptive kl regulation and gaussian curriculum sampling**|Mingxiong Lin et.al.|[2605.09923](http://arxiv.org/abs/2605.09923)|null|
+|**2026-05-10**|**Hidden Error Awareness in Chain-of-Thought Reasoning: The Signal Is Diagnostic, Not Causal**|Aojie Yuan et.al.|[2605.09502](http://arxiv.org/abs/2605.09502)|null|
 |**2026-05-08**|**Gradient Starvation in Binary-Reward GRPO: Why Group-Mean Centering Fails and Why the Simplest Fix Works**|Wenhua Nie et.al.|[2605.07689](http://arxiv.org/abs/2605.07689)|null|
 |**2026-05-08**|**Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States**|Yunho Choi et.al.|[2605.07579](http://arxiv.org/abs/2605.07579)|null|
 |**2026-05-08**|**Rethinking Importance Sampling in LLM Policy Optimization: A Cumulative Token Perspective**|Yuheng Zhang et.al.|[2605.07331](http://arxiv.org/abs/2605.07331)|null|
@@ -339,7 +357,7 @@ layout: default
 |**2026-01-31**|**How Far Are LLMs from Professional Poker Players? Revisiting Game-Theoretic Reasoning with Agentic Tool Use**|Minhua Lin et.al.|[2602.00528](http://arxiv.org/abs/2602.00528)|null|
 |**2026-01-31**|**Minerva: Reinforcement Learning with Verifiable Rewards for Cyber Threat Intelligence LLMs**|Md Tanvirul Alam et.al.|[2602.00513](http://arxiv.org/abs/2602.00513)|null|
 |**2026-01-31**|**LLMs as High-Dimensional Nonlinear Autoregressive Models with Attention: Training, Alignment and Inference**|Vikram Krishnamurthy et.al.|[2602.00426](http://arxiv.org/abs/2602.00426)|null|
-|**2026-01-30**|**KEPO: Knowledge-Enhanced Preference Optimization for Reinforcement Learning with Reasoning**|Fan Yang et.al.|[2602.00400](http://arxiv.org/abs/2602.00400)|null|
+|**2026-05-11**|**KEPO: Knowledge-Enhanced Preference Optimization for Multimodal Reasoning with Applications to Medical VQA**|Fan Yang et.al.|[2602.00400](http://arxiv.org/abs/2602.00400)|null|
 |**2026-01-30**|**ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased concepts in unlearned diffusion models**|Ignacy Kolton et.al.|[2602.00350](http://arxiv.org/abs/2602.00350)|null|
 |**2026-01-30**|**Learning Robust Reasoning through Guided Adversarial Self-Play**|Shuozhe Li et.al.|[2602.00173](http://arxiv.org/abs/2602.00173)|null|
 |**2026-01-30**|**THINKSAFE: Self-Generated Safety Alignment for Reasoning Models**|Seanie Lee et.al.|[2601.23143](http://arxiv.org/abs/2601.23143)|null|
@@ -488,6 +506,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**|Runhui Huang et.al.|[2605.12495](http://arxiv.org/abs/2605.12495)|null|
+|**2026-05-12**|**Reward Hacking in Rubric-Based Reinforcement Learning**|Anas Mahmoud et.al.|[2605.12474](http://arxiv.org/abs/2605.12474)|null|
+|**2026-05-12**|**OGLS-SD: On-Policy Self-Distillation with Outcome-Guided Logit Steering for LLM Reasoning**|Yuxiao Yang et.al.|[2605.12400](http://arxiv.org/abs/2605.12400)|null|
+|**2026-05-12**|**Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control**|Jiazheng Zhang et.al.|[2605.11775](http://arxiv.org/abs/2605.11775)|null|
+|**2026-05-12**|**Evolutionary Task Discovery: Advancing Reasoning Frontiers via Skill Composition and Complexity Scaling**|Liqin Ye et.al.|[2605.11666](http://arxiv.org/abs/2605.11666)|null|
+|**2026-05-12**|**Seirênes: Adversarial Self-Play with Evolving Distractions for LLM Reasoning**|Chi Zhang et.al.|[2605.11636](http://arxiv.org/abs/2605.11636)|null|
+|**2026-05-12**|**CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG**|Jianghan Shen et.al.|[2605.11611](http://arxiv.org/abs/2605.11611)|null|
+|**2026-05-12**|**Selective Off-Policy Reference Tuning with Plan Guidance**|Duc Anh Le et.al.|[2605.11505](http://arxiv.org/abs/2605.11505)|null|
+|**2026-05-12**|**Understanding and Preventing Entropy Collapse in RLVR with On-Policy Entropy Flow Optimization**|Huimin Xu et.al.|[2605.11491](http://arxiv.org/abs/2605.11491)|null|
+|**2026-05-12**|**fg-expo: Frontier-guided exploration-prioritized policy optimization via adaptive kl and gaussian curriculum**|Mingxiong Lin et.al.|[2605.11403](http://arxiv.org/abs/2605.11403)|null|
+|**2026-05-11**|**RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards**|Gaotang Li et.al.|[2605.10899](http://arxiv.org/abs/2605.10899)|null|
+|**2026-05-11**|**RadThinking: A Dataset for Longitudinal Clinical Reasoning in Radiology**|Wenxuan Li et.al.|[2605.10761](http://arxiv.org/abs/2605.10761)|null|
+|**2026-05-11**|**Verifiable Process Rewards for Agentic Reasoning**|Huining Yuan et.al.|[2605.10325](http://arxiv.org/abs/2605.10325)|null|
+|**2026-05-11**|**Relative Score Policy Optimization for Diffusion Language Models**|Zichao Yu et.al.|[2605.10218](http://arxiv.org/abs/2605.10218)|null|
+|**2026-05-11**|**TRACE: Distilling Where It Matters via Token-Routed Self On-Policy Alignment**|Jiaxuan Wang et.al.|[2605.10194](http://arxiv.org/abs/2605.10194)|null|
 |**2026-05-08**|**From Synthetic to Real: Toward Identity-Consistent Makeup Transfer with Synthetic and Real Data**|Yue Yu et.al.|[2605.07861](http://arxiv.org/abs/2605.07861)|null|
 |**2026-05-08**|**Gradient Starvation in Binary-Reward GRPO: Why Group-Mean Centering Fails and Why the Simplest Fix Works**|Wenhua Nie et.al.|[2605.07689](http://arxiv.org/abs/2605.07689)|null|
 |**2026-05-08**|**Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States**|Yunho Choi et.al.|[2605.07579](http://arxiv.org/abs/2605.07579)|null|
@@ -985,8 +1018,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**SceneFactory: GPU-Accelerated Multi-Agent Driving Simulation with Physics-Based Vehicle Dynamics**|Yicheng Zhu et.al.|[2605.08528](http://arxiv.org/abs/2605.08528)|null|
 |**2026-05-05**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
-|**2026-05-04**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
+|**2026-05-08**|**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
 |**2026-04-07**|**ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving**|Kaiser Hamid et.al.|[2604.05378](http://arxiv.org/abs/2604.05378)|null|
 |**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Runhao Mao et.al.|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
 |**2026-04-06**|**Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers**|Jiancheng Wang et.al.|[2604.04630](http://arxiv.org/abs/2604.04630)|null|
