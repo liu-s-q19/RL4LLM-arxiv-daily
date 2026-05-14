@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning**|Hee Suk Yoon et.al.|[2605.13467](http://arxiv.org/abs/2605.13467)|null|
+|**2026-05-13**|**Teacher-Guided Policy Optimization for LLM Distillation**|Xinyu Liu et.al.|[2605.13230](http://arxiv.org/abs/2605.13230)|null|
+|**2026-05-13**|**Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective**|Feng Zhang et.al.|[2605.12969](http://arxiv.org/abs/2605.12969)|null|
 |**2026-05-12**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
 |**2026-05-12**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
 |**2026-05-12**|**Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control**|Jiazheng Zhang et.al.|[2605.11775](http://arxiv.org/abs/2605.11775)|null|
@@ -513,6 +516,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Reward-Weighted On-Policy Distillation with an Open Property-Equivalence Verifier for NL-to-SVA Generation**|Qingyun Zou et.al.|[2605.13501](http://arxiv.org/abs/2605.13501)|null|
+|**2026-05-13**|**PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning**|Hee Suk Yoon et.al.|[2605.13467](http://arxiv.org/abs/2605.13467)|null|
+|**2026-05-13**|**Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling**|Yafu Li et.al.|[2605.13301](http://arxiv.org/abs/2605.13301)|null|
+|**2026-05-13**|**Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective**|Feng Zhang et.al.|[2605.12969](http://arxiv.org/abs/2605.12969)|null|
+|**2026-05-13**|**Revisiting DAgger in the Era of LLM-Agents**|Changhao Li et.al.|[2605.12913](http://arxiv.org/abs/2605.12913)|null|
+|**2026-05-12**|**Multi-Rollout On-Policy Distillation via Peer Successes and Failures**|Weichen Yu et.al.|[2605.12652](http://arxiv.org/abs/2605.12652)|null|
 |**2026-05-12**|**AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**|Runhui Huang et.al.|[2605.12495](http://arxiv.org/abs/2605.12495)|null|
 |**2026-05-12**|**Reward Hacking in Rubric-Based Reinforcement Learning**|Anas Mahmoud et.al.|[2605.12474](http://arxiv.org/abs/2605.12474)|null|
 |**2026-05-12**|**OGLS-SD: On-Policy Self-Distillation with Outcome-Guided Logit Steering for LLM Reasoning**|Yuxiao Yang et.al.|[2605.12400](http://arxiv.org/abs/2605.12400)|null|
@@ -520,7 +529,7 @@
 |**2026-05-12**|**Evolutionary Task Discovery: Advancing Reasoning Frontiers via Skill Composition and Complexity Scaling**|Liqin Ye et.al.|[2605.11666](http://arxiv.org/abs/2605.11666)|null|
 |**2026-05-12**|**Seirênes: Adversarial Self-Play with Evolving Distractions for LLM Reasoning**|Chi Zhang et.al.|[2605.11636](http://arxiv.org/abs/2605.11636)|null|
 |**2026-05-12**|**CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG**|Jianghan Shen et.al.|[2605.11611](http://arxiv.org/abs/2605.11611)|null|
-|**2026-05-12**|**Selective Off-Policy Reference Tuning with Plan Guidance**|Duc Anh Le et.al.|[2605.11505](http://arxiv.org/abs/2605.11505)|null|
+|**2026-05-13**|**Selective Off-Policy Reference Tuning with Plan Guidance**|Duc Anh Le et.al.|[2605.11505](http://arxiv.org/abs/2605.11505)|null|
 |**2026-05-12**|**Understanding and Preventing Entropy Collapse in RLVR with On-Policy Entropy Flow Optimization**|Huimin Xu et.al.|[2605.11491](http://arxiv.org/abs/2605.11491)|null|
 |**2026-05-12**|**fg-expo: Frontier-guided exploration-prioritized policy optimization via adaptive kl and gaussian curriculum**|Mingxiong Lin et.al.|[2605.11403](http://arxiv.org/abs/2605.11403)|null|
 |**2026-05-11**|**RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards**|Gaotang Li et.al.|[2605.10899](http://arxiv.org/abs/2605.10899)|null|
