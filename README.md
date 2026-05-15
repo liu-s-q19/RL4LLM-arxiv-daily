@@ -14,15 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Learning from Language Feedback via Variational Policy Distillation**|Yang Li et.al.|[2605.15113](http://arxiv.org/abs/2605.15113)|null|
+|**2026-05-14**|**Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance**|Kai Yan et.al.|[2605.15012](http://arxiv.org/abs/2605.15012)|null|
+|**2026-05-14**|**Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**|Minghao Wu et.al.|[2605.14723](http://arxiv.org/abs/2605.14723)|null|
+|**2026-05-14**|**Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards**|Mengjie Ren et.al.|[2605.14539](http://arxiv.org/abs/2605.14539)|null|
+|**2026-05-14**|**LEMON: Learning Executable Multi-Agent Orchestration via Counterfactual Reinforcement Learning**|Xudong Chen et.al.|[2605.14483](http://arxiv.org/abs/2605.14483)|null|
+|**2026-05-14**|**Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis**|Yucheng Shi et.al.|[2605.14392](http://arxiv.org/abs/2605.14392)|null|
+|**2026-05-14**|**CrystalReasoner: Reasoning and RL for Property-Conditioned Crystal Structure Generation**|Yuyang Wu et.al.|[2605.14344](http://arxiv.org/abs/2605.14344)|null|
+|**2026-05-14**|**Diagnosing Training Inference Mismatch in LLM Reinforcement Learning**|Tianle Zhong et.al.|[2605.14220](http://arxiv.org/abs/2605.14220)|null|
+|**2026-05-13**|**Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards**|Luis Lara et.al.|[2605.14117](http://arxiv.org/abs/2605.14117)|null|
+|**2026-05-13**|**CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves**|Amirreza Mohseni et.al.|[2605.14068](http://arxiv.org/abs/2605.14068)|null|
 |**2026-05-13**|**PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning**|Hee Suk Yoon et.al.|[2605.13467](http://arxiv.org/abs/2605.13467)|null|
 |**2026-05-13**|**Teacher-Guided Policy Optimization for LLM Distillation**|Xinyu Liu et.al.|[2605.13230](http://arxiv.org/abs/2605.13230)|null|
 |**2026-05-13**|**Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective**|Feng Zhang et.al.|[2605.12969](http://arxiv.org/abs/2605.12969)|null|
-|**2026-05-12**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
-|**2026-05-12**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
-|**2026-05-12**|**Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control**|Jiazheng Zhang et.al.|[2605.11775](http://arxiv.org/abs/2605.11775)|null|
+|**2026-05-14**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
+|**2026-05-13**|**Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation**|Che Liu et.al.|[2605.12034](http://arxiv.org/abs/2605.12034)|null|
+|**2026-05-14**|**Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control**|Jiazheng Zhang et.al.|[2605.11775](http://arxiv.org/abs/2605.11775)|null|
 |**2026-05-12**|**Evolutionary Task Discovery: Advancing Reasoning Frontiers via Skill Composition and Complexity Scaling**|Liqin Ye et.al.|[2605.11666](http://arxiv.org/abs/2605.11666)|null|
 |**2026-05-12**|**Seirênes: Adversarial Self-Play with Evolving Distractions for LLM Reasoning**|Chi Zhang et.al.|[2605.11636](http://arxiv.org/abs/2605.11636)|null|
-|**2026-05-12**|**CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG**|Jianghan Shen et.al.|[2605.11611](http://arxiv.org/abs/2605.11611)|null|
+|**2026-05-14**|**CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG**|Jianghan Shen et.al.|[2605.11611](http://arxiv.org/abs/2605.11611)|null|
 |**2026-05-12**|**Understanding and Preventing Entropy Collapse in RLVR with On-Policy Entropy Flow Optimization**|Huimin Xu et.al.|[2605.11491](http://arxiv.org/abs/2605.11491)|null|
 |**2026-05-12**|**Breaking $\textit{Winner-Takes-All}$ : Cooperative Policy Optimization Improves Diverse LLM Reasoning**|Haoxuan Chen et.al.|[2605.11461](http://arxiv.org/abs/2605.11461)|null|
 |**2026-05-12**|**fg-expo: Frontier-guided exploration-prioritized policy optimization via adaptive kl and gaussian curriculum**|Mingxiong Lin et.al.|[2605.11403](http://arxiv.org/abs/2605.11403)|null|
@@ -516,6 +526,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Learning from Language Feedback via Variational Policy Distillation**|Yang Li et.al.|[2605.15113](http://arxiv.org/abs/2605.15113)|null|
+|**2026-05-14**|**Improving Multi-turn Dialogue Consistency with Self-Recall Thinking**|Renning Pang et.al.|[2605.15102](http://arxiv.org/abs/2605.15102)|null|
+|**2026-05-14**|**Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance**|Kai Yan et.al.|[2605.15012](http://arxiv.org/abs/2605.15012)|null|
+|**2026-05-14**|**Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards**|Mengjie Ren et.al.|[2605.14539](http://arxiv.org/abs/2605.14539)|null|
+|**2026-05-13**|**Generative Floor Plan Design with LLMs via Reinforcement Learning with Verifiable Rewards**|Luis Lara et.al.|[2605.14117](http://arxiv.org/abs/2605.14117)|null|
 |**2026-05-13**|**Reward-Weighted On-Policy Distillation with an Open Property-Equivalence Verifier for NL-to-SVA Generation**|Qingyun Zou et.al.|[2605.13501](http://arxiv.org/abs/2605.13501)|null|
 |**2026-05-13**|**PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning**|Hee Suk Yoon et.al.|[2605.13467](http://arxiv.org/abs/2605.13467)|null|
 |**2026-05-13**|**Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling**|Yafu Li et.al.|[2605.13301](http://arxiv.org/abs/2605.13301)|null|
@@ -525,7 +540,7 @@
 |**2026-05-12**|**AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**|Runhui Huang et.al.|[2605.12495](http://arxiv.org/abs/2605.12495)|null|
 |**2026-05-12**|**Reward Hacking in Rubric-Based Reinforcement Learning**|Anas Mahmoud et.al.|[2605.12474](http://arxiv.org/abs/2605.12474)|null|
 |**2026-05-12**|**OGLS-SD: On-Policy Self-Distillation with Outcome-Guided Logit Steering for LLM Reasoning**|Yuxiao Yang et.al.|[2605.12400](http://arxiv.org/abs/2605.12400)|null|
-|**2026-05-12**|**Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control**|Jiazheng Zhang et.al.|[2605.11775](http://arxiv.org/abs/2605.11775)|null|
+|**2026-05-14**|**Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control**|Jiazheng Zhang et.al.|[2605.11775](http://arxiv.org/abs/2605.11775)|null|
 |**2026-05-12**|**Evolutionary Task Discovery: Advancing Reasoning Frontiers via Skill Composition and Complexity Scaling**|Liqin Ye et.al.|[2605.11666](http://arxiv.org/abs/2605.11666)|null|
 |**2026-05-12**|**Seirênes: Adversarial Self-Play with Evolving Distractions for LLM Reasoning**|Chi Zhang et.al.|[2605.11636](http://arxiv.org/abs/2605.11636)|null|
 |**2026-05-12**|**CuSearch: Curriculum Rollout Sampling via Search Depth for Agentic RAG**|Jianghan Shen et.al.|[2605.11611](http://arxiv.org/abs/2605.11611)|null|
